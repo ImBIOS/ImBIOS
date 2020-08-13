@@ -9,7 +9,7 @@
 
 | I live in **Indonesia**  |
 |---|
-| <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width = "200px">  | 
+| <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width = "400px">  | 
 
 **🔭 Current Project:** undefined
 
