@@ -1,23 +1,23 @@
 ### Hi there 👋
-<h1 align="left">👋 Welcome to my Github!</h3>
+<h1 align="left">👋 Welcome to my Hackspace!</h3>
 
 <p align="left">
-  <a href="#">Web</a> •
-  <a href="#">Twitter</a> •
-  <a href="#">Instagram</a>
+  <a href="https://www.excampur.com/">Web</a> •
+  <a href="https://twitter.com/ImamuzzakiS">Twitter</a> •
+  <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
 
 | I live in **Indonesia**  |
 |---|
 | <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width = "400px">  | 
 
-**🔭 Current Project:** undefined
+**🔭 Current Project:** COVID-19 Data Website
 
-**🌱 Currently Learning:** undefined
+**🌱 Currently Learning:** Javascript ES6
 
-**🤔 Thinking about:** undefined
+**🤔 Thinking about:** Hacking Learning by Community
 
-**📫 Email me:** undefined
+**📫 Email me:** imamuzzaki@gmail.com
 
 **😄 Pronouns:** he/him/his
 
