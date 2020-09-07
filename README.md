@@ -11,9 +11,9 @@
 |---|
 | <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width = "400px">  | 
 
-**🔭 Current Project:** COVID-19 Data Website
+**🔭 Current Project:** Serverless Computer Based Test
 
-**🌱 Currently Learning:** Javascript ES6
+**🌱 Currently Learning:** Next.js
 
 **🤔 Thinking about:** Hacking Learning by Community
 
