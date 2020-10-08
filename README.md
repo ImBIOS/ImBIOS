@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="left">👋 Welcome to my Hackspace!</h3>
+<h1 align="left">👋 Welcome to my Hackerspace!</h3>
 
 <p align="left">
   <a href="https://www.excampur.com/">Web</a> •
