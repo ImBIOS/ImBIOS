@@ -6,6 +6,8 @@
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
 
+![ImBIOS's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=imbios)
+
 | I live in **Indonesia**  |
 |---|
 | <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width = "400px">  | 
