@@ -13,7 +13,7 @@
 | <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  | 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact)
-![ImBIOS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imbios)
+![ImBIOS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS)
 
 <div style="float:right">
 **🔭 Current Project:** Serverless Computer Based Test
