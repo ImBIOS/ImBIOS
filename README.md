@@ -24,7 +24,7 @@
 
 </div>
 
-<div align="left" width="50%">
+<div align="right" width="50%">
 
 <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
