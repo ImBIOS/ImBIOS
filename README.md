@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
 
-<div style="float:left; width:50%">
+<div align="left" width="50%">
 
 | I live in **Indonesia**  |
 |---|
@@ -24,7 +24,7 @@
 
 </div>
 
-<div style="float:right; width:50%">
+<div align="left" width="50%">
 
 <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
