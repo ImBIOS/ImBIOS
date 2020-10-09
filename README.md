@@ -10,7 +10,7 @@
 
 | I live in **Indonesia**  |
 |---|
-| <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width = "50%" align="left">  | 
+| <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  | 
 
 **🔭 Current Project:** Serverless Computer Based Test
 
