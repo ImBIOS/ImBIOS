@@ -36,7 +36,24 @@
 #### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sosweeeeert">
+        <img src="https://avatars2.githubusercontent.com/u/71360685" width="100px;" alt="sosweeeeert"/>
+      </a>
+      <br />
+      <a href="https://github.com/sosweeeeert">Fauzi Sufyan P.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TegarAditya">
+        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
+      </a>
+      <br />
+      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 </div>
