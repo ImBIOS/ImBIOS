@@ -12,7 +12,7 @@
 |---|
 | <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  | 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact)
 
 <div style="float:right">
 **🔭 Current Project:** Serverless Computer Based Test
