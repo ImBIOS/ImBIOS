@@ -12,6 +12,7 @@
 |---|
 | <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  | 
 
+<div align="right">
 **🔭 Current Project:** Serverless Computer Based Test
 
 **🌱 Currently Learning:** Next.js
@@ -21,7 +22,7 @@
 **📫 Email me:** imamuzzaki@gmail.com
 
 **😄 Pronouns:** he/him/his
-
+</div>
 <!-- Here are some random photos with no context from my life:
 
 <img src ="#" height = "200px">  <img src ="#" height = "200px"> <img src ="#" height = "200px">
