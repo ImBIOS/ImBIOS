@@ -25,7 +25,7 @@
 </div>
 <div class="right" style="float:right; width:50%">
 <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
-<img alt="ImBIOS's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact" width="100%">
+<img alt="ImBIOS's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact" width="495px">
 <img alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 </div>
 
