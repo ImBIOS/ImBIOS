@@ -6,6 +6,15 @@
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
 
+<table align="right" width="50%">
+<tr>
+    <th> I live in Indonesia </th>
+  </tr>
+  <tr>
+    <td> <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  </td>
+  </tr>
+</table>
+
 **🔭 Current Project:** Serverless Computer Based Test
 
 **🌱 Currently Learning:** Next.js
@@ -16,24 +25,11 @@
 
 **😄 Pronouns:** he/him/his
 
-<div align="right" width="30%">
-
-<table>
-<tr>
-    <th> I live in Indonesia </th>
-  </tr>
-  <tr>
-    <td> <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  </td>
-  </tr>
-</table>
-
 <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
-<img alt="ImBIOS's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
+<img alt="ImBIOS's Top Lang" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
 
-<img alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
-
-</div>
+<img alt="ImBIOS's Wakatime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 
 ---
 
