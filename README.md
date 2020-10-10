@@ -5,7 +5,7 @@
   <a href="https://twitter.com/ImamuzzakiS">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
-<table cellspacing="0" cellpadding="0" border="0" align="right" width="40%">
+<table align="right" width="30%">
 <tr>
     <th> I live in Indonesia </th>
   </tr>
