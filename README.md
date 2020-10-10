@@ -34,7 +34,7 @@
 #### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
-<table width="50%">
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/sosweeeeert">
