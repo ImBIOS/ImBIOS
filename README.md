@@ -5,7 +5,7 @@
   <a href="https://twitter.com/ImamuzzakiS">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
-<table cellspacing="0" cellpadding="0" border="0" align="right" width="50%">
+<table cellspacing="0" cellpadding="0" border="0" align="right" width="40%">
 <tr>
     <th> I live in Indonesia </th>
   </tr>
@@ -27,9 +27,9 @@
 
 **😄 Pronouns:** he/him/his
 
-<img alt="ImBIOS's Github Stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
+<img alt="ImBIOS's Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
-<img alt="ImBIOS's Wakatime Stats" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
+<img alt="ImBIOS's Wakatime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 
 #### :sparkles: My Followers
 
