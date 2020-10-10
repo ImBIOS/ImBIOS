@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
     followers.sort(reverse = True)
 
-    html = "<table width="50%">\n"
+    html = '<table width="50%">\n'
 
     for i in range(min(len(followers), 14)):
         login = followers[i][1]
