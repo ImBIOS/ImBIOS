@@ -5,7 +5,7 @@
   <a href="https://twitter.com/ImamuzzakiS">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
-<table align="right" width="50%">
+<table border="0" align="right" width="50%">
 <tr>
     <th> I live in Indonesia </th>
   </tr>
@@ -30,8 +30,6 @@
 <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
 <img alt="ImBIOS's Wakatime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
-
----
 
 #### :sparkles: My Followers
 
