@@ -6,11 +6,21 @@
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
 
-<div align="left" width="50%">
+<div style="float:left;width:50%">
 
 | I live in **Indonesia**  |
 |---|
 | <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  | 
+
+</div>
+
+<div style="float:right;width:50%">
+
+<img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
+
+<img alt="ImBIOS's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
+
+<img alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 
 **🔭 Current Project:** Serverless Computer Based Test
 
@@ -21,16 +31,6 @@
 **📫 Email me:** imamuzzaki@gmail.com
 
 **😄 Pronouns:** he/him/his
-
-</div>
-
-<div align="right" width="50%">
-
-<img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
-
-<img alt="ImBIOS's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
-
-<img alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 
 </div>
 
