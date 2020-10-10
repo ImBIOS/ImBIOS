@@ -27,9 +27,9 @@
 
 **😄 Pronouns:** he/him/his
 
-<img alt="ImBIOS's Github Stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
+<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
-<img alt="ImBIOS's Wakatime Stats" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
+<img alt="ImBIOS's Wakatime Stats" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 
 #### :sparkles: My Followers
 
