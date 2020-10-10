@@ -10,7 +10,7 @@
     <th> I live in Indonesia </th>
   </tr>
   <tr>
-    <td> <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" align="center">  </td>
+    <td> <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="50%" align="center">  </td>
   </tr>
   <tr>
     <td> <img alt="ImBIOS's Top Lang" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">  </td>
