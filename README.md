@@ -50,6 +50,13 @@
       <br />
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/NotWeebs">
+        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="NotWeebs"/>
+      </a>
+      <br />
+      <a href="https://github.com/NotWeebs">Dito Kostolani F</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
