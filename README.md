@@ -37,6 +37,13 @@
 <table  width="45%">
   <tr>
     <td align="center">
+      <a href="https://github.com/codeyzx">
+        <img src="https://avatars2.githubusercontent.com/u/66135510" width="100px;" alt="codeyzx"/>
+      </a>
+      <br />
+      <a href="https://github.com/codeyzx">Yahya Alfon Sinaga</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sosweeeeert">
         <img src="https://avatars2.githubusercontent.com/u/71360685" width="100px;" alt="sosweeeeert"/>
       </a>
