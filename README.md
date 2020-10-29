@@ -1,11 +1,11 @@
 <h1>👋 Welcome to my Hackerspace!</h3>
 
-<p>
+<p align="right">
   <a href="https://www.excampur.com/">Web</a> •
   <a href="https://twitter.com/ImamuzzakiS">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
-<table cellspacing="0" cellpadding="0" border="0" align="right" width="50%">
+<table cellspacing="0" cellpadding="0" border="0" width="50%">
 <tr>
     <th> I live in Indonesia </th>
   </tr>
@@ -16,6 +16,7 @@
     <td> <img alt="ImBIOS's Top Lang" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">  </td>
   </tr>
 </table>
+<div align="right">
 
 **🔭 Current Project:** Serverless Computer Based Test
 
@@ -27,9 +28,11 @@
 
 **😄 Pronouns:** he/him/his
 
-<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
+</div>
 
-<img alt="ImBIOS's Wakatime Stats" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
+<img align="right" alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
+
+<img align="right" alt="ImBIOS's Wakatime Stats" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 
 #### :sparkles: My Followers
 
