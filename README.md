@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
 
-<h2 align="right">I live in Indonesia</h2>
+<b align="right">I live in Indonesia</b>
 
 <img align="right" src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="40%">
 
