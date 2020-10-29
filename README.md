@@ -12,9 +12,6 @@
   <tr>
     <td> <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  </td>
   </tr>
-  <tr>
-    <td> <img alt="ImBIOS's Top Lang" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">  </td>
-  </tr>
 </table>
 
 **🔭 Current Project:** Serverless Computer Based Test
@@ -27,9 +24,11 @@
 
 **😄 Pronouns:** he/him/his
 
-<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
+<img alt="ImBIOS's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
-<img alt="ImBIOS's Wakatime Stats" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
+<img alt="ImBIOS's Wakatime Stats"  src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
+
+<img alt="ImBIOS's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
 
 #### :sparkles: My Followers
 
