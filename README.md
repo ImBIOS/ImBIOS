@@ -33,7 +33,7 @@
 #### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
-<table  width="45%">
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/codeyzx">
