@@ -5,12 +5,15 @@
   <a href="https://twitter.com/ImamuzzakiS">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
-<table cellspacing="0" cellpadding="0" border="0" align="right" width="30%">
+<table cellspacing="0" cellpadding="0" border="0" align="right" width="50%">
 <tr>
     <th> I live in Indonesia </th>
   </tr>
   <tr>
     <td> <img src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="100%" align="center">  </td>
+  </tr>
+  <tr>
+    <td> <img alt="ImBIOS's Top Lang" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">  </td>
   </tr>
 </table>
 
@@ -24,24 +27,15 @@
 
 **😄 Pronouns:** he/him/his
 
-<img alt="ImBIOS's Github Stats" width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
+<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
 <img alt="ImBIOS's Wakatime Stats" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
-
-<img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
 
 #### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
-<table>
+<table  width="40%">
   <tr>
-    <td align="center">
-      <a href="https://github.com/codeyzx">
-        <img src="https://avatars2.githubusercontent.com/u/66135510" width="100px;" alt="codeyzx"/>
-      </a>
-      <br />
-      <a href="https://github.com/codeyzx">Yahya Alfon Sinaga</a>
-    </td>
     <td align="center">
       <a href="https://github.com/sosweeeeert">
         <img src="https://avatars2.githubusercontent.com/u/71360685" width="100px;" alt="sosweeeeert"/>
@@ -55,13 +49,6 @@
       </a>
       <br />
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NotWeebs">
-        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="NotWeebs"/>
-      </a>
-      <br />
-      <a href="https://github.com/NotWeebs">Dito Kostolani F</a>
     </td>
   </tr>
 </table>
