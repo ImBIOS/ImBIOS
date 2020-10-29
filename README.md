@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
 
-**I live in Indonesia**
+<h2 align="right">I live in Indonesia</h2>
 
 <img align="right" src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="40%">
 
@@ -22,9 +22,9 @@
 
 <img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=imbios&show_icons=true">
 
-<img align="right" alt="ImBIOS's Wakatime Stats" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
+<img align="right" width="40%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS">
 
-<img alt="ImBIOS's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
+<img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact">
 
 #### :sparkles: My Followers
 
