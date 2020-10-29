@@ -8,7 +8,7 @@
 
 **I live in Indonesia**
 
-<img align="right" src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="30%">
+<img align="right" src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="50%">
 
 **🔭 Current Project:** Serverless Computer Based Test
 
