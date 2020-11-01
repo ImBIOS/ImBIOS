@@ -53,11 +53,11 @@
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NotWeebs">
-        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="NotWeebs"/>
+      <a href="https://github.com/Dittsxa">
+        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
       </a>
       <br />
-      <a href="https://github.com/NotWeebs">Dito Kostolani F</a>
+      <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
     </td>
   </tr>
 </table>
