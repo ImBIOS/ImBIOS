@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/rimaaugustine">
+        <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
+      </a>
+      <br />
+      <a href="https://github.com/rimaaugustine">Rima Augustine</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/codeyzx">
         <img src="https://avatars2.githubusercontent.com/u/66135510" width="100px;" alt="codeyzx"/>
       </a>
