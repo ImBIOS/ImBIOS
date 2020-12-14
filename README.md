@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/hkatzdev">
+        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/hkatzdev">Harrison Katz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rimaaugustine">
         <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
       </a>
