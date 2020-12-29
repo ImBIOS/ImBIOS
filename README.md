@@ -73,6 +73,13 @@
       <br />
       <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/embrom">
+        <img src="https://avatars2.githubusercontent.com/u/69919107" width="100px;" alt="embrom"/>
+      </a>
+      <br />
+      <a href="https://github.com/embrom">Steve Harris</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
