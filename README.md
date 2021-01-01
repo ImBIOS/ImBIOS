@@ -8,7 +8,7 @@
 
 <p align="right"><b>I live in Indonesia</b></p>
 
-<img align="right" src ="https://source.unsplash.com/400x400/?flag,landscape,indonesia" width="40%">
+<img align="right" src ="https://flagcdn.com/256x192/id.webp" width="160px">
 
 **🔭 Current Project:** Serverless Computer Based Test
 
