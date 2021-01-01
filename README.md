@@ -8,7 +8,7 @@
 
 <p align="right"><b>I live in Indonesia</b></p>
 
-<img align="right" src ="https://flagcdn.com/256x192/id.webp">
+<img align="right" src ="https://flagcdn.com/256x192/id.webp" width="40%">
 
 **🔭 Current Project:** Serverless Computer Based Test
 
