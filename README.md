@@ -46,13 +46,6 @@
       <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
     <td align="center">
-      <a href="https://github.com/codeyzx">
-        <img src="https://avatars2.githubusercontent.com/u/66135510" width="100px;" alt="codeyzx"/>
-      </a>
-      <br />
-      <a href="https://github.com/codeyzx">Yahya Alfon Sinaga</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sosweeeeert">
         <img src="https://avatars2.githubusercontent.com/u/71360685" width="100px;" alt="sosweeeeert"/>
       </a>
@@ -67,18 +60,18 @@
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dittsxa">
-        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/embrom">
         <img src="https://avatars2.githubusercontent.com/u/69919107" width="100px;" alt="embrom"/>
       </a>
       <br />
       <a href="https://github.com/embrom">Steve Harris</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dittsxa">
+        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
     </td>
   </tr>
 </table>
