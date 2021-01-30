@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/sampoder">
+        <img src="https://avatars2.githubusercontent.com/u/39828164" width="100px;" alt="sampoder"/>
+      </a>
+      <br />
+      <a href="https://github.com/sampoder">Sam Poder</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
