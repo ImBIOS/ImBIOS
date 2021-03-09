@@ -53,6 +53,13 @@
       <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
     <td align="center">
+      <a href="https://github.com/olganedelcu">
+        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
+      </a>
+      <br />
+      <a href="https://github.com/olganedelcu">Olga Nedelcu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
       </a>
@@ -73,6 +80,8 @@
       <br />
       <a href="https://github.com/embrom">Steve Harris</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Dittsxa">
         <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
