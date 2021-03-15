@@ -46,18 +46,18 @@
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rimaaugustine">
-        <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
-      </a>
-      <br />
-      <a href="https://github.com/rimaaugustine">Rima Augustine</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/olganedelcu">
         <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
       </a>
       <br />
       <a href="https://github.com/olganedelcu">Olga Nedelcu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rimaaugustine">
+        <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
+      </a>
+      <br />
+      <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
     <td align="center">
       <a href="https://github.com/TegarAditya">
