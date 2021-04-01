@@ -74,14 +74,21 @@
       <a href="https://github.com/sosweeeeert">Fauzi Sufyan P.</a>
     </td>
     <td align="center">
+      <a href="https://github.com/dbsSensei">
+        <img src="https://avatars2.githubusercontent.com/u/63213874" width="100px;" alt="dbsSensei"/>
+      </a>
+      <br />
+      <a href="https://github.com/dbsSensei">dbsSensei</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/embrom">
         <img src="https://avatars2.githubusercontent.com/u/69919107" width="100px;" alt="embrom"/>
       </a>
       <br />
       <a href="https://github.com/embrom">Steve Harris</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Dittsxa">
         <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
