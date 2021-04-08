@@ -5,6 +5,7 @@
   <a href="https://twitter.com/ImamuzzakiS">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16/">Instagram</a>
 </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=ImBIOS alt=ImBIOS/> </p>
 
 <p align="right"><b>I live in Indonesia</b></p>
 
