@@ -69,27 +69,27 @@
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Dittsxa">
+        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sosweeeeert">
         <img src="https://avatars2.githubusercontent.com/u/71360685" width="100px;" alt="sosweeeeert"/>
       </a>
       <br />
       <a href="https://github.com/sosweeeeert">Fauzi Sufyan P.</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dbsSensei">
         <img src="https://avatars2.githubusercontent.com/u/63213874" width="100px;" alt="dbsSensei"/>
       </a>
       <br />
       <a href="https://github.com/dbsSensei">dbsSensei</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Dittsxa">
-        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
     </td>
     <td align="center">
       <a href="https://github.com/embrom">
