@@ -52,7 +52,7 @@
         <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
       </a>
       <br />
-      <a href="https://github.com/olganedelcu">Olga Nedelcu</a>
+      <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
       <a href="https://github.com/rimaaugustine">
@@ -62,11 +62,34 @@
       <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
     <td align="center">
+      <a href="https://github.com/tbadhit">
+        <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
+      </a>
+      <br />
+      <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
       </a>
       <br />
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sainrahmani12">
+        <img src="https://avatars2.githubusercontent.com/u/90170176" width="100px;" alt="Sainrahmani12"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sainrahmani12">Sainrahmani12</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rizqiumar">
+        <img src="https://avatars2.githubusercontent.com/u/90170561" width="100px;" alt="Rizqiumar"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rizqiumar">Rizqi umar pariz</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dittsxa">
@@ -82,14 +105,19 @@
       <br />
       <a href="https://github.com/sosweeeeert">Fauzi Sufyan P.</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dbsSensei">
         <img src="https://avatars2.githubusercontent.com/u/63213874" width="100px;" alt="dbsSensei"/>
       </a>
       <br />
       <a href="https://github.com/dbsSensei">dbsSensei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rodhisz">
+        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
+      </a>
+      <br />
+      <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
     <td align="center">
       <a href="https://github.com/embrom">
