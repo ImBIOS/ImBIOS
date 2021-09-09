@@ -69,12 +69,21 @@
       <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Ahnaffaiz">
+        <img src="https://avatars2.githubusercontent.com/u/47492309" width="100px;" alt="Ahnaffaiz"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ahnaffaiz">Ahnaffaiz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rodhisz">
         <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
       </a>
       <br />
       <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
@@ -82,8 +91,6 @@
       <br />
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Sainrahmani12">
         <img src="https://avatars2.githubusercontent.com/u/90170176" width="100px;" alt="Sainrahmani12"/>
