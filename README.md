@@ -34,6 +34,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/nelsonic">
+        <img src="https://avatars2.githubusercontent.com/u/194400" width="100px;" alt="nelsonic"/>
+      </a>
+      <br />
+      <a href="https://github.com/nelsonic">Nelson</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sampoder">
         <img src="https://avatars2.githubusercontent.com/u/39828164" width="100px;" alt="sampoder"/>
       </a>
@@ -41,11 +48,25 @@
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ErfanRht">
+        <img src="https://avatars2.githubusercontent.com/u/68302442" width="100px;" alt="ErfanRht"/>
+      </a>
+      <br />
+      <a href="https://github.com/ErfanRht">Erfan Rahmati</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/khalilcharfi">
+        <img src="https://avatars2.githubusercontent.com/u/4891848" width="100px;" alt="khalilcharfi"/>
+      </a>
+      <br />
+      <a href="https://github.com/khalilcharfi">Khalil Charfi</a>
     </td>
     <td align="center">
       <a href="https://github.com/olganedelcu">
@@ -61,6 +82,8 @@
       <br />
       <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/tbadhit">
         <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
@@ -82,8 +105,6 @@
       <br />
       <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
@@ -111,27 +132,6 @@
       </a>
       <br />
       <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sosweeeeert">
-        <img src="https://avatars2.githubusercontent.com/u/71360685" width="100px;" alt="sosweeeeert"/>
-      </a>
-      <br />
-      <a href="https://github.com/sosweeeeert">Fauzi Sufyan P.</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dbsSensei">
-        <img src="https://avatars2.githubusercontent.com/u/63213874" width="100px;" alt="dbsSensei"/>
-      </a>
-      <br />
-      <a href="https://github.com/dbsSensei">dbsSensei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/embrom">
-        <img src="https://avatars2.githubusercontent.com/u/69919107" width="100px;" alt="embrom"/>
-      </a>
-      <br />
-      <a href="https://github.com/embrom">Steve Harris</a>
     </td>
   </tr>
 </table>
