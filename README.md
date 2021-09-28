@@ -99,6 +99,13 @@
       <a href="https://github.com/Ahnaffaiz">Ahnaffaiz</a>
     </td>
     <td align="center">
+      <a href="https://github.com/TegarAditya">
+        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
+      </a>
+      <br />
+      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Rizqiumar">
         <img src="https://avatars2.githubusercontent.com/u/90170561" width="100px;" alt="Rizqiumar"/>
       </a>
@@ -111,13 +118,6 @@
       </a>
       <br />
       <a href="https://github.com/rodhisz">rodhisz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TegarAditya">
-        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
-      </a>
-      <br />
-      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sainrahmani12">
