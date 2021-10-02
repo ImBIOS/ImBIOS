@@ -76,14 +76,21 @@
       <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
+      <a href="https://github.com/asyarialmuslimin">
+        <img src="https://avatars2.githubusercontent.com/u/20391547" width="100px;" alt="asyarialmuslimin"/>
+      </a>
+      <br />
+      <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/rimaaugustine">
         <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
       </a>
       <br />
       <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tbadhit">
         <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
@@ -125,13 +132,6 @@
       </a>
       <br />
       <a href="https://github.com/Sainrahmani12">Sainrahmani12</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dittsxa">
-        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
     </td>
   </tr>
 </table>
