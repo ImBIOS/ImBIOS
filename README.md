@@ -55,18 +55,18 @@
       <a href="https://github.com/ErfanRht">Erfan Rahmati</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hkatzdev">
-        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/hkatzdev">Harrison Katz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/khalilcharfi">
         <img src="https://avatars2.githubusercontent.com/u/4891848" width="100px;" alt="khalilcharfi"/>
       </a>
       <br />
       <a href="https://github.com/khalilcharfi">Khalil Charfi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hkatzdev">
+        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
     <td align="center">
       <a href="https://github.com/olganedelcu">
