@@ -76,14 +76,21 @@
       <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
+      <a href="https://github.com/TegarAditya">
+        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
+      </a>
+      <br />
+      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/asyarialmuslimin">
         <img src="https://avatars2.githubusercontent.com/u/20391547" width="100px;" alt="asyarialmuslimin"/>
       </a>
       <br />
       <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rimaaugustine">
         <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
@@ -97,13 +104,6 @@
       </a>
       <br />
       <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TegarAditya">
-        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
-      </a>
-      <br />
-      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ahnaffaiz">
