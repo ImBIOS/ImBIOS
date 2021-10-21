@@ -48,13 +48,6 @@
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ErfanRht">
-        <img src="https://avatars2.githubusercontent.com/u/68302442" width="100px;" alt="ErfanRht"/>
-      </a>
-      <br />
-      <a href="https://github.com/ErfanRht">Erfan Rahmati</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/khalilcharfi">
         <img src="https://avatars2.githubusercontent.com/u/4891848" width="100px;" alt="khalilcharfi"/>
       </a>
@@ -69,6 +62,13 @@
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
     <td align="center">
+      <a href="https://github.com/TegarAditya">
+        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
+      </a>
+      <br />
+      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/olganedelcu">
         <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
       </a>
@@ -76,21 +76,14 @@
       <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
-      <a href="https://github.com/TegarAditya">
-        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
-      </a>
-      <br />
-      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/asyarialmuslimin">
         <img src="https://avatars2.githubusercontent.com/u/20391547" width="100px;" alt="asyarialmuslimin"/>
       </a>
       <br />
       <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rimaaugustine">
         <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
@@ -132,6 +125,13 @@
       </a>
       <br />
       <a href="https://github.com/Sainrahmani12">Sainrahmani12</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dittsxa">
+        <img src="https://avatars2.githubusercontent.com/u/71435701" width="100px;" alt="Dittsxa"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dittsxa">Dito Kostolani F</a>
     </td>
   </tr>
 </table>
