@@ -113,18 +113,18 @@
       <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Rizqiumar">
-        <img src="https://avatars2.githubusercontent.com/u/90170561" width="100px;" alt="Rizqiumar"/>
-      </a>
-      <br />
-      <a href="https://github.com/Rizqiumar">Rizqi umar pariz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/risnanto73">
         <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rizqiumar">
+        <img src="https://avatars2.githubusercontent.com/u/90170561" width="100px;" alt="Rizqiumar"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rizqiumar">Rizqi umar pariz</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sainrahmani12">
