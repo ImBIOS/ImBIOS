@@ -62,6 +62,13 @@
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nardiyansah">
+        <img src="https://avatars2.githubusercontent.com/u/41910581" width="100px;" alt="nardiyansah"/>
+      </a>
+      <br />
+      <a href="https://github.com/nardiyansah">nardiyansah</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
       </a>
@@ -75,6 +82,8 @@
       <br />
       <a href="https://github.com/olganedelcu">Olga </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/asyarialmuslimin">
         <img src="https://avatars2.githubusercontent.com/u/20391547" width="100px;" alt="asyarialmuslimin"/>
@@ -82,8 +91,6 @@
       <br />
       <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tbadhit">
         <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
@@ -125,13 +132,6 @@
       </a>
       <br />
       <a href="https://github.com/Rizqiumar">Rizqi umar pariz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sainrahmani12">
-        <img src="https://avatars2.githubusercontent.com/u/90170176" width="100px;" alt="Sainrahmani12"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sainrahmani12">Sainrahmani12</a>
     </td>
   </tr>
 </table>
