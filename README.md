@@ -85,18 +85,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/asyarialmuslimin">
-        <img src="https://avatars2.githubusercontent.com/u/20391547" width="100px;" alt="asyarialmuslimin"/>
-      </a>
-      <br />
-      <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tbadhit">
         <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
       </a>
       <br />
       <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/asyarialmuslimin">
+        <img src="https://avatars2.githubusercontent.com/u/20391547" width="100px;" alt="asyarialmuslimin"/>
+      </a>
+      <br />
+      <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
     </td>
     <td align="center">
       <a href="https://github.com/rimaaugustine">
@@ -113,18 +113,18 @@
       <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ahnaffaiz">
-        <img src="https://avatars2.githubusercontent.com/u/47492309" width="100px;" alt="Ahnaffaiz"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ahnaffaiz">Ahnaffaiz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/risnanto73">
         <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ahnaffaiz">
+        <img src="https://avatars2.githubusercontent.com/u/47492309" width="100px;" alt="Ahnaffaiz"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ahnaffaiz">Ahnaffaiz</a>
     </td>
     <td align="center">
       <a href="https://github.com/Rizqiumar">
