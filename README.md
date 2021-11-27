@@ -76,20 +76,20 @@
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/olganedelcu">
-        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
-      </a>
-      <br />
-      <a href="https://github.com/olganedelcu">Olga </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/tbadhit">
         <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
       </a>
       <br />
       <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/olganedelcu">
+        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
+      </a>
+      <br />
+      <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
       <a href="https://github.com/asyarialmuslimin">
@@ -113,6 +113,13 @@
       <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
     <td align="center">
+      <a href="https://github.com/risnanto73">
+        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
+      </a>
+      <br />
+      <a href="https://github.com/risnanto73">Risnanto</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sainrahmani12">
         <img src="https://avatars2.githubusercontent.com/u/90170176" width="100px;" alt="Sainrahmani12"/>
       </a>
@@ -120,18 +127,11 @@
       <a href="https://github.com/Sainrahmani12">Sainrahmani12</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ahnaffaiz">
-        <img src="https://avatars2.githubusercontent.com/u/47492309" width="100px;" alt="Ahnaffaiz"/>
+      <a href="https://github.com/Mammuasyir">
+        <img src="https://avatars2.githubusercontent.com/u/89404937" width="100px;" alt="Mammuasyir"/>
       </a>
       <br />
-      <a href="https://github.com/Ahnaffaiz">Ahnaffaiz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/risnanto73">
-        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
-      </a>
-      <br />
-      <a href="https://github.com/risnanto73">Risnanto</a>
+      <a href="https://github.com/Mammuasyir">Mammuasyir</a>
     </td>
   </tr>
 </table>
