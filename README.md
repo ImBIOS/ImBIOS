@@ -106,18 +106,18 @@
       <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rodhisz">
-        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
-      </a>
-      <br />
-      <a href="https://github.com/rodhisz">rodhisz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/risnanto73">
         <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rodhisz">
+        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
+      </a>
+      <br />
+      <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sainrahmani12">
