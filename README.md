@@ -14,7 +14,7 @@
 
 **🔭 Current Project:** Youtube Videos
 
-**🌱 Currently Learning:** How to make a lot of money :)
+**🌱 Currently Learning:** How to get a lot of subscribers :)
 
 **🤔 Thinking about:** Hacking Learning by Community
 
