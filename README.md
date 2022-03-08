@@ -12,7 +12,7 @@
 
 <img align="right" src ="https://flagcdn.com/256x192/id.webp" width="50%">
 
-**🔭 Current Project:** Student Council Election Software
+**🔭 Current Project:** Youtube Videos
 
 **🌱 Currently Learning:** How to make a lot of money :)
 
