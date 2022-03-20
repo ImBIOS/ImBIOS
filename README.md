@@ -3,7 +3,8 @@
 <p>
   <a href="https://www.imam.dev/">Web</a> •
   <a href="https://twitter.com/imamdev_">Twitter</a> •
-  <a href="https://www.instagram.com/imamdev_">Instagram</a>
+  <a href="https://www.instagram.com/imamdev_">Instagram</a> •
+  <a href="https://bit.ly/ImamDev">Youtube</a>
 </p>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ImBIOS alt=ImBIOS/> </p>
 <p>Since 8 April 2021 at 8:16 AM</p>
