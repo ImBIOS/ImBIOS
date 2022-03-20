@@ -7,7 +7,7 @@
   <a href="https://bit.ly/ImamDev">Youtube</a>
 </p>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ImBIOS alt=ImBIOS/> </p>
-<p>Since 8 April 2021 at 8:16 AM</p>
+<!--<p>Since 8 April 2021 at 8:16 AM</p>-->
 
 <p align="right"><b>I live in Indonesia</b></p>
 
