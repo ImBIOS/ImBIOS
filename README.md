@@ -86,18 +86,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Syafiq1331">
-        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
-      </a>
-      <br />
-      <a href="https://github.com/Syafiq1331">Syafiq Rizky Fauzi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/olganedelcu">
         <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
       </a>
       <br />
       <a href="https://github.com/olganedelcu">Olga </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Syafiq1331">
+        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
+      </a>
+      <br />
+      <a href="https://github.com/Syafiq1331">Syafiq Rizky Fauzi</a>
     </td>
     <td align="center">
       <a href="https://github.com/asyarialmuslimin">
