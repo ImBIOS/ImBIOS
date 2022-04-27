@@ -19,7 +19,7 @@
 
 **🤔 Thinking about:** Hacking Learning by Community
 
-**📫 Email me:** imamuzzaki@gmail.com
+**📫 Email me:** hi@imam.dev
 
 **😄 Pronouns:** he/him/his
 
