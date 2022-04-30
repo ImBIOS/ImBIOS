@@ -86,18 +86,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/olganedelcu">
-        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
-      </a>
-      <br />
-      <a href="https://github.com/olganedelcu">Olga </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Syafiq1331">
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
       </a>
       <br />
       <a href="https://github.com/Syafiq1331">Syafiq Rizky Fauzi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/olganedelcu">
+        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
+      </a>
+      <br />
+      <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
       <a href="https://github.com/asyarialmuslimin">
@@ -114,18 +114,18 @@
       <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
     <td align="center">
-      <a href="https://github.com/risnanto73">
-        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
-      </a>
-      <br />
-      <a href="https://github.com/risnanto73">Risnanto</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rodhisz">
         <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
       </a>
       <br />
       <a href="https://github.com/rodhisz">rodhisz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/risnanto73">
+        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
+      </a>
+      <br />
+      <a href="https://github.com/risnanto73">Risnanto</a>
     </td>
     <td align="center">
       <a href="https://github.com/Mammuasyir">
