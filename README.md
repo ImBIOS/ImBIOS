@@ -81,20 +81,20 @@
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tbadhit">
-        <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
-      </a>
-      <br />
-      <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
       </a>
       <br />
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tbadhit">
+        <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
+      </a>
+      <br />
+      <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
     </td>
     <td align="center">
       <a href="https://github.com/Syafiq1331">
@@ -132,11 +132,11 @@
       <a href="https://github.com/Itsqy">muhammad rifqi syatria</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rodhisz">
-        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
+      <a href="https://github.com/risnanto73">
+        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
       <br />
-      <a href="https://github.com/rodhisz">rodhisz</a>
+      <a href="https://github.com/risnanto73">Risnanto</a>
     </td>
   </tr>
 </table>
