@@ -81,14 +81,21 @@
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Fasterdes">
+        <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fasterdes">Caldera</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/tbadhit">
         <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
       </a>
       <br />
       <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
@@ -130,13 +137,6 @@
       </a>
       <br />
       <a href="https://github.com/Itsqy">muhammad rifqi syatria</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rodhisz">
-        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
-      </a>
-      <br />
-      <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
   </tr>
 </table>
