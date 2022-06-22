@@ -104,6 +104,13 @@
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
+      <a href="https://github.com/archan0621">
+        <img src="https://avatars2.githubusercontent.com/u/54535550" width="100px;" alt="archan0621"/>
+      </a>
+      <br />
+      <a href="https://github.com/archan0621">JJONG</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/olganedelcu">
         <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
       </a>
@@ -130,13 +137,6 @@
       </a>
       <br />
       <a href="https://github.com/rimaaugustine">Rima Augustine</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Itsqy">
-        <img src="https://avatars2.githubusercontent.com/u/88478103" width="100px;" alt="Itsqy"/>
-      </a>
-      <br />
-      <a href="https://github.com/Itsqy">muhammad rifqi syatria</a>
     </td>
   </tr>
 </table>
