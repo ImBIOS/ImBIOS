@@ -90,6 +90,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/archan0621">
+        <img src="https://avatars2.githubusercontent.com/u/54535550" width="100px;" alt="archan0621"/>
+      </a>
+      <br />
+      <a href="https://github.com/archan0621">JJONG</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/tbadhit">
         <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
       </a>
@@ -104,11 +111,11 @@
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/archan0621">
-        <img src="https://avatars2.githubusercontent.com/u/54535550" width="100px;" alt="archan0621"/>
+      <a href="https://github.com/Syafiq1331">
+        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
       </a>
       <br />
-      <a href="https://github.com/archan0621">JJONG</a>
+      <a href="https://github.com/Syafiq1331">Syafiq Rizky Fauzi</a>
     </td>
     <td align="center">
       <a href="https://github.com/olganedelcu">
@@ -118,13 +125,6 @@
       <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Syafiq1331">
-        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
-      </a>
-      <br />
-      <a href="https://github.com/Syafiq1331">Syafiq Rizky Fauzi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/asyarialmuslimin">
         <img src="https://avatars2.githubusercontent.com/u/20391547" width="100px;" alt="asyarialmuslimin"/>
       </a>
@@ -132,11 +132,11 @@
       <a href="https://github.com/asyarialmuslimin">Ahmad Saifur Ridlo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rimaaugustine">
-        <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
+      <a href="https://github.com/rodhisz">
+        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
       </a>
       <br />
-      <a href="https://github.com/rimaaugustine">Rima Augustine</a>
+      <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
   </tr>
 </table>
