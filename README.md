@@ -115,7 +115,7 @@
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
       </a>
       <br />
-      <a href="https://github.com/Syafiq1331">Syafiq Rizky Fauzi</a>
+      <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
     <td align="center">
       <a href="https://github.com/olganedelcu">
