@@ -1,6 +1,7 @@
 <h1>👋 Welcome to my Hackerspace!</h3>
 <p>
   <a href="https://www.imam.dev/">Web</a> •
+  <a href="https://discordapp.com/users/363896575396806667">Discord</a> •
   <a href="https://twitter.com/imamdev_">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16">Instagram</a> •
   <a href="https://bit.ly/ImamDev">Youtube</a>
