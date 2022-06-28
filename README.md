@@ -91,18 +91,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/tbadhit">
-        <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
-      </a>
-      <br />
-      <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/archan0621">
         <img src="https://avatars2.githubusercontent.com/u/54535550" width="100px;" alt="archan0621"/>
       </a>
       <br />
       <a href="https://github.com/archan0621">JJONG</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tbadhit">
+        <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
+      </a>
+      <br />
+      <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
     </td>
     <td align="center">
       <a href="https://github.com/TegarAditya">
