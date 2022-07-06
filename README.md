@@ -98,13 +98,6 @@
       <a href="https://github.com/archan0621">JJONG</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tbadhit">
-        <img src="https://avatars2.githubusercontent.com/u/75456232" width="100px;" alt="tbadhit"/>
-      </a>
-      <br />
-      <a href="https://github.com/tbadhit">Tubagus Adhitya Permana</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/TegarAditya">
         <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
       </a>
@@ -138,6 +131,13 @@
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rimaaugustine">
+        <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
+      </a>
+      <br />
+      <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
   </tr>
 </table>
