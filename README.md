@@ -98,18 +98,18 @@
       <a href="https://github.com/archan0621">JJONG</a>
     </td>
     <td align="center">
-      <a href="https://github.com/TegarAditya">
-        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
-      </a>
-      <br />
-      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Syafiq1331">
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
       </a>
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TegarAditya">
+        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
+      </a>
+      <br />
+      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
       <a href="https://github.com/olganedelcu">
