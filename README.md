@@ -32,7 +32,10 @@
 
 #### :medal_military: My Badge
 
-<img src="https://badges.images.credential.net/1548277101436.png" width="150" height="150" />
+<div>
+<img src="https://badges.images.credential.net/1548277101436.png" width="150" height="150" float="left" />
+<img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="150" height="150" float="left" />
+</div>
 
 #### :sparkles: My Followers
 
