@@ -129,18 +129,18 @@
       <a href="https://github.com/emRival">Muhammad Rival</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rodhisz">
+        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
+      </a>
+      <br />
+      <a href="https://github.com/rodhisz">rodhisz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/risnanto73">
         <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rimaaugustine">
-        <img src="https://avatars2.githubusercontent.com/u/22922409" width="100px;" alt="rimaaugustine"/>
-      </a>
-      <br />
-      <a href="https://github.com/rimaaugustine">Rima Augustine</a>
     </td>
   </tr>
 </table>
