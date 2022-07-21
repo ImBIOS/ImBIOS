@@ -50,6 +50,13 @@
       <a href="https://github.com/nelsonic">Nelson</a>
     </td>
     <td align="center">
+      <a href="https://github.com/WAOSuper">
+        <img src="https://avatars2.githubusercontent.com/u/93519698" width="100px;" alt="WAOSuper"/>
+      </a>
+      <br />
+      <a href="https://github.com/WAOSuper">WAOSuper</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sampoder">
         <img src="https://avatars2.githubusercontent.com/u/39828164" width="100px;" alt="sampoder"/>
       </a>
@@ -84,6 +91,8 @@
       <br />
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Fasterdes">
         <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
@@ -91,8 +100,6 @@
       <br />
       <a href="https://github.com/Fasterdes">Caldera</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/archan0621">
         <img src="https://avatars2.githubusercontent.com/u/54535550" width="100px;" alt="archan0621"/>
@@ -122,13 +129,6 @@
       <a href="https://github.com/olganedelcu">Olga </a>
     </td>
     <td align="center">
-      <a href="https://github.com/emRival">
-        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
-      </a>
-      <br />
-      <a href="https://github.com/emRival">Muhammad Rival</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rodhisz">
         <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
       </a>
@@ -136,11 +136,11 @@
       <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/risnanto73">
-        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
-      <a href="https://github.com/risnanto73">Risnanto</a>
+      <a href="https://github.com/emRival">Muhammad Rival</a>
     </td>
   </tr>
 </table>
