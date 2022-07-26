@@ -122,13 +122,6 @@
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/olganedelcu">
-        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
-      </a>
-      <br />
-      <a href="https://github.com/olganedelcu">Olga </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rodhisz">
         <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
       </a>
@@ -136,11 +129,18 @@
       <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/emRival">
-        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      <a href="https://github.com/olganedelcu">
+        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
       </a>
       <br />
-      <a href="https://github.com/emRival">Muhammad Rival</a>
+      <a href="https://github.com/olganedelcu">Olga </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/risnanto73">
+        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
+      </a>
+      <br />
+      <a href="https://github.com/risnanto73">Risnanto</a>
     </td>
   </tr>
 </table>
