@@ -108,13 +108,6 @@
       <a href="https://github.com/archan0621">JJONG</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Syafiq1331">
-        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
-      </a>
-      <br />
-      <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/risnanto73">
         <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
@@ -141,6 +134,13 @@
       </a>
       <br />
       <a href="https://github.com/olganedelcu">Olga </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      </a>
+      <br />
+      <a href="https://github.com/emRival">Muhammad Rival</a>
     </td>
   </tr>
 </table>
