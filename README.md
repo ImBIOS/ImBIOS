@@ -50,18 +50,18 @@
       <a href="https://github.com/nelsonic">Nelson</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WAOSuper">
-        <img src="https://avatars2.githubusercontent.com/u/93519698" width="100px;" alt="WAOSuper"/>
-      </a>
-      <br />
-      <a href="https://github.com/WAOSuper">WAOSuper</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sampoder">
         <img src="https://avatars2.githubusercontent.com/u/39828164" width="100px;" alt="sampoder"/>
       </a>
       <br />
       <a href="https://github.com/sampoder">Sam Poder</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/algonacci">
+        <img src="https://avatars2.githubusercontent.com/u/86970816" width="100px;" alt="algonacci"/>
+      </a>
+      <br />
+      <a href="https://github.com/algonacci">Eric Julianto</a>
     </td>
     <td align="center">
       <a href="https://github.com/khalilcharfi">
@@ -71,12 +71,28 @@
       <a href="https://github.com/khalilcharfi">Khalil Charfi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/bagasstrongman">
+        <img src="https://avatars2.githubusercontent.com/u/54809734" width="100px;" alt="bagasstrongman"/>
+      </a>
+      <br />
+      <a href="https://github.com/bagasstrongman">Bagas Satria</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Hencya">
+        <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
+      </a>
+      <br />
+      <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fahminlb33">
         <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
@@ -91,8 +107,6 @@
       <br />
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Fasterdes">
         <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
@@ -108,6 +122,13 @@
       <a href="https://github.com/archan0621">JJONG</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rodhisz">
+        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
+      </a>
+      <br />
+      <a href="https://github.com/rodhisz">rodhisz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/risnanto73">
         <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
@@ -120,27 +141,6 @@
       </a>
       <br />
       <a href="https://github.com/TegarAditya">Tegar Aditya</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rodhisz">
-        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
-      </a>
-      <br />
-      <a href="https://github.com/rodhisz">rodhisz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/olganedelcu">
-        <img src="https://avatars2.githubusercontent.com/u/33576634" width="100px;" alt="olganedelcu"/>
-      </a>
-      <br />
-      <a href="https://github.com/olganedelcu">Olga </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/emRival">
-        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
-      </a>
-      <br />
-      <a href="https://github.com/emRival">Muhammad Rival</a>
     </td>
   </tr>
 </table>
