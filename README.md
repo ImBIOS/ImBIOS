@@ -94,6 +94,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/dzakdzaks">
+        <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
+      </a>
+      <br />
+      <a href="https://github.com/dzakdzaks">Dzaky</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fahminlb33">
         <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
       </a>
@@ -134,13 +141,6 @@
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TegarAditya">
-        <img src="https://avatars2.githubusercontent.com/u/71318821" width="100px;" alt="TegarAditya"/>
-      </a>
-      <br />
-      <a href="https://github.com/TegarAditya">Tegar Aditya</a>
     </td>
   </tr>
 </table>
