@@ -149,6 +149,8 @@
 ## 👩🏻‍💻 Tech Stack 
 <div>
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-804FFD.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img alt="Go" src ="https://img.shields.io/badge/Go-00AED9.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=React&logoColor=skyblue"/>
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.JS&logoColor=white"/>
