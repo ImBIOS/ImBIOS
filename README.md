@@ -78,18 +78,18 @@
       <a href="https://github.com/bagasstrongman">Bagas Satria</a>
     </td>
     <td align="center">
+      <a href="https://github.com/uwaisalqadri">
+        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
+      </a>
+      <br />
+      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Hencya">
-        <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
-      </a>
-      <br />
-      <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
     </td>
   </tr>
   <tr>
@@ -99,6 +99,13 @@
       </a>
       <br />
       <a href="https://github.com/dzakdzaks">Dzaky</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hencya">
+        <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
+      </a>
+      <br />
+      <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
     </td>
     <td align="center">
       <a href="https://github.com/fahminlb33">
@@ -134,13 +141,6 @@
       </a>
       <br />
       <a href="https://github.com/rodhisz">rodhisz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/risnanto73">
-        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
-      </a>
-      <br />
-      <a href="https://github.com/risnanto73">Risnanto</a>
     </td>
   </tr>
 </table>
