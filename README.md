@@ -94,6 +94,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/wagyufari">
+        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
+      </a>
+      <br />
+      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
       </a>
@@ -134,13 +141,6 @@
       </a>
       <br />
       <a href="https://github.com/archan0621">JJONG</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rodhisz">
-        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
-      </a>
-      <br />
-      <a href="https://github.com/rodhisz">rodhisz</a>
     </td>
   </tr>
 </table>
