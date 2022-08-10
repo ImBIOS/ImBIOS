@@ -134,18 +134,18 @@
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      </a>
+      <br />
+      <a href="https://github.com/emRival">Muhammad Rival</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Fasterdes">
         <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
       </a>
       <br />
       <a href="https://github.com/Fasterdes">Caldera</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/archan0621">
-        <img src="https://avatars2.githubusercontent.com/u/54535550" width="100px;" alt="archan0621"/>
-      </a>
-      <br />
-      <a href="https://github.com/archan0621">JJONG</a>
     </td>
   </tr>
 </table>
