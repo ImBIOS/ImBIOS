@@ -4,6 +4,7 @@
   <a href="https://discordapp.com/users/363896575396806667">Discord</a> •
   <a href="https://twitter.com/imamdev_">Twitter</a> •
   <a href="https://www.instagram.com/abusalam16">Instagram</a> •
+  <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam">LinkedIn</a> •
   <a href="https://bit.ly/ImamDev">Youtube</a>
 </p>
 <p align="left">
