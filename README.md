@@ -143,11 +143,11 @@
       <a href="https://github.com/auliamnaufal">Naufal Aulia</a>
     </td>
     <td align="center">
-      <a href="https://github.com/emRival">
-        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      <a href="https://github.com/Fasterdes">
+        <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
       </a>
       <br />
-      <a href="https://github.com/emRival">Muhammad Rival</a>
+      <a href="https://github.com/Fasterdes">Caldera</a>
     </td>
   </tr>
 </table>
