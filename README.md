@@ -129,18 +129,18 @@
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nardiyansah">
-        <img src="https://avatars2.githubusercontent.com/u/41910581" width="100px;" alt="nardiyansah"/>
-      </a>
-      <br />
-      <a href="https://github.com/nardiyansah">nardiyansah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/auliamnaufal">
         <img src="https://avatars2.githubusercontent.com/u/60921990" width="100px;" alt="auliamnaufal"/>
       </a>
       <br />
       <a href="https://github.com/auliamnaufal">Naufal Aulia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nardiyansah">
+        <img src="https://avatars2.githubusercontent.com/u/41910581" width="100px;" alt="nardiyansah"/>
+      </a>
+      <br />
+      <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
     <td align="center">
       <a href="https://github.com/Fasterdes">
