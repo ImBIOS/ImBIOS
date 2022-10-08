@@ -184,3 +184,7 @@
 <img alt="Kali Linux" src ="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=KaliLinux&logoColor=white"/>
 <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
  </div>
+
+<br />
+
+[![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios)
