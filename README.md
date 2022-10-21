@@ -21,11 +21,11 @@
 
 <img align="right" src ="https://flagcdn.com/256x192/id.webp" width="50%" />
 
-**🔭 Current Project:** Youtube Videos
+**🔭 Current Project:** Start-up
 
-**🌱 Currently Learning:** How to get a lot of subscribers :)
+**🌱 Currently Learning:** Golang
 
-**🤔 Thinking about:** Hacking Learning by Community
+**🤔 Thinking about:** Looking for collaboration
 
 **📫 Email me:** hi@imam.dev
 
