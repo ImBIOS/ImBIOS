@@ -64,13 +64,6 @@
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
-      <a href="https://github.com/algonacci">
-        <img src="https://avatars2.githubusercontent.com/u/86970816" width="100px;" alt="algonacci"/>
-      </a>
-      <br />
-      <a href="https://github.com/algonacci">Eric Julianto</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/khalilcharfi">
         <img src="https://avatars2.githubusercontent.com/u/4891848" width="100px;" alt="khalilcharfi"/>
       </a>
@@ -98,8 +91,6 @@
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/wagyufari">
         <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
@@ -107,6 +98,8 @@
       <br />
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -148,6 +141,13 @@
       </a>
       <br />
       <a href="https://github.com/nardiyansah">nardiyansah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      </a>
+      <br />
+      <a href="https://github.com/emRival">Rival</a>
     </td>
   </tr>
 </table>
