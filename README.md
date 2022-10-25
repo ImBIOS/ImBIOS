@@ -136,18 +136,18 @@
       <a href="https://github.com/auliamnaufal">Naufal Aulia</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nardiyansah">
-        <img src="https://avatars2.githubusercontent.com/u/41910581" width="100px;" alt="nardiyansah"/>
-      </a>
-      <br />
-      <a href="https://github.com/nardiyansah">nardiyansah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nardiyansah">
+        <img src="https://avatars2.githubusercontent.com/u/41910581" width="100px;" alt="nardiyansah"/>
+      </a>
+      <br />
+      <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
   </tr>
 </table>
