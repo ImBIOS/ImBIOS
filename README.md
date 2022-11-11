@@ -40,8 +40,9 @@
 #### :medal_military: My Badge
 
 <div>
-<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="150" height="150" float="left" />
-<img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="150" height="150" float="left" />
+<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" alt="Google Cloud - Associate Cloud Engineer Badge" width="150" height="150" float="left" />
+<img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Badge" width="150" height="150" float="left" />
+ <img src="https://user-images.githubusercontent.com/41441643/201259584-6b5c24e6-cd8f-4713-ab7f-d5c5f86aabf7.png" alt="Postman API Fundamental Student Expert" width="150" height="150" float="left" />
 </div>
 
 #### :sparkles: My Followers
