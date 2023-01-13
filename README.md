@@ -144,11 +144,11 @@
       <a href="https://github.com/emRival">Rival</a>
     </td>
     <td align="center">
-      <a href="https://github.com/auliamnaufal">
-        <img src="https://avatars2.githubusercontent.com/u/60921990" width="100px;" alt="auliamnaufal"/>
+      <a href="https://github.com/KORLA2">
+        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
       </a>
       <br />
-      <a href="https://github.com/auliamnaufal">Naufal Aulia</a>
+      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
   </tr>
 </table>
