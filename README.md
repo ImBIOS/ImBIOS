@@ -109,6 +109,13 @@
       <a href="https://github.com/richardsonjf">richardsonjf</a>
     </td>
     <td align="center">
+      <a href="https://github.com/farkhanmaul">
+        <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
+      </a>
+      <br />
+      <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
       </a>
@@ -142,13 +149,6 @@
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KORLA2">
-        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
-      </a>
-      <br />
-      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
   </tr>
 </table>
