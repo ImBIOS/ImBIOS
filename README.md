@@ -93,20 +93,20 @@
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/richardsonjf">
-        <img src="https://avatars2.githubusercontent.com/u/30475273" width="100px;" alt="richardsonjf"/>
-      </a>
-      <br />
-      <a href="https://github.com/richardsonjf">richardsonjf</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/wagyufari">
         <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
       </a>
       <br />
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/richardsonjf">
+        <img src="https://avatars2.githubusercontent.com/u/30475273" width="100px;" alt="richardsonjf"/>
+      </a>
+      <br />
+      <a href="https://github.com/richardsonjf">richardsonjf</a>
     </td>
     <td align="center">
       <a href="https://github.com/farkhanmaul">
@@ -144,11 +144,11 @@
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KORLA2">
-        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
-      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
+      <a href="https://github.com/emRival">Rival</a>
     </td>
   </tr>
 </table>
