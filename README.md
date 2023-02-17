@@ -123,18 +123,18 @@
       <a href="https://github.com/dzakdzaks">Dzaky</a>
     </td>
     <td align="center">
-      <a href="https://github.com/adipurnamk">
-        <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
-      </a>
-      <br />
-      <a href="https://github.com/adipurnamk">adipurnamk</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Hencya">
         <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
       </a>
       <br />
       <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adipurnamk">
+        <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
+      </a>
+      <br />
+      <a href="https://github.com/adipurnamk">adipurnamk</a>
     </td>
     <td align="center">
       <a href="https://github.com/fahminlb33">
