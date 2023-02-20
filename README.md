@@ -21,10 +21,6 @@
 
 <img align="right" src ="https://flagcdn.com/256x192/id.webp" width="50%" />
 
-**🔭 Current Project:** Start-up
-
-**🌱 Currently Learning:** Golang
-
 **🤔 Thinking about:** Looking for collaboration
 
 **📫 Email me:** hi@imam.dev
