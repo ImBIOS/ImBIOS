@@ -82,18 +82,18 @@
       <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hkatzdev">
-        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/hkatzdev">Harrison Katz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/farkhanmaul">
         <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
       </a>
       <br />
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hkatzdev">
+        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
   </tr>
   <tr>
