@@ -1,4 +1,4 @@
-![IMG_20220930_184049](https://user-images.githubusercontent.com/41441643/220909334-e750af7b-7290-456d-9c69-7c75001c466f.jpg)
+[![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios)
 
 <h1>👋 Welcome to my Hackerspace!</h1>
 <p>
@@ -154,7 +154,3 @@ If you'd like to discuss any sort of opportunity, feel free to [contact me](mail
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
-<br />
-
-[![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios)
