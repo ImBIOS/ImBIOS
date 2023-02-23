@@ -1,4 +1,6 @@
-<h1>👋 Welcome to my Hackerspace!</h3>
+![IMG_20220930_184049](https://user-images.githubusercontent.com/41441643/220909334-e750af7b-7290-456d-9c69-7c75001c466f.jpg)
+
+<h1>👋 Welcome to my Hackerspace!</h1>
 <p>
   <a href="https://www.imam.dev/">Web</a> •
   <a href="https://discordapp.com/users/363896575396806667">Discord</a> •
@@ -6,6 +8,7 @@
   <a href="https://www.instagram.com/abusalam16">Instagram</a> •
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam">LinkedIn</a> •
   <a href="https://show.imam.dev">Showwcase</a> •
+  <a href="https://dev.to/imbios/">Dev.to</a> •
   <a href="https://bit.ly/ImamDev">Youtube</a>
 </p>
 <p align="left">
@@ -13,23 +16,19 @@
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
 <img src=https://komarev.com/ghpvc/?username=ImBIOS alt=ImBIOS/>
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/imamdev_)](https://peerlist.io/imamdev_)
-
 </p>
 
-<p align="right"><b>I live in Indonesia</b></p>
+##### PRODUCTS
 
-<img align="right" src ="https://flagcdn.com/256x192/id.webp" width="50%" />
+- [📦 Cardus App](https://github.com/ImBIOS/cardus-app), a home warehouse management system.
 
-**🤔 Thinking about:** Looking for collaboration
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
 
-**📫 Email me:** hi@imam.dev
-
-**😄 Pronouns:** he/him/his
-
-<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&theme=cobalt">
+<hr />
 
 <img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt">
+
+<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&theme=cobalt">
 
 <img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact&theme=cobalt">
 
