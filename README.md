@@ -103,18 +103,18 @@ If you'd like to discuss any sort of opportunity, feel free to [contact me](mail
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/wagyufari">
-        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
-      </a>
-      <br />
-      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/richardsonjf">
         <img src="https://avatars2.githubusercontent.com/u/30475273" width="100px;" alt="richardsonjf"/>
       </a>
       <br />
       <a href="https://github.com/richardsonjf">richardsonjf</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wagyufari">
+        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
+      </a>
+      <br />
+      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
