@@ -80,18 +80,18 @@ If you'd like to discuss any sort of opportunity, feel free to [contact me](mail
       <a href="https://github.com/bagasstrongman">Bagas Satria</a>
     </td>
     <td align="center">
-      <a href="https://github.com/uwaisalqadri">
-        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
-      </a>
-      <br />
-      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/farkhanmaul">
         <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
       </a>
       <br />
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/uwaisalqadri">
+        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
+      </a>
+      <br />
+      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
     <td align="center">
       <a href="https://github.com/hkatzdev">
