@@ -117,6 +117,13 @@ If you'd like to discuss any sort of opportunity, feel free to [contact me](mail
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Syafiq1331">
+        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
+      </a>
+      <br />
+      <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
       </a>
@@ -143,13 +150,6 @@ If you'd like to discuss any sort of opportunity, feel free to [contact me](mail
       </a>
       <br />
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KORLA2">
-        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
-      </a>
-      <br />
-      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
   </tr>
 </table>
