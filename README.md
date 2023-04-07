@@ -20,7 +20,8 @@
 
 ##### PRODUCTS
 
-- [📦 Cardus App](https://github.com/ImBIOS/cardus-app), a home warehouse management system.
+- [📦 Cardus App](https://cardus-dev.vercel.app/), a home warehouse management system.
+- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), a web quiz game for gitmoji. 
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
 
