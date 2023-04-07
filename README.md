@@ -26,7 +26,8 @@
 
 ##### LIBRARY PRODUCTS
 
-- [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), a codemod to convert Next.js JavaScript to TypeScript
+- [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), a codemod to convert Next.js JavaScript to TypeScript.
+- [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), a converter of blogger backup to markdown files.
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
 
