@@ -28,7 +28,7 @@
 
 - [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
 - [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert <blogger.com> backup to markdown files.
-- [🤖 tailwind color filter generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
+- [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
 
