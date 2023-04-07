@@ -26,7 +26,7 @@
 
 ##### LIBRARY PRODUCTS
 
-- [➡️ʦ next-to-ts](https://github.com/ImBIOS/next-to-ts), a codemod to convert Next.js JavaScript to TypeScript
+- [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), a codemod to convert Next.js JavaScript to TypeScript
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
 
