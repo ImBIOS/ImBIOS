@@ -20,14 +20,15 @@
 
 ##### APP PRODUCTS
 
-- [📦 Cardus App](https://cardus-dev.vercel.app/), a home warehouse management system.
-- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), a web quiz game for gitmoji. 
-- [🎙️ Mute Me](https://github.com/ImBIOS/mute-me), a macOS app to add shortcut to mute/unmute with touchbar support.
+- [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
+- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game for gitmoji. 
+- [🎙️ Mute Me](https://github.com/ImBIOS/mute-me), macOS app to add shortcut to mute/unmute with touchbar support.
 
-##### LIBRARY PRODUCTS
+##### TOOL PRODUCTS
 
-- [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), a codemod to convert Next.js JavaScript to TypeScript.
-- [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), a converter of blogger backup to markdown files.
+- [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
+- [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert <blogger.com> backup to markdown files.
+- [🤖 tailwind color filter generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
 
