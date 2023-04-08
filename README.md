@@ -85,20 +85,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
-      <a href="https://github.com/khalilcharfi">
-        <img src="https://avatars2.githubusercontent.com/u/4891848" width="100px;" alt="khalilcharfi"/>
-      </a>
-      <br />
-      <a href="https://github.com/khalilcharfi">Khalil Charfi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bagasstrongman">
-        <img src="https://avatars2.githubusercontent.com/u/54809734" width="100px;" alt="bagasstrongman"/>
-      </a>
-      <br />
-      <a href="https://github.com/bagasstrongman">Bagas Satria</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/farkhanmaul">
         <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
       </a>
@@ -119,15 +105,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/richardsonjf">
-        <img src="https://avatars2.githubusercontent.com/u/30475273" width="100px;" alt="richardsonjf"/>
-      </a>
-      <br />
-      <a href="https://github.com/richardsonjf">richardsonjf</a>
-    </td>
     <td align="center">
       <a href="https://github.com/wagyufari">
         <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
@@ -142,6 +119,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -169,6 +148,78 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fahminlb33">
+        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
+      </a>
+      <br />
+      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      </a>
+      <br />
+      <a href="https://github.com/emRival">Rival</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/doniwirawan">
+        <img src="https://avatars2.githubusercontent.com/u/54931717" width="100px;" alt="doniwirawan"/>
+      </a>
+      <br />
+      <a href="https://github.com/doniwirawan">Doni Wirawan</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/auliamnaufal">
+        <img src="https://avatars2.githubusercontent.com/u/60921990" width="100px;" alt="auliamnaufal"/>
+      </a>
+      <br />
+      <a href="https://github.com/auliamnaufal">Naufal Aulia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lesichkovm">
+        <img src="https://avatars2.githubusercontent.com/u/7744963" width="100px;" alt="lesichkovm"/>
+      </a>
+      <br />
+      <a href="https://github.com/lesichkovm">Milan Lesichkov</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nardiyansah">
+        <img src="https://avatars2.githubusercontent.com/u/41910581" width="100px;" alt="nardiyansah"/>
+      </a>
+      <br />
+      <a href="https://github.com/nardiyansah">nardiyansah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/risnanto73">
+        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
+      </a>
+      <br />
+      <a href="https://github.com/risnanto73">Risnanto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedGsa">
+        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rodhisz">
+        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
+      </a>
+      <br />
+      <a href="https://github.com/rodhisz">rodhisz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fasterdes">
+        <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fasterdes">Caldera</a>
     </td>
   </tr>
 </table>
