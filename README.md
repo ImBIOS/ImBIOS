@@ -1,46 +1,57 @@
+# 👋 Hi, **ImBIOS** here
+
 [![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios)
 
-<h1>👋 Welcome to my Hackerspace!</h1>
-<p>
-  <a href="https://www.imam.dev/">Web</a> •
-  <a href="https://discordapp.com/users/363896575396806667">Discord</a> •
-  <a href="https://twitter.com/imamdev_">Twitter</a> •
-  <a href="https://www.instagram.com/abusalam16">Instagram</a> •
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam">LinkedIn</a> •
-  <a href="https://show.imam.dev">Showwcase</a> •
-  <a href="https://dev.to/imbios/">Dev.to</a> •
-  <a href="https://bit.ly/ImamDev">Youtube</a>
-</p>
-<p align="left">
+[Web](https://www.imam.dev/) •
+[Discord](https://discordapp.com/users/363896575396806667) •
+[Twitter](https://twitter.com/imamdev_) •
+[Instagram](https://www.instagram.com/imamdev_) •
+[LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam) •
+[Showwcase](http://www.showwcase.com/imbios) •
+[Dev.to](https://dev.to/imbios) •
+[Youtube](https://bit.ly/ImamDev)
+
 <!-- Counting views, -->
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
-<img src=https://komarev.com/ghpvc/?username=ImBIOS alt=ImBIOS/>
+![profile view](https://komarev.com/ghpvc/?username=ImBIOS)
 
-</p>
+## 📚 [Latest Blog Posts](https://blog.imam.dev/)
 
-##### APP PRODUCTS
+<!--START_SECTION:blog-posts-->
+- 2022-12-20 [Hello React, Goodbye useEffect (I Hope)](https://blog.imam.dev/post/hello-react-18-goodbye-useffect?utm_source=GitHubProfile)
+- 2022-12-07 [Cardus App - Open Source Personal Warehouse Management App](https://blog.imam.dev/post/mongodb-atlashackathon22?utm_source=GitHubProfile)
+- 2022-11-21 [Big O Notation in JavaScript](https://blog.imam.dev/post/big-o-notation?utm_source=GitHubProfile)
+- 2022-11-17 [Debounce in Next.js](https://blog.imam.dev/post/debounce-in-nextjs?utm_source=GitHubProfile)
+- 2022-11-16 [JavaScript Set, Every Junior Should Know](https://blog.imam.dev/post/javascript-set?utm_source=GitHubProfile)
+<!--END_SECTION:blog-posts-->
+
+## 🎁 Products
+
+I love to build products that can help people.
+
+### 💻 App Products
 
 - [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
-- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game for gitmoji. 
+- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game for gitmoji.
 - [🎙️ Remute](https://github.com/ImBIOS/remute), use the touch bar app to mute/unmute your microphone, or just use the shortcut on any Mac.
 
-##### TOOL PRODUCTS
+### 🛠️ Tool Products
 
 - [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
 - [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert [blogger.com](https://blogger.com) backup to markdown files.
 - [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
 
-If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
+If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imam.dev).
 
-<hr />
+---
 
-<img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt">
+<img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt" />
 
-<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&theme=cobalt">
+<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&theme=cobalt" />
 
-<img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact&theme=cobalt">
+<!-- <img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact&theme=cobalt" /> -->
 
-#### :medal_military: My Badge
+## 🎖️ Badge
 
 <div>
   <a href="https://credential.net/08af7415-f12f-4a67-8aa1-bff0a88e0293" rel="noreferer nofollow" target="_blank">
@@ -54,7 +65,7 @@ If you'd like to discuss any sort of opportunity, feel free to [contact me](mail
     </a>
 </div>
 
-#### :sparkles: My Followers
+## ✨ Followers
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -162,3 +173,7 @@ If you'd like to discuss any sort of opportunity, feel free to [contact me](mail
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+## 🌟 [Projects starred by me](https://github.com/maguowei/starred)
+
+[My Awesome Stars](AWESOME-STARS.md)
