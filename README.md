@@ -22,12 +22,12 @@
 
 - [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
 - [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game for gitmoji. 
-- [🎙️ Remute](https://github.com/ImBIOS/remute), Use the Touch Bar app to Mute/Unmute your microphone, or just use the shortcut on any Mac.
+- [🎙️ Remute](https://github.com/ImBIOS/remute), use the touch bar app to mute/unmute your microphone, or just use the shortcut on any Mac.
 
 ##### TOOL PRODUCTS
 
 - [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
-- [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert <blogger.com> backup to markdown files.
+- [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert [blogger.com](https://blogger.com) backup to markdown files.
 - [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:hi@imam.dev).
