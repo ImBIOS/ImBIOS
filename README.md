@@ -22,7 +22,7 @@
 
 - [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
 - [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game for gitmoji. 
-- [🎙️ Mute Me](https://github.com/ImBIOS/mute-me), macOS app to add shortcut to mute/unmute with touchbar support.
+- [🎙️ Remute](https://github.com/ImBIOS/remute), Use the Touch Bar app to Mute/Unmute your microphone, or just use the shortcut on any Mac.
 
 ##### TOOL PRODUCTS
 
