@@ -27,7 +27,7 @@
 
 ## 🎁 Products
 
-I love to build products that can help people.
+I love to dogfood what I built. Passionate to build products that can help people.
 
 ### 💻 App Products
 
