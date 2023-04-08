@@ -15,7 +15,7 @@
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
 ![profile view](https://komarev.com/ghpvc/?username=ImBIOS)
 
-## 📚 [Latest Blog Posts](https://blog.imam.dev/?utm_source=GitHubProfile)
+## 📚 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
 - 2022-12-20 [Hello React, Goodbye useEffect (I Hope)](https://blog.imam.dev/post/hello-react-18-goodbye-useffect?utm_source=GitHubProfile)
@@ -225,6 +225,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 </table>
 <!--END_SECTION:top-followers-->
 
-## 🌟 [Projects starred by me](https://github.com/maguowei/starred)
+## 🌟 Projects Starred by Me
 
 [My Awesome Stars](AWESOME-STARS.md)
