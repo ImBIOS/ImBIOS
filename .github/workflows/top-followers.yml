@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '0 20 * * *' # Run at 20:00 every day
 
 jobs:
   top-followers:

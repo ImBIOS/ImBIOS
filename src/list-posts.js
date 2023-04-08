@@ -20,11 +20,22 @@ const xmlToJson = (xmlString) => {
 
       if (subValue.match(regex)) {
         if (Array.isArray(subJson[subKey])) {
-          subJson[subKey].push(xmlToJson(`<${subKey}${subAttributes}>${subValue}</${subKey}>`)[subKey]);
+          subJson[subKey].push(
+            xmlToJson(
+              `<${subKey}${subAttributes}>${subValue}</${subKey}>`
+            )[subKey]
+          );
         } else if (subJson[subKey]) {
-          subJson[subKey] = [subJson[subKey], xmlToJson(`<${subKey}${subAttributes}>${subValue}</${subKey}>`)[subKey]];
+          subJson[subKey] = [
+            subJson[subKey],
+            xmlToJson(
+              `<${subKey}${subAttributes}>${subValue}</${subKey}>`
+            )[subKey],
+          ];
         } else {
-          subJson[subKey] = xmlToJson(`<${subKey}${subAttributes}>${subValue}</${subKey}>`)[subKey];
+          subJson[subKey] = xmlToJson(
+            `<${subKey}${subAttributes}>${subValue}</${subKey}>`
+          )[subKey];
         }
       } else if (Array.isArray(subJson[subKey])) {
         subJson[subKey].push(subValue);
@@ -47,7 +58,7 @@ const xmlToJson = (xmlString) => {
   }
 
   return json;
-}
+};
 
 /**
  * Sort JSON by pubDate
@@ -57,13 +68,32 @@ const xmlToJson = (xmlString) => {
 const sortJson = (json) => {
   json.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   return json;
-}
+};
 
+// Read XML file and convert to JSON
 const xmlString = readFileSync('feed.xml', 'utf8');
 const feeds = sortJson(xmlToJson(xmlString).rss.channel.item);
 
-const posts = feeds.slice(0, 5).map((item) => `- ${new Date(item.pubDate).toISOString().split('T')[0]} [${item.title}](${item.link}?utm_source=GitHubProfile)`);
+// Create Markdown list of posts
+const posts = feeds
+  .slice(0, 5)
+  .map(
+    (item) =>
+      `- ${new Date(item.pubDate).toISOString().split('T')[0]} [${
+        item.title
+      }](${item.link}?utm_source=GitHubProfile)`
+  );
 
-let readme = readFileSync('README.md', 'utf8');
-readme = readme.replace(/(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/, posts.join('\n'));
-writeFileSync('README.md', readme);
+// Update README.md if posts have changed,
+// otherwise throw an error to remind me to write a blog post
+if (readme.includes(posts.join('\n'))) {
+  throw new Error('No new blog posts');
+} else {
+  const readme = readFileSync('README.md', 'utf8').replace(
+    /(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/,
+    posts.join('\n')
+  );
+  writeFileSync('README.md', readme);
+
+  console.log('Updated README.md');
+}

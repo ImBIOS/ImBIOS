@@ -1,6 +1,9 @@
 name: Blog Posts
 
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Run at 00:00 every Sunday
+  workflow_dispatch:
 
 jobs:
   update-posts:
