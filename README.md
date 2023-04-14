@@ -40,6 +40,7 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 - [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
 - [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert [blogger.com](https://blogger.com) backup to markdown files.
 - [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
+- [🧱 prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds), prisma for Raspi 3B or any armv7 architecture.
 
 If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imam.dev). Or ask me anything at [Discussion](https://github.com/ImBIOS/ImBIOS/discussions/new/choose).
 
