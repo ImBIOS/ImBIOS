@@ -86,14 +86,15 @@ const posts = feeds
 
 // Update README.md if posts have changed,
 // otherwise throw an error to remind me to write a blog post
+const readme = readFileSync('README.md', 'utf8');
 if (readme.includes(posts.join('\n'))) {
   throw new Error('No new blog posts');
 } else {
-  const readme = readFileSync('README.md', 'utf8').replace(
+  const updatedReadme = readFileSync('README.md', 'utf8').replace(
     /(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/,
     posts.join('\n')
   );
-  writeFileSync('README.md', readme);
+  writeFileSync('README.md', updatedReadme);
 
   console.log('Updated README.md');
 }
