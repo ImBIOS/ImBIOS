@@ -73,25 +73,11 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/BEPb">
-        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-      </a>
-      <br />
-      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nelsonic">
         <img src="https://avatars2.githubusercontent.com/u/194400" width="100px;" alt="nelsonic"/>
       </a>
       <br />
       <a href="https://github.com/nelsonic">Nelson</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nevo-david">
-        <img src="https://avatars2.githubusercontent.com/u/100117126" width="100px;" alt="nevo-david"/>
-      </a>
-      <br />
-      <a href="https://github.com/nevo-david">Nevo David</a>
     </td>
     <td align="center">
       <a href="https://github.com/sampoder">
@@ -121,8 +107,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/wagyufari">
         <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
@@ -137,6 +121,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -172,8 +158,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
@@ -188,6 +172,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/doniwirawan">Doni Wirawan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/auliamnaufal">
         <img src="https://avatars2.githubusercontent.com/u/60921990" width="100px;" alt="auliamnaufal"/>
@@ -222,6 +208,20 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedGsa">
+        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fasterdes">
+        <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fasterdes">Caldera</a>
     </td>
   </tr>
 </table>
