@@ -124,6 +124,7 @@
 
 ## JavaScript 
 
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [ImBIOS/blogger-to-md](https://github.com/ImBIOS/blogger-to-md) - Convert Blogger & WordPress backup blog posts to markdown documents
 - [ImBIOS/next-to-ts](https://github.com/ImBIOS/next-to-ts) - Codemod to help you migrate your Next.js project to typescript in seconds
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
