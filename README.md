@@ -27,13 +27,13 @@
 
 ## 🎁 Products
 
-I love to build products that can help people.
+I love to dogfood what I built. Passionate to build products that can help people.
 
 ### 💻 App Products
 
 <!-- - [🗳️ Maktab](https://idn-votes-vote.vercel.app/vote), voting app for election. [STILL SO MANY BUG, WIP FOR REFACTOR AND PREPARE FOR OPEN SOURCE] -->
 - [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
-- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game for gitmoji.
+- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game to learn gitmoji.
 - [🎙️ Remute](https://github.com/ImBIOS/remute), use the touch bar app to mute/unmute your microphone, or just use the shortcut on any Mac.
 
 ### 🛠️ Tool Products
@@ -41,13 +41,14 @@ I love to build products that can help people.
 - [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
 - [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert [blogger.com](https://blogger.com) backup to markdown files.
 - [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
+- [🧱 prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds), prisma for Raspi 3B or any armv7 32-bit architecture.
 
 If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imam.dev). Or ask me anything at [Discussion](https://github.com/ImBIOS/ImBIOS/discussions/new/choose).
 
 ---
 
-<img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt" />
-
+<!-- <img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt" /> -->
+ 
 <img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&theme=cobalt" />
 
 <!-- <img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact&theme=cobalt" /> -->
@@ -71,6 +72,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
+    <td align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
+      </a>
+      <br />
+      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
+    </td>
     <td align="center">
       <a href="https://github.com/nelsonic">
         <img src="https://avatars2.githubusercontent.com/u/194400" width="100px;" alt="nelsonic"/>
@@ -113,6 +121,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Syafiq1331">
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
@@ -120,8 +130,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -164,6 +172,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/emRival">Rival</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/doniwirawan">
         <img src="https://avatars2.githubusercontent.com/u/54931717" width="100px;" alt="doniwirawan"/>
@@ -171,8 +181,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/doniwirawan">Doni Wirawan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/auliamnaufal">
         <img src="https://avatars2.githubusercontent.com/u/60921990" width="100px;" alt="auliamnaufal"/>
@@ -195,6 +203,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rodhisz">
+        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
+      </a>
+      <br />
+      <a href="https://github.com/rodhisz">rodhisz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/risnanto73">
         <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
@@ -207,20 +222,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rodhisz">
-        <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
-      </a>
-      <br />
-      <a href="https://github.com/rodhisz">rodhisz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Fasterdes">
-        <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
-      </a>
-      <br />
-      <a href="https://github.com/Fasterdes">Caldera</a>
     </td>
   </tr>
 </table>
