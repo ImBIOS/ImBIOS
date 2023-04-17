@@ -43,7 +43,7 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 - [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
 - [🧱 prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds), prisma for Raspi 3B or any armv7 32-bit architecture.
 
-### [More inactive or small projects...](https://github.com/ImBIOS?tab=repositories&q=&type=public&language=&sort=stargazers)
+[More inactive or small projects...](https://github.com/ImBIOS?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imam.dev). Or ask me anything at [Discussion](https://github.com/ImBIOS/ImBIOS/discussions/new/choose).
 
