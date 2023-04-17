@@ -31,7 +31,7 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 
 ### 💻 App Products
 
-- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game to learn gitmoji.
+- [😃 Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game to learn gitmoji.
 - [🎙️ Remute](https://github.com/ImBIOS/remute), use the touch bar app to mute/unmute your microphone, or just use the shortcut on any Mac.
 - [🗳️ Maktab](https://idn-votes-vote.vercel.app/vote), voting app for election.
 - [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
