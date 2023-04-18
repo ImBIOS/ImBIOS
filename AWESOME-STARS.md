@@ -14,7 +14,6 @@
 - [Dockerfile](#dockerfile)
 - [FreeMarker](#freemarker)
 - [Go](#go)
-- [Groovy](#groovy)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -62,6 +61,7 @@
 
 ## CMake 
 
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when screen recording.
 - [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own mult
 
 ## CSS 
@@ -99,10 +99,6 @@
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [nardiyansah/RESTful-API-with-Go](https://github.com/nardiyansah/RESTful-API-with-Go) - this is beginner project to create API with Go and Gin Web Framework
-
-## Groovy 
-
-- [craftercms/craftercms](https://github.com/craftercms/craftercms) - Parent project for Crafter CMS. Issue tracking across all repositories and global builds.
 
 ## HTML 
 
@@ -267,6 +263,7 @@
 - [0unknwn/auto-hotspot](https://github.com/0unknwn/auto-hotspot) - Service and script to automatically create and configure an access point if there is no known network nearby
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
+- [craftercms/craftercms](https://github.com/craftercms/craftercms) - Parent project for Crafter CMS. Issue tracking across all repositories and global builds.
 
 ## Svelte 
 
