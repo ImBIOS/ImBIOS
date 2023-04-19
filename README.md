@@ -154,18 +154,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KORLA2">
-        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
-      </a>
-      <br />
-      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KORLA2">
+        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
+      </a>
+      <br />
+      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
     <td align="center">
       <a href="https://github.com/doniwirawan">
