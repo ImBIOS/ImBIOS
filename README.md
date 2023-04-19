@@ -9,7 +9,7 @@
 [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam) •
 [Showwcase](http://www.showwcase.com/imbios) •
 [Dev.to](https://dev.to/imbios) •
-[Youtube](https://bit.ly/ImamDev)
+[Youtube](https://s.imam.dev/yt)
 
 <!-- Counting views, -->
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
