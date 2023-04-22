@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [FreeMarker](#freemarker)
 - [Go](#go)
@@ -25,6 +26,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -49,11 +51,13 @@
 
 ## C# # 
 
+- [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - The application for displaying pressed keys of the keyboard
 - [ManakhovN/FigmaToUnityImporter](https://github.com/ManakhovN/FigmaToUnityImporter) - The project that imports nodes from Figma into unity.
 - [DevZhav/unity-moba](https://github.com/DevZhav/unity-moba) - A Multiplayer Online Battle Arena Toolkit for Unity3D with its services and database
 
 ## C++ 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -61,6 +65,7 @@
 
 ## CMake 
 
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when screen recording.
 - [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own mult
 
 ## CSS 
@@ -70,9 +75,12 @@
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
 
+## Dart 
+
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
+
 ## Dockerfile 
 
-- [ImBIOS/prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds) - This repository contains precompiled prisma-engines for armv7.
 - [v-je/docker](https://github.com/v-je/docker) - Easy to use docker environment for PHP development. With zero configuration supports hosting multiple websites, valid SSL certificates (for HTTPS and HTTP 2 development), HTTP2 support. See https://r.
 
 ## FreeMarker 
@@ -87,7 +95,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [budsx/go-clean](https://github.com/budsx/go-clean) - Clean Architecture API -  Golang
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
 - [alexellis/kubernetes-todo-go-app](https://github.com/alexellis/kubernetes-todo-go-app) - A TODO API for Kubernetes written in go
@@ -124,6 +132,9 @@
 
 ## JavaScript 
 
+- [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [ImBIOS/prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds) - This repository contains precompiled prisma-engines for armv7.
 - [ImBIOS/blogger-to-md](https://github.com/ImBIOS/blogger-to-md) - Convert Blogger & WordPress backup blog posts to markdown documents
 - [ImBIOS/next-to-ts](https://github.com/ImBIOS/next-to-ts) - Codemod to help you migrate your Next.js project to typescript in seconds
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -191,6 +202,7 @@
 
 ## Objective-C 
 
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [ImBIOS/remute](https://github.com/ImBIOS/remute) - Use the Touch Bar app to Mute/Unmute your microphone, or just use the shortcut on any Mac.
 - [ImBIOS/mute-me](https://github.com/ImBIOS/mute-me) - Moved to ImBIOS/remute
 - [RepairShopr/react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture) - A simple modular component for react native (iOS) to capture a signature as an image
@@ -221,6 +233,10 @@
 - [nafiesl/silsilah](https://github.com/nafiesl/silsilah) - A genealogy/family tree application, built with Laravel.
 - [nafiesl/free-pmo](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel.
 
+## PLpgSQL 
+
+- [louislam/node-sqlite3](https://github.com/louislam/node-sqlite3) - node-sqlite3 fork with CentOS 7 support
+
 ## Perl 
 
 - [x0rz/EQGRP](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz
@@ -248,6 +264,8 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [quadrupleslap/scrap](https://github.com/quadrupleslap/scrap) - 📸 Screen capture made easy!
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [pmndrs/swc-jotai](https://github.com/pmndrs/swc-jotai) - 
@@ -268,6 +286,9 @@
 
 ## TypeScript 
 
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
+- [kuroski/github-issue-viewer](https://github.com/kuroski/github-issue-viewer) - A Github issue viewer apps
 - [ImBIOS/kajiansegar](https://github.com/ImBIOS/kajiansegar) - 
 - [uselessdev/datepicker](https://github.com/uselessdev/datepicker) - A simple datepicker with Chakra-UI and date-fns
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.

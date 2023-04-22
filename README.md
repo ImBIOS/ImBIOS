@@ -9,7 +9,7 @@
 [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam) •
 [Showwcase](http://www.showwcase.com/imbios) •
 [Dev.to](https://dev.to/imbios) •
-[Youtube](https://bit.ly/ImamDev)
+[Youtube](https://s.imam.dev/yt)
 
 <!-- Counting views, -->
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
@@ -23,11 +23,11 @@
 ## 📚 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
+- 2023-04-14 [3 Scalable Next.js Architecture Boilerplate](https://blog.imam.dev/post/3-scalable-nextjs-architecture-boilerplate?utm_source=GitHubProfile)
 - 2022-12-20 [Hello React, Goodbye useEffect (I Hope)](https://blog.imam.dev/post/hello-react-18-goodbye-useffect?utm_source=GitHubProfile)
 - 2022-12-07 [Cardus App - Open Source Personal Warehouse Management App](https://blog.imam.dev/post/mongodb-atlashackathon22?utm_source=GitHubProfile)
 - 2022-11-21 [Big O Notation in JavaScript](https://blog.imam.dev/post/big-o-notation?utm_source=GitHubProfile)
 - 2022-11-17 [Debounce in Next.js](https://blog.imam.dev/post/debounce-in-nextjs?utm_source=GitHubProfile)
-- 2022-11-16 [JavaScript Set, Every Junior Should Know](https://blog.imam.dev/post/javascript-set?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ## 🎁 Products
@@ -36,10 +36,10 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 
 ### 💻 App Products
 
-<!-- - [🗳️ Maktab](https://idn-votes-vote.vercel.app/vote), voting app for election. [STILL SO MANY BUG, WIP FOR REFACTOR AND PREPARE FOR OPEN SOURCE] -->
-- [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
-- [😃  Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game to learn gitmoji.
+- [😃 Gitmemoji](https://github.com/ImBIOS/gitmemoji), web quiz game to learn gitmoji.
 - [🎙️ Remute](https://github.com/ImBIOS/remute), use the touch bar app to mute/unmute your microphone, or just use the shortcut on any Mac.
+- [🗳️ Maktab](https://idn-votes-vote.vercel.app/vote), voting app for election.
+- [📦 Cardus App](https://cardus-dev.vercel.app/), home warehouse management system.
 
 ### 🛠️ Tool Products
 
@@ -47,6 +47,8 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 - [➡️ blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert [blogger.com](https://blogger.com) backup to markdown files.
 - [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
 - [🧱 prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds), prisma for Raspi 3B or any armv7 32-bit architecture.
+
+[More inactive or small projects...](https://github.com/ImBIOS?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imam.dev). Or ask me anything at [Discussion](https://github.com/ImBIOS/ImBIOS/discussions/new/choose).
 
@@ -77,13 +79,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/BEPb">
-        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-      </a>
-      <br />
-      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
     <td align="center">
       <a href="https://github.com/nelsonic">
         <img src="https://avatars2.githubusercontent.com/u/194400" width="100px;" alt="nelsonic"/>
@@ -126,8 +121,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Syafiq1331">
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
@@ -135,6 +128,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -164,6 +159,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      </a>
+      <br />
+      <a href="https://github.com/emRival">Rival</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/KORLA2">
         <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
       </a>
@@ -171,21 +173,14 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
     <td align="center">
-      <a href="https://github.com/emRival">
-        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
-      </a>
-      <br />
-      <a href="https://github.com/emRival">Rival</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/doniwirawan">
         <img src="https://avatars2.githubusercontent.com/u/54931717" width="100px;" alt="doniwirawan"/>
       </a>
       <br />
       <a href="https://github.com/doniwirawan">Doni Wirawan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/auliamnaufal">
         <img src="https://avatars2.githubusercontent.com/u/60921990" width="100px;" alt="auliamnaufal"/>
@@ -227,6 +222,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fasterdes">
+        <img src="https://avatars2.githubusercontent.com/u/66830583" width="100px;" alt="Fasterdes"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fasterdes">Caldera</a>
     </td>
   </tr>
 </table>
