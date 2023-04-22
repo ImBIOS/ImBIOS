@@ -203,6 +203,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/AhmedGsa">
+        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rodhisz">
         <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
       </a>
@@ -215,13 +222,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/risnanto73">Risnanto</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AhmedGsa">
-        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
     </td>
     <td align="center">
       <a href="https://github.com/Fasterdes">
