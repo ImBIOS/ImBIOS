@@ -18,7 +18,7 @@
 ## ▶️ Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![OSPC Live Stream #1](https://ytcards.demolab.com/?id=0mBVFj4StCc&title=OSPC+Live+Stream+%231&lang=en&timestamp=1682068419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "OSPC Live Stream #1")](https://www.youtube.com/watch?v=0mBVFj4StCc)
+[![OSPC Live Stream #1 - Get Started with Git and GitHub](https://ytcards.demolab.com/?id=0mBVFj4StCc&title=OSPC+Live+Stream+%231+-+Get+Started+with+Git+and+GitHub&lang=en&timestamp=1682068419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "OSPC Live Stream #1 - Get Started with Git and GitHub")](https://www.youtube.com/watch?v=0mBVFj4StCc)
 [![Playlist Introduction - Javascript Tutorial](https://ytcards.demolab.com/?id=sFrhIG__R2E&title=Playlist+Introduction+-+Javascript+Tutorial&lang=en&timestamp=1682077873&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Playlist Introduction - Javascript Tutorial")](https://www.youtube.com/watch?v=sFrhIG__R2E)
 [![What Can Javascript Do - Javascript Tutorial](https://ytcards.demolab.com/?id=NIXaDD_C5tE&title=What+Can+Javascript+Do+-+Javascript+Tutorial&lang=en&timestamp=1682077853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "What Can Javascript Do - Javascript Tutorial")](https://www.youtube.com/watch?v=NIXaDD_C5tE)
 [![HTML File Paths](https://ytcards.demolab.com/?id=cK0GRSkzDmo&title=HTML+File+Paths&lang=en&timestamp=1682077836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "HTML File Paths")](https://www.youtube.com/watch?v=cK0GRSkzDmo)
