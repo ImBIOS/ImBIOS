@@ -132,6 +132,7 @@
 
 ## JavaScript 
 
+- [nextacular/nextacular](https://github.com/nextacular/nextacular) - An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern tech
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [ImBIOS/prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds) - This repository contains precompiled prisma-engines for armv7.
@@ -287,6 +288,7 @@
 
 ## TypeScript 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [pmqueiroz/readme-last-youtube-videos](https://github.com/pmqueiroz/readme-last-youtube-videos) - :octocat: Updates your readme profile with selected youtube channel last videos
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
