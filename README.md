@@ -165,18 +165,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/emRival">
-        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
-      </a>
-      <br />
-      <a href="https://github.com/emRival">Rival</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KORLA2">
         <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
       </a>
       <br />
       <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emRival">
+        <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
+      </a>
+      <br />
+      <a href="https://github.com/emRival">Rival</a>
     </td>
     <td align="center">
       <a href="https://github.com/doniwirawan">
@@ -209,18 +209,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/nardiyansah">nardiyansah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AhmedGsa">
-        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rodhisz">
         <img src="https://avatars2.githubusercontent.com/u/87375869" width="100px;" alt="rodhisz"/>
       </a>
       <br />
       <a href="https://github.com/rodhisz">rodhisz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedGsa">
+        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
     </td>
     <td align="center">
       <a href="https://github.com/risnanto73">
