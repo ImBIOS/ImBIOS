@@ -70,6 +70,7 @@
 
 ## CSS 
 
+- [dailydotdev/docs](https://github.com/dailydotdev/docs) - The official product docs of daily.dev
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [xendit/checkout-demo](https://github.com/xendit/checkout-demo) - Sample code for demonstrating Xendit Checkout including creating invoice, redirection type, and type of integration through desktop or mobile view.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
@@ -132,6 +133,7 @@
 
 ## JavaScript 
 
+- [pnpm/pnpm.github.io](https://github.com/pnpm/pnpm.github.io) - pnpm's website
 - [nextacular/nextacular](https://github.com/nextacular/nextacular) - An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern tech
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
@@ -292,6 +294,7 @@
 
 ## TypeScript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [pmqueiroz/readme-last-youtube-videos](https://github.com/pmqueiroz/readme-last-youtube-videos) - :octocat: Updates your readme profile with selected youtube channel last videos
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
