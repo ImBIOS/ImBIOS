@@ -29,11 +29,11 @@
 ## 📚 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
+- 2023-04-23 [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://blog.imam.dev/post/how-i-made-a-reminder-to-write-a-blog-using-github-action?utm_source=GitHubProfile)
 - 2023-04-14 [3 Scalable Next.js Architecture Boilerplate](https://blog.imam.dev/post/3-scalable-nextjs-architecture-boilerplate?utm_source=GitHubProfile)
 - 2022-12-20 [Hello React, Goodbye useEffect (I Hope)](https://blog.imam.dev/post/hello-react-18-goodbye-useffect?utm_source=GitHubProfile)
 - 2022-12-07 [Cardus App - Open Source Personal Warehouse Management App](https://blog.imam.dev/post/mongodb-atlashackathon22?utm_source=GitHubProfile)
 - 2022-11-21 [Big O Notation in JavaScript](https://blog.imam.dev/post/big-o-notation?utm_source=GitHubProfile)
-- 2022-11-17 [Debounce in Next.js](https://blog.imam.dev/post/debounce-in-nextjs?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ## 🎁 Products
