@@ -13,5 +13,8 @@ jobs:
     # Run the GitHub Readme YouTube Cards action
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
+        id: youtube-cards
         with:
           channel_id: UCHadELD-gro_9fm47EJrcUw
+      - if: ${{ steps.youtube-cards.outputs.committed == 'false' }}
+        run: echo "No new youtube video in the past month!"; exit 1;
