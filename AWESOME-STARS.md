@@ -134,6 +134,7 @@
 
 ## JavaScript 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ImBIOS/next-pwa](https://github.com/ImBIOS/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰 with appDir support
 - [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
