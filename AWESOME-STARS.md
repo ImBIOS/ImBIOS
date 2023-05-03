@@ -59,6 +59,7 @@
 
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when screen recording.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -66,7 +67,6 @@
 
 ## CMake 
 
-- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when screen recording.
 - [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own mult
 
 ## CSS 
@@ -258,6 +258,7 @@
 
 ## Python 
 
+- [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile) - Github Action to create a .env file with Github Secrets
 - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 - [ImBIOS/ImBIOS](https://github.com/ImBIOS/ImBIOS) - README of ImBIOS
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
