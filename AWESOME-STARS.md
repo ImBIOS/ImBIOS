@@ -134,6 +134,7 @@
 
 ## JavaScript 
 
+- [kentcdodds/js-testing-fundamentals](https://github.com/kentcdodds/js-testing-fundamentals) - Fundamentals of Testing in JavaScript on TestingJavaScript.com
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ImBIOS/next-pwa](https://github.com/ImBIOS/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰 with appDir support
 - [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
@@ -199,6 +200,8 @@
 
 ## Kotlin 
 
+- [ImBIOS/ExamBrowser-Android](https://github.com/ImBIOS/ExamBrowser-Android) - 
+- [syntaxxxxx/version-catalog-android-template](https://github.com/syntaxxxxx/version-catalog-android-template) - 
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [dzikirqu/dzikirqu-android](https://github.com/dzikirqu/dzikirqu-android) - Is an All in One app for Muslims with lots of features such as Prayer Times & Adhan, Collections of Dhikr and Prayer sourced from Authentic Hadith, The Holy Qur'an, Qibla, Notes and many more!
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
