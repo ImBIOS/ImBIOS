@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -84,6 +85,10 @@
 ## Dockerfile 
 
 - [v-je/docker](https://github.com/v-je/docker) - Easy to use docker environment for PHP development. With zero configuration supports hosting multiple websites, valid SSL certificates (for HTTPS and HTTP 2 development), HTTP2 support. See https://r.
+
+## Fluent 
+
+- [rust-lang/www.rust-lang.org](https://github.com/rust-lang/www.rust-lang.org) - The home of the Rust website
 
 ## FreeMarker 
 
@@ -309,6 +314,7 @@
 
 ## TypeScript 
 
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
