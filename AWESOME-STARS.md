@@ -140,6 +140,7 @@
 
 ## JavaScript 
 
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [kentcdodds/js-testing-fundamentals](https://github.com/kentcdodds/js-testing-fundamentals) - Fundamentals of Testing in JavaScript on TestingJavaScript.com
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ImBIOS/next-pwa](https://github.com/ImBIOS/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰 with appDir support
@@ -319,7 +320,6 @@
 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
