@@ -45,6 +45,7 @@
 
 ## C 
 
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
@@ -321,6 +322,8 @@
 
 ## TypeScript 
 
+- [alibaba/pipcook](https://github.com/alibaba/pipcook) - Machine learning platform for Web developers
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
