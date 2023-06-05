@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [ImBIOS/go-micho-twitter](https://github.com/ImBIOS/go-micho-twitter) - Twitter-like API written in Go, using Echo framework.
@@ -141,6 +142,8 @@
 
 ## JavaScript 
 
+- [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ImBIOS/story-app](https://github.com/ImBIOS/story-app) - This is a story app that allows users to create stories.
 - [ImBIOS/bookshelf-apps](https://github.com/ImBIOS/bookshelf-apps) - Using only HTML, CSS, and JavaScript; This is a bookshelf app that allows you to search for books and add them to your bookshelf. You can also remove books from your bookshelf.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
@@ -273,6 +276,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile) - Github Action to create a .env file with Github Secrets
 - [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
@@ -329,7 +333,7 @@
 - [alibaba/pipcook](https://github.com/alibaba/pipcook) - Machine learning platform for Web developers
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
