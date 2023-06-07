@@ -69,7 +69,7 @@
 
 ## CMake 
 
-- [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own mult
+- [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) and AXera-Pi Pro (AX650N) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users
 
 ## CSS 
 
