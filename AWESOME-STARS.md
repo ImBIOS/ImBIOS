@@ -135,6 +135,7 @@
 
 ## Java 
 
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [ThanosFisherman/WifiUtils](https://github.com/ThanosFisherman/WifiUtils) - Easily Connect to WiFi Networks
 - [mhmdJalal/UI-LoginApp](https://github.com/mhmdJalal/UI-LoginApp) - 
 - [heyletscode/Chat-App-In-Android-And-NodeJS-Using-WebSockets](https://github.com/heyletscode/Chat-App-In-Android-And-NodeJS-Using-WebSockets) - 
@@ -143,6 +144,7 @@
 
 ## JavaScript 
 
+- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ImBIOS/story-app](https://github.com/ImBIOS/story-app) - This is a story app that allows users to create stories.
@@ -298,6 +300,7 @@
 
 ## Rust 
 
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple, high performance and secure live media server in pure Rust (RTMP[cluster]/HTTP-FLV/HLS).🦀
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [jordanbray/chess](https://github.com/jordanbray/chess) - A rust library to manage chess move generation
