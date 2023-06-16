@@ -301,6 +301,9 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for research purposes
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [Xudong-Huang/may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - mini http implemented on top of may
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple, high performance and secure live media server in pure Rust (RTMP[cluster]/HTTP-FLV/HLS).🦀
