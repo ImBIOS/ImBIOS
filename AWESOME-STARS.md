@@ -146,6 +146,7 @@
 
 ## JavaScript 
 
+- [Wizehive/firepoker](https://github.com/Wizehive/firepoker) - Agile Planning Poker® powered by Firebase and AngularJS
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -396,7 +397,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [Clytage/whatsapp-bot](https://github.com/Clytage/whatsapp-bot) - A simple and easy-to-use WhatsApp bot project, written in TypeScript.
 - [ImBIOS/azurehackathon2022_frontend](https://github.com/ImBIOS/azurehackathon2022_frontend) - 
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and info products, write blogs, host podcasts on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
