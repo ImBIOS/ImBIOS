@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -226,6 +227,10 @@
 - [dzikirqu/dzikirqu-android](https://github.com/dzikirqu/dzikirqu-android) - Is an All in One app for Muslims with lots of features such as Prayer Times & Adhan, Collections of Dhikr and Prayer sourced from Authentic Hadith, The Holy Qur'an, Qibla, Notes and many more!
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
 
+## MDX 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Makefile 
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -306,7 +311,6 @@
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for research purposes
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [Xudong-Huang/may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - mini http implemented on top of may
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple, high performance and secure live media server in pure Rust (RTMP[cluster]/HTTP-FLV/HLS).🦀
