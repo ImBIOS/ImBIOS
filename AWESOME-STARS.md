@@ -398,7 +398,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [Clytage/whatsapp-bot](https://github.com/Clytage/whatsapp-bot) - A simple and easy-to-use WhatsApp bot project, written in TypeScript.
 - [ImBIOS/azurehackathon2022_frontend](https://github.com/ImBIOS/azurehackathon2022_frontend) - 
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and info products, write blogs, host podcasts on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
