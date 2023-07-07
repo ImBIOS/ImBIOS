@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Fluent](#fluent)
@@ -54,6 +55,8 @@
 
 ## C# # 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - The application for displaying pressed keys of the keyboard
 - [ManakhovN/FigmaToUnityImporter](https://github.com/ManakhovN/FigmaToUnityImporter) - The project that imports nodes from Figma into unity.
 - [DevZhav/unity-moba](https://github.com/DevZhav/unity-moba) - A Multiplayer Online Battle Arena Toolkit for Unity3D with its services and database
@@ -79,6 +82,10 @@
 - [xendit/checkout-demo](https://github.com/xendit/checkout-demo) - Sample code for demonstrating Xendit Checkout including creating invoice, redirection type, and type of integration through desktop or mobile view.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
+
+## Crystal 
+
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
 ## Dart 
 
@@ -145,6 +152,7 @@
 
 ## JavaScript 
 
+- [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [Wizehive/firepoker](https://github.com/Wizehive/firepoker) - Agile Planning Poker® powered by Firebase and AngularJS
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
@@ -287,6 +295,8 @@
 
 ## Python 
 
+- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
@@ -308,6 +318,7 @@
 
 ## Rust 
 
+- [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [ImBIOS/lorust](https://github.com/ImBIOS/lorust) - Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -340,6 +351,7 @@
 
 ## TypeScript 
 
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [dan-kwiat/openai-edge](https://github.com/dan-kwiat/openai-edge) - 
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
