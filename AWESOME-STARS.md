@@ -355,6 +355,7 @@
 
 ## TypeScript 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [ImBIOS/nextjs-tauri-macos-titlebar](https://github.com/ImBIOS/nextjs-tauri-macos-titlebar) - Template for Next.js + Tauri with macOS Title Bar Configured
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
