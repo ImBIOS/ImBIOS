@@ -358,6 +358,7 @@
 
 ## TypeScript 
 
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [ImBIOS/nextjs-flask-lab](https://github.com/ImBIOS/nextjs-flask-lab) - 
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
