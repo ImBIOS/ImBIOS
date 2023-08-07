@@ -164,6 +164,7 @@
 - [ImBIOS/bookshelf-apps](https://github.com/ImBIOS/bookshelf-apps) - Using only HTML, CSS, and JavaScript; This is a bookshelf app that allows you to search for books and add them to your bookshelf. You can also remove books from your bookshelf.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [kentcdodds/js-testing-fundamentals](https://github.com/kentcdodds/js-testing-fundamentals) - Fundamentals of Testing in JavaScript on TestingJavaScript.com
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ImBIOS/next-pwa](https://github.com/ImBIOS/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰 with appDir support
 - [entropitor/dotenv-cli](https://github.com/entropitor/dotenv-cli) - A cli to load dotenv files
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
@@ -255,6 +256,7 @@
 
 ## Others 
 
+- [itmi-id/.github](https://github.com/itmi-id/.github) - 
 - [TakSec/google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty) - A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [PalindromeLabs/awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security) - Awesome information for WebSockets security research
@@ -387,7 +389,6 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile) - Github Action to create a .env file with Github Secrets
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
