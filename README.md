@@ -101,18 +101,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
+      <a href="https://github.com/HaradaKumiko">
+        <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
+      </a>
+      <br />
+      <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/farkhanmaul">
         <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
       </a>
       <br />
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/uwaisalqadri">
-        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
-      </a>
-      <br />
-      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
     <td align="center">
       <a href="https://github.com/darioalessandro">
@@ -122,12 +122,21 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
     <td align="center">
+      <a href="https://github.com/uwaisalqadri">
+        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
+      </a>
+      <br />
+      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/wagyufari">
         <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
@@ -135,8 +144,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/mwafrika">
         <img src="https://avatars2.githubusercontent.com/u/25848053" width="100px;" alt="mwafrika"/>
@@ -159,6 +166,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/angelhodar">Angel</a>
     </td>
     <td align="center">
+      <a href="https://github.com/RazinSyakib43">
+        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
+      </a>
+      <br />
+      <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
       </a>
@@ -172,13 +186,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/adipurnamk">adipurnamk</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/RazinSyakib43">
-        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
-      </a>
-      <br />
-      <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Hencya">
         <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
@@ -186,8 +195,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
@@ -229,13 +236,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/auliamnaufal">Naufal Aulia</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AhmedGsa">
-        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
     </td>
   </tr>
 </table>
