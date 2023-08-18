@@ -143,6 +143,7 @@
 
 ## Java 
 
+- [KjellConnelly/react-native-shared-group-preferences](https://github.com/KjellConnelly/react-native-shared-group-preferences) - 
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [ThanosFisherman/WifiUtils](https://github.com/ThanosFisherman/WifiUtils) - Easily Connect to WiFi Networks
 - [mhmdJalal/UI-LoginApp](https://github.com/mhmdJalal/UI-LoginApp) - 
@@ -152,6 +153,7 @@
 
 ## JavaScript 
 
+- [magicismight/react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - react native toast like component, pure javascript solution
 - [ImBIOS/GAS-CertificateCreationAndEmail](https://github.com/ImBIOS/GAS-CertificateCreationAndEmail) - Automated Certificate Generator & Email Sender with Google Apps Script
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
@@ -359,6 +361,7 @@
 
 ## TypeScript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - Zero-config PWA plugin for Next.js, powered by either Workbox or ServiceWorker 🧰
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [ImBIOS/nextjs-flask-lab](https://github.com/ImBIOS/nextjs-flask-lab) - 
