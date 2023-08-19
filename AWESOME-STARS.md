@@ -325,6 +325,7 @@
 
 ## Rust 
 
+- [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version and dependency manager.
 - [dimusic/active-win-pos-rs](https://github.com/dimusic/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [ImBIOS/lorust](https://github.com/ImBIOS/lorust) - Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
@@ -361,6 +362,7 @@
 
 ## TypeScript 
 
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - Zero-config PWA plugin for Next.js, powered by either Workbox or ServiceWorker 🧰
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
