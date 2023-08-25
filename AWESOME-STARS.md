@@ -327,7 +327,8 @@
 
 ## Rust 
 
-- [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version and dependency manager.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+- [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [dimusic/active-win-pos-rs](https://github.com/dimusic/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [ImBIOS/lorust](https://github.com/ImBIOS/lorust) - Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
