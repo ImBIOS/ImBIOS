@@ -217,13 +217,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
     <td align="center">
-      <a href="https://github.com/doniwirawan">
-        <img src="https://avatars2.githubusercontent.com/u/54931717" width="100px;" alt="doniwirawan"/>
-      </a>
-      <br />
-      <a href="https://github.com/doniwirawan">Doni Wirawan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/feynon">
         <img src="https://avatars2.githubusercontent.com/u/41825871" width="100px;" alt="feynon"/>
       </a>
@@ -231,11 +224,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/feynon">Ankesh Bharti</a>
     </td>
     <td align="center">
-      <a href="https://github.com/auliamnaufal">
-        <img src="https://avatars2.githubusercontent.com/u/60921990" width="100px;" alt="auliamnaufal"/>
+      <a href="https://github.com/doniwirawan">
+        <img src="https://avatars2.githubusercontent.com/u/54931717" width="100px;" alt="doniwirawan"/>
       </a>
       <br />
-      <a href="https://github.com/auliamnaufal">Naufal Aulia</a>
+      <a href="https://github.com/doniwirawan">Doni Wirawan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedGsa">
+        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
     </td>
   </tr>
 </table>
