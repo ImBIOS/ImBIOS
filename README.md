@@ -101,6 +101,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
+      <a href="https://github.com/fiqryq">
+        <img src="https://avatars2.githubusercontent.com/u/25787603" width="100px;" alt="fiqryq"/>
+      </a>
+      <br />
+      <a href="https://github.com/fiqryq">Fiqry choerudin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HaradaKumiko">
         <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
       </a>
@@ -128,6 +135,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/mwafrika">
         <img src="https://avatars2.githubusercontent.com/u/25848053" width="100px;" alt="mwafrika"/>
@@ -135,8 +144,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/mwafrika">MWAFRIKA MUFUNGIZI </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
@@ -179,6 +186,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/dzakdzaks">Dzaky</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/adipurnamk">
         <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
@@ -186,8 +195,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/adipurnamk">adipurnamk</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Hencya">
         <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
@@ -229,13 +236,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/doniwirawan">Doni Wirawan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AhmedGsa">
-        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
     </td>
   </tr>
 </table>
