@@ -152,7 +152,6 @@
 - [mhmdJalal/UI-LoginApp](https://github.com/mhmdJalal/UI-LoginApp) - 
 - [heyletscode/Chat-App-In-Android-And-NodeJS-Using-WebSockets](https://github.com/heyletscode/Chat-App-In-Android-And-NodeJS-Using-WebSockets) - 
 - [vianziro/ExamBrowser-Android](https://github.com/vianziro/ExamBrowser-Android) - Aplikasi Exam Browser untuk Android
-- [jhipster/jhipster-sample-app](https://github.com/jhipster/jhipster-sample-app) - This is a sample application created with JHipster
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## JavaScript 
@@ -468,6 +467,7 @@
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 - [colinhacks/next-firebase-ssr](https://github.com/colinhacks/next-firebase-ssr) - An Next.js example repo for building authenticated pages with Firebase Authentication, cookies, and getServerSideProps
+- [jhipster/jhipster-sample-app](https://github.com/jhipster/jhipster-sample-app) - This is a sample application created with JHipster
 - [rishiosaur/ll](https://github.com/rishiosaur/ll) - ⚡️ A blazing fast link shortener powered by Next.js and DNS magic!
 
 ## Vue 
