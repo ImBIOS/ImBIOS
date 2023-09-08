@@ -139,7 +139,6 @@
 - [mindninjaX/100DaysOfCode](https://github.com/mindninjaX/100DaysOfCode) - A GitHub Repo for my #100DaysOfCode challenge projects
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [TheSoftwareHouse/Kakunin](https://github.com/TheSoftwareHouse/Kakunin) - An E2E testing framework
-- [farizdotid/DAFTAR-API-LOKAL-INDONESIA](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia &lt;3
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Java 
@@ -285,6 +284,7 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [ImBIOS/MyFlix-API](https://github.com/ImBIOS/MyFlix-API) - Netflix API clone built with Laravel
+- [farizdotid/DAFTAR-API-LOKAL-INDONESIA](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia &lt;3
 - [nafplann/codeigniter-alumni-app](https://github.com/nafplann/codeigniter-alumni-app) - Aplikasi alumni menggunakan codeigniter dan materialize css framework
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [woodwardtw/gfolder_embed](https://github.com/woodwardtw/gfolder_embed) - WordPress shortcode for embedding Google Folders
