@@ -159,7 +159,7 @@
 - [magicismight/react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - react native toast like component, pure javascript solution
 - [ImBIOS/GAS-CertificateCreationAndEmail](https://github.com/ImBIOS/GAS-CertificateCreationAndEmail) - Automated Certificate Generator & Email Sender with Google Apps Script
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, 
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [Wizehive/firepoker](https://github.com/Wizehive/firepoker) - Agile Planning Poker® powered by Firebase and AngularJS
@@ -282,7 +282,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [ImBIOS/MyFlix-API](https://github.com/ImBIOS/MyFlix-API) - Netflix API clone built with Laravel
 - [farizdotid/DAFTAR-API-LOKAL-INDONESIA](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia &lt;3
 - [nafplann/codeigniter-alumni-app](https://github.com/nafplann/codeigniter-alumni-app) - Aplikasi alumni menggunakan codeigniter dan materialize css framework
