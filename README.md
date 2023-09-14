@@ -13,7 +13,7 @@
 
 <!-- Counting views, -->
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
-![profile view](https://komarev.com/ghpvc/?username=ImBIOS)
+<!--![profile view](https://komarev.com/ghpvc/?username=ImBIOS)-->
 
 ## ▶️ Latest Youtube Videos
 
