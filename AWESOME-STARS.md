@@ -132,7 +132,7 @@
 
 ## HTML 
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [pi-hole/docs](https://github.com/pi-hole/docs) - The official Pi-hole documentation
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [craftzdog/link-in-bio](https://github.com/craftzdog/link-in-bio) - Link in bio page for my Instagram profile
