@@ -122,34 +122,34 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
     </td>
     <td align="center">
-      <a href="https://github.com/uwaisalqadri">
-        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
-      </a>
-      <br />
-      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/darioalessandro">
         <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
       </a>
       <br />
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/hkatzdev">
-        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
+      <a href="https://github.com/uwaisalqadri">
+        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
       </a>
       <br />
-      <a href="https://github.com/hkatzdev">Harrison Katz</a>
+      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/mwafrika">
         <img src="https://avatars2.githubusercontent.com/u/25848053" width="100px;" alt="mwafrika"/>
       </a>
       <br />
       <a href="https://github.com/mwafrika">MWAFRIKA MUFUNGIZI </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hkatzdev">
+        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
     <td align="center">
       <a href="https://github.com/wagyufari">
@@ -166,18 +166,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
     <td align="center">
-      <a href="https://github.com/angelhodar">
-        <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
-      </a>
-      <br />
-      <a href="https://github.com/angelhodar">Angel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/RazinSyakib43">
         <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
       </a>
       <br />
       <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/angelhodar">
+        <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
+      </a>
+      <br />
+      <a href="https://github.com/angelhodar">Angel</a>
     </td>
     <td align="center">
       <a href="https://github.com/adipurnamk">
