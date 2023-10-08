@@ -29,11 +29,11 @@
 ## 📚 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
-- 2023-05-02 [Why is it so hard to create PWA with Next.js?](https://blog.imam.dev/post/pwa-in-nextjs?utm_source=GitHubProfile)
-- 2023-04-23 [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://blog.imam.dev/post/how-i-made-a-reminder-to-write-a-blog-using-github-action?utm_source=GitHubProfile)
-- 2023-04-14 [3 Scalable Next.js Architecture Boilerplate](https://blog.imam.dev/post/3-scalable-nextjs-architecture-boilerplate?utm_source=GitHubProfile)
-- 2022-12-20 [Hello React, Goodbye useEffect (I Hope)](https://blog.imam.dev/post/hello-react-18-goodbye-useffect?utm_source=GitHubProfile)
-- 2022-12-07 [Cardus App - Open Source Personal Warehouse Management App](https://blog.imam.dev/post/mongodb-atlashackathon22?utm_source=GitHubProfile)
+- 2023-10-01 [Complete Guide to Deploying Next.js Standalone with Bun and Docker](https://blog.imam.dev/blog/how-to-deploy-nextjs-standalone-with-bun-and-docker?utm_source=GitHubProfile)
+- 2023-05-02 [Why is it so hard to create PWA with Next.js?](https://blog.imam.dev/blog/pwa-in-nextjs?utm_source=GitHubProfile)
+- 2023-04-23 [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://blog.imam.dev/blog/how-i-made-a-reminder-to-write-a-blog-using-github-action?utm_source=GitHubProfile)
+- 2023-04-14 [3 Scalable Next.js Architecture Boilerplate](https://blog.imam.dev/blog/3-scalable-nextjs-architecture-boilerplate?utm_source=GitHubProfile)
+- 2022-12-20 [Hello React, Goodbye useEffect (I Hope)](https://blog.imam.dev/blog/hello-react-18-goodbye-useffect?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ## 🎁 Products
