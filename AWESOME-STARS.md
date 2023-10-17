@@ -374,6 +374,7 @@
 
 ## TypeScript 
 
+- [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [itmi-id/datepicker](https://github.com/itmi-id/datepicker) - A simple datepicker with Chakra-UI and date-fns
 - [ImBIOS/i18n-num-in-words](https://github.com/ImBIOS/i18n-num-in-words) - Number utility to convert number to words in any language.
