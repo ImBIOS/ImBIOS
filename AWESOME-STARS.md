@@ -373,6 +373,7 @@
 
 ## TypeScript 
 
+- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
