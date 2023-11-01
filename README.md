@@ -159,18 +159,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Syafiq1331">
-        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
-      </a>
-      <br />
-      <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/RazinSyakib43">
         <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
       </a>
       <br />
       <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Syafiq1331">
+        <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
+      </a>
+      <br />
+      <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
     <td align="center">
       <a href="https://github.com/angelhodar">
@@ -189,18 +189,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/dzakdzaks">
-        <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
-      </a>
-      <br />
-      <a href="https://github.com/dzakdzaks">Dzaky</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dzakdzaks">
+        <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
+      </a>
+      <br />
+      <a href="https://github.com/dzakdzaks">Dzaky</a>
     </td>
     <td align="center">
       <a href="https://github.com/Hencya">
@@ -210,20 +210,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fahminlb33">
-        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
-      </a>
-      <br />
-      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KORLA2">
-        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
-      </a>
-      <br />
-      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/feynon">
         <img src="https://avatars2.githubusercontent.com/u/41825871" width="100px;" alt="feynon"/>
       </a>
@@ -231,11 +217,25 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/feynon">Ankesh Bharti</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AhmedGsa">
-        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
+      <a href="https://github.com/fahminlb33">
+        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
       </a>
       <br />
-      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
+      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vianziro">
+        <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
+      </a>
+      <br />
+      <a href="https://github.com/vianziro">vianziro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KORLA2">
+        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
+      </a>
+      <br />
+      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
   </tr>
 </table>
