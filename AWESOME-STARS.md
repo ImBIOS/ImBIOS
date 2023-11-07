@@ -168,6 +168,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ImBIOS/story-app](https://github.com/ImBIOS/story-app) - This is a story app that allows users to create stories.
 - [ImBIOS/bookshelf-apps](https://github.com/ImBIOS/bookshelf-apps) - Using only HTML, CSS, and JavaScript; This is a bookshelf app that allows you to search for books and add them to your bookshelf. You can also remove books from your bookshelf.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
@@ -264,6 +265,7 @@
 
 ## Others 
 
+- [MyBotRun/MyBot](https://github.com/MyBotRun/MyBot) - Public source to MyBot
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [itmi-id/.github](https://github.com/itmi-id/.github) - 
 - [TakSec/google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty) - A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
@@ -336,7 +338,6 @@
 
 ## Rust 
 
-- [ImBIOS/Exercism](https://github.com/ImBIOS/Exercism) - My Exercism Journey
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
@@ -404,7 +405,7 @@
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js 14 and Medusa.
 - [drizzle-team/drizzle-northwind-benchmarks-pg](https://github.com/drizzle-team/drizzle-northwind-benchmarks-pg) - Postgres benchmarks between Drizzle ORM and other popular ORM libraries
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
 - [ImBIOS/nextjs-tauri-macos-titlebar](https://github.com/ImBIOS/nextjs-tauri-macos-titlebar) - Template for Next.js + Tauri with macOS Title Bar Configured
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
@@ -416,7 +417,6 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [saleor/storefront](https://github.com/saleor/storefront) - Saleor Storefront built with React 18, Next.js 14, App Router, TypeScript, GraphQL, and Tailwind CSS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
@@ -499,6 +499,7 @@
 
 ## Zig 
 
+- [ImBIOS/Exercism](https://github.com/ImBIOS/Exercism) - My Exercism Journey
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
