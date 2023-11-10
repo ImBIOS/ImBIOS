@@ -449,7 +449,7 @@
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 - [ImBIOS/gitmemoji](https://github.com/ImBIOS/gitmemoji) - An app to learn gitmoji emojis
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
