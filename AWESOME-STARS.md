@@ -73,7 +73,7 @@
 ## CMake 
 
 - [occ-ai/obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
-- [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) and AXera-Pi Pro (AX650N) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users
+- [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) , AXera-Pi Pro (AX650N) and AX620E shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful 
 
 ## CSS 
 
@@ -266,6 +266,7 @@
 
 ## Others 
 
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [MyBotRun/MyBot](https://github.com/MyBotRun/MyBot) - Public source to MyBot
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [itmi-id/.github](https://github.com/itmi-id/.github) - 
@@ -381,6 +382,8 @@
 
 ## TypeScript 
 
+- [ImBIOS/aicommits](https://github.com/ImBIOS/aicommits) - A CLI that writes your git commit messages for you with AI
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
