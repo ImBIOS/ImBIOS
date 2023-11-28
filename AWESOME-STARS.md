@@ -384,6 +384,7 @@
 
 ## TypeScript 
 
+- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [ImBIOS/aicommits](https://github.com/ImBIOS/aicommits) - A CLI that writes your git commit messages for you with AI
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
