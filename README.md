@@ -138,18 +138,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mwafrika">
-        <img src="https://avatars2.githubusercontent.com/u/25848053" width="100px;" alt="mwafrika"/>
-      </a>
-      <br />
-      <a href="https://github.com/mwafrika">MWAFRIKA MUFUNGIZI </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mwafrika">
+        <img src="https://avatars2.githubusercontent.com/u/25848053" width="100px;" alt="mwafrika"/>
+      </a>
+      <br />
+      <a href="https://github.com/mwafrika">MWAFRIKA MUFUNGIZI </a>
     </td>
     <td align="center">
       <a href="https://github.com/wagyufari">
@@ -180,27 +180,27 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/angelhodar">Angel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/adipurnamk">
-        <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
-      </a>
-      <br />
-      <a href="https://github.com/adipurnamk">adipurnamk</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
       </a>
       <br />
       <a href="https://github.com/dzakdzaks">Dzaky</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adipurnamk">
+        <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
+      </a>
+      <br />
+      <a href="https://github.com/adipurnamk">adipurnamk</a>
     </td>
     <td align="center">
       <a href="https://github.com/Hencya">
