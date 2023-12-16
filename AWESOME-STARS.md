@@ -55,7 +55,7 @@
 
 ## C# # 
 
-- [microsoft/devhome](https://github.com/microsoft/devhome) - Dev Home Experience
+- [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - The application for displaying pressed keys of the keyboard
@@ -348,6 +348,7 @@
 
 ## Rust 
 
+- [melak47/treesize-rs](https://github.com/melak47/treesize-rs) - List directory tree, sorted by size
 - [ImBIOS/biome](https://github.com/ImBIOS/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
@@ -392,6 +393,8 @@
 
 ## TypeScript 
 
+- [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [algora-io/sdk](https://github.com/algora-io/sdk) - List your bounties, top contributors, org stats & more
 - [ImBIOS/bun-to-rupiah-repro](https://github.com/ImBIOS/bun-to-rupiah-repro) - 
 - [shahriarsajeeb/Food-Delivery-WebApp](https://github.com/shahriarsajeeb/Food-Delivery-WebApp) - 
