@@ -319,7 +319,6 @@
 
 ## Python 
 
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [gurock/trcli](https://github.com/gurock/trcli) - TR CLI (trcli) is a command line tool for interacting with TestRail.
 - [ImBIOS/Pi-Router-Smart-Controller](https://github.com/ImBIOS/Pi-Router-Smart-Controller) - Controlling router power to auto-reboot if necessary.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -378,6 +377,7 @@
 
 ## Shell 
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [gurock/automation-frameworks-integration](https://github.com/gurock/automation-frameworks-integration) - 
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -394,6 +394,7 @@
 
 ## TypeScript 
 
+- [testing-library/user-event](https://github.com/testing-library/user-event) - 🐕 Simulate user events
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [algora-io/sdk](https://github.com/algora-io/sdk) - List your bounties, top contributors, org stats & more
