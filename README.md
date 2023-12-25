@@ -63,7 +63,7 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 
 <!-- <img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt" /> -->
 
-<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&theme=cobalt" />
+<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
 
 <!-- <img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact&theme=cobalt" /> -->
 
