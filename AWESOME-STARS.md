@@ -128,7 +128,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [budsx/go-clean](https://github.com/budsx/go-clean) - Clean Architecture API -  Golang
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
 - [alexellis/kubernetes-todo-go-app](https://github.com/alexellis/kubernetes-todo-go-app) - A TODO API for Kubernetes written in go
@@ -405,6 +405,7 @@
 
 ## TypeScript 
 
+- [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 - [upstash/ratelimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes
 - [fahreziadh/bikinsoal](https://github.com/fahreziadh/bikinsoal) - A Next.js Project that implements GPT-3.5 turbo, T3-Stack App Router, Next-auth, Drizzle and ShadcnUI
 - [testing-library/user-event](https://github.com/testing-library/user-event) - 🐕 Simulate user events
