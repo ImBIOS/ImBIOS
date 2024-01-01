@@ -122,18 +122,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
     </td>
     <td align="center">
-      <a href="https://github.com/uwaisalqadri">
-        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
-      </a>
-      <br />
-      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/darioalessandro">
         <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
       </a>
       <br />
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/uwaisalqadri">
+        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
+      </a>
+      <br />
+      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
   </tr>
   <tr>
@@ -217,13 +217,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vianziro">
-        <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
-      </a>
-      <br />
-      <a href="https://github.com/vianziro">vianziro</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KORLA2">
         <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
       </a>
@@ -231,11 +224,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
     <td align="center">
-      <a href="https://github.com/doniwirawan">
-        <img src="https://avatars2.githubusercontent.com/u/54931717" width="100px;" alt="doniwirawan"/>
+      <a href="https://github.com/vianziro">
+        <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
       </a>
       <br />
-      <a href="https://github.com/doniwirawan">Doni Wirawan</a>
+      <a href="https://github.com/vianziro">vianziro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AhmedGsa">
+        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
+      </a>
+      <br />
+      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
     </td>
   </tr>
 </table>
