@@ -63,9 +63,26 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 
 <!-- <img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt" /> -->
 
-<img alt="ImBIOS's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
+<div>
+  <a href="https://github.com/ImBIOS">
+    <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
+  </a>
+</div>
 
 <!-- <img alt="ImBIOS's Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbios&layout=compact&theme=cobalt" /> -->
+<a href="https://stackoverflow.com/users/13218717/imbios">
+  <img width="45%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13218717?theme=dark&website=true&location=true" alt="user:13218717's SO profile">
+</a>
+
+<div>
+  <a href="https://stackoverflow.com/users/13218717/imbios">
+    <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/next.js/13218717?theme=dark" alt="user:13218717's SO ranking for next.js">
+  </a>
+
+  <a href="https://stackoverflow.com/users/13218717/imbios">
+    <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/git/13218717?theme=dark" alt="user:13218717's SO ranking for next.js">
+  </a>
+</div>
 
 ## 🎖️ Badge
 
