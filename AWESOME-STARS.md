@@ -36,6 +36,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -169,6 +170,7 @@
 
 ## JavaScript 
 
+- [ImBIOS/next_microfrontend](https://github.com/ImBIOS/next_microfrontend) - This project demonstrates the implementation of a micro-frontend architecture using React and Next.js.
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -280,6 +282,7 @@
 
 ## Others 
 
+- [ImBIOS/realworld-rujak](https://github.com/ImBIOS/realworld-rujak) - Rujak-ed RealWorld framework implemented using any bleeding tech I want to learn.
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [MyBotRun/MyBot](https://github.com/MyBotRun/MyBot) - Public source to MyBot
@@ -400,12 +403,20 @@
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
+## Svelte 
+
+- [johannchopin/stackoverflow-readme-profile](https://github.com/johannchopin/stackoverflow-readme-profile) - Easily share your Stackoverflow's profile on your README
+
 ## Swift 
 
 - [kevinhermawan/Canvas](https://github.com/kevinhermawan/Canvas) - A DALL·E playground for the Mac
 
 ## TypeScript 
 
+- [n4ze3m/lol](https://github.com/n4ze3m/lol) - 
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [sefininio/microservices-realworld-app](https://github.com/sefininio/microservices-realworld-app) - A realworld app implementation using nx, nest.js & graphql using a micro-services approach
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
