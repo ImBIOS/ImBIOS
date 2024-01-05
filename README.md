@@ -80,7 +80,7 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </a>
 
   <a href="https://stackoverflow.com/users/13218717/imbios">
-    <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/git/13218717?theme=dark" alt="user:13218717's SO ranking for next.js">
+    <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/github/13218717?theme=dark" alt="user:13218717's SO ranking for next.js">
   </a>
 </div>
 
