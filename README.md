@@ -228,18 +228,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fahminlb33">
-        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
-      </a>
-      <br />
-      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KORLA2">
         <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
       </a>
       <br />
       <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fahminlb33">
+        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
+      </a>
+      <br />
+      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
       <a href="https://github.com/vianziro">
