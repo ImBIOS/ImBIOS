@@ -2,7 +2,6 @@
 
 [![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios)
 
-[Web](https://www.imam.dev/) •
 [Discord](https://discordapp.com/users/363896575396806667) •
 [Twitter](https://twitter.com/imamdev_) •
 [Instagram](https://www.instagram.com/imamdev_) •
