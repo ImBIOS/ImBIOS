@@ -2,13 +2,10 @@
 
 [![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios)
 
-[Discord](https://discordapp.com/users/363896575396806667) •
-[Twitter](https://twitter.com/imamdev_) •
-[Instagram](https://www.instagram.com/imamdev_) •
+[Twitter](https://twitter.com/ImBIOS_Dev) •
 [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam) •
-[Showwcase](http://www.showwcase.com/imbios) •
-[Dev.to](https://dev.to/imbios) •
-[Youtube](https://s.imam.dev/yt)
+[Blog](https://blog.imbios.dev) •
+[YouTube](https://s.imbios.dev/yt)
 
 <!-- Counting views, -->
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->

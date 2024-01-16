@@ -71,7 +71,7 @@ const sortJson = (json) => {
 };
 
 // Read XML file and convert to JSON
-const xmlString = readFileSync('feed.xml', 'utf8');
+const xmlString = readFileSync('rss.xml', 'utf8');
 const feeds = sortJson(xmlToJson(xmlString).rss.channel.item);
 
 // Create Markdown list of posts
