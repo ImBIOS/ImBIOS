@@ -152,6 +152,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/RazinSyakib43">
+        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
+      </a>
+      <br />
+      <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
@@ -171,13 +178,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RazinSyakib43">
-        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
-      </a>
-      <br />
-      <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
     </td>
     <td align="center">
       <a href="https://github.com/Syafiq1331">
