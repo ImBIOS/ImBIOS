@@ -1,4 +1,4 @@
-const { readFileSync, writeFileSync } = require('fs');
+const { readFileSync, writeFileSync } = require("fs");
 
 /**
  * Convert XML string to JSON
@@ -21,16 +21,16 @@ const xmlToJson = (xmlString) => {
       if (subValue.match(regex)) {
         if (Array.isArray(subJson[subKey])) {
           subJson[subKey].push(
-            xmlToJson(
-              `<${subKey}${subAttributes}>${subValue}</${subKey}>`
-            )[subKey]
+            xmlToJson(`<${subKey}${subAttributes}>${subValue}</${subKey}>`)[
+              subKey
+            ]
           );
         } else if (subJson[subKey]) {
           subJson[subKey] = [
             subJson[subKey],
-            xmlToJson(
-              `<${subKey}${subAttributes}>${subValue}</${subKey}>`
-            )[subKey],
+            xmlToJson(`<${subKey}${subAttributes}>${subValue}</${subKey}>`)[
+              subKey
+            ],
           ];
         } else {
           subJson[subKey] = xmlToJson(
@@ -71,7 +71,7 @@ const sortJson = (json) => {
 };
 
 // Read XML file and convert to JSON
-const xmlString = readFileSync('rss.xml', 'utf8');
+const xmlString = readFileSync("rss.xml", "utf8");
 const feeds = sortJson(xmlToJson(xmlString).rss.channel.item);
 
 // Create Markdown list of posts
@@ -79,22 +79,24 @@ const posts = feeds
   .slice(0, 5)
   .map(
     (item) =>
-      `- ${new Date(item.pubDate).toISOString().split('T')[0]} [${
+      `- ${new Date(item.pubDate).toISOString().split("T")[0]} [${
         item.title
       }](${item.link}?utm_source=GitHubProfile)`
   );
 
 // Update README.md if posts have changed,
 // otherwise throw an error to remind me to write a blog post
-const readme = readFileSync('README.md', 'utf8');
-if (readme.includes(posts.join('\n'))) {
-  throw new Error('No new blog posts');
-} else {
-  const updatedReadme = readFileSync('README.md', 'utf8').replace(
+const readme = readFileSync("README.md", "utf8");
+// if (readme.includes(posts.join('\n'))) {
+//   throw new Error('No new blog posts');
+// } else {
+const updatedReadme = readFileSync("README.md", "utf8")
+  .replace(
     /(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/,
-    posts.join('\n')
-  );
-  writeFileSync('README.md', updatedReadme);
+    posts.join("\n")
+  )
+  .replace(/<!\[CDATA\[(.*?)\]\]>/g, "$1");
+writeFileSync("README.md", updatedReadme);
 
-  console.log('Updated README.md');
-}
+console.log("Updated README.md");
+// }

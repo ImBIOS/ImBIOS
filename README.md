@@ -25,11 +25,11 @@
 ## 📚 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
-- 2023-05-02 [<![CDATA[Why is it so hard to create PWA with Next.js?]]>](https://blog.imbios.dev/why-is-it-so-hard-to-create-pwa-with-nextjs?utm_source=GitHubProfile)
-- 2023-04-23 [<![CDATA[How I Made a Reminder to Write a Blog Post Using GitHub Action]]>](https://blog.imbios.dev/how-i-made-a-reminder-to-write-a-blog-post-using-github-action?utm_source=GitHubProfile)
-- 2023-04-13 [<![CDATA[3 Scalable Next.js Architecture Boilerplate]]>](https://blog.imbios.dev/3-scalable-nextjs-architecture-boilerplate?utm_source=GitHubProfile)
-- 2022-12-24 [<![CDATA[Hello React, Goodbye useEffect (I Hope)]]>](https://blog.imbios.dev/hello-react-goodbye-useeffect-i-hope?utm_source=GitHubProfile)
-- 2022-12-23 [<![CDATA[Cardus App - Open Source Personal Warehouse Management App]]>](https://blog.imbios.dev/cardus-app-open-source-personal-warehouse-management-app?utm_source=GitHubProfile)
+- 2023-05-02 [Why is it so hard to create PWA with Next.js?](https://blog.imbios.dev/why-is-it-so-hard-to-create-pwa-with-nextjs?utm_source=GitHubProfile)
+- 2023-04-23 [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://blog.imbios.dev/how-i-made-a-reminder-to-write-a-blog-post-using-github-action?utm_source=GitHubProfile)
+- 2023-04-13 [3 Scalable Next.js Architecture Boilerplate](https://blog.imbios.dev/3-scalable-nextjs-architecture-boilerplate?utm_source=GitHubProfile)
+- 2022-12-24 [Hello React, Goodbye useEffect (I Hope)](https://blog.imbios.dev/hello-react-goodbye-useeffect-i-hope?utm_source=GitHubProfile)
+- 2022-12-23 [Cardus App - Open Source Personal Warehouse Management App](https://blog.imbios.dev/cardus-app-open-source-personal-warehouse-management-app?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ## 🎁 Products
@@ -318,4 +318,5 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 =m4hW
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 </details>
