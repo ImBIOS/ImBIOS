@@ -207,7 +207,6 @@
 - [ImBIOS/blogger-to-md](https://github.com/ImBIOS/blogger-to-md) - Convert Blogger & WordPress backup blog posts to markdown documents
 - [ImBIOS/next-to-ts](https://github.com/ImBIOS/next-to-ts) - Codemod to help you migrate your Next.js project to typescript in seconds
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [itmi-id/metabase-migration](https://github.com/itmi-id/metabase-migration) - Script to update and duplicate question/card in Metabase
 - [itmi-id/env-diff](https://github.com/itmi-id/env-diff) - 🛠 Simple tool for comparing two environment variable file
@@ -511,6 +510,7 @@
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 - [ImBIOS/gitmemoji](https://github.com/ImBIOS/gitmemoji) - An app to learn gitmoji emojis
+- [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
