@@ -417,6 +417,7 @@
 
 ## TypeScript 
 
+- [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 14 and Next.js 13.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [jakobhoeg/shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - Customizable and re-usable chat component for you to use in your projects. Built on top of shadcn.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
