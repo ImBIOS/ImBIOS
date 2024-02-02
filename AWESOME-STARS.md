@@ -351,6 +351,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [citation-file-format/ruby-cff](https://github.com/citation-file-format/ruby-cff) - A Ruby library for manipulating CITATION.cff files.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [ArdiansDev/socmedapp](https://github.com/ArdiansDev/socmedapp) - 
@@ -422,7 +423,6 @@
 - [jakobhoeg/shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - Customizable and re-usable chat component for you to use in your projects. Built on top of shadcn.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [calcom/synclinear.com](https://github.com/calcom/synclinear.com) - End-to-end sync of Linear and GitHub.
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [n4ze3m/lol](https://github.com/n4ze3m/lol) - 
