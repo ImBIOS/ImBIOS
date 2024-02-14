@@ -152,6 +152,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/RazinSyakib43">
+        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
+      </a>
+      <br />
+      <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
@@ -173,13 +180,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
     <td align="center">
-      <a href="https://github.com/RazinSyakib43">
-        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
-      </a>
-      <br />
-      <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Syafiq1331">
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
       </a>
@@ -194,14 +194,21 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/emRival">Rival</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xerx593">
+        <img src="https://avatars2.githubusercontent.com/u/294814" width="100px;" alt="xerx593"/>
+      </a>
+      <br />
+      <a href="https://github.com/xerx593">xerx593</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/angelhodar">
         <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
       </a>
       <br />
       <a href="https://github.com/angelhodar">Angel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -243,13 +250,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/vianziro">vianziro</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AhmedGsa">
-        <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
-      </a>
-      <br />
-      <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
     </td>
   </tr>
 </table>
