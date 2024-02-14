@@ -1,2 +1,3 @@
 .vscode/
 .dccache
+node_modules/

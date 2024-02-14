@@ -2,7 +2,7 @@ name: Blog Posts
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Run at 00:00 every Sunday
+    - cron: "0 0 * * 0" # Run at 00:00 every Sunday
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
       - name: Update post list
         run: |
-          curl -LO https://blog.imbios.dev/rss.xml
-          node src/list-posts.js
-          rm rss.xml
+          bun install --frozen-lockfile
+          bun src/list-posts.ts
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
