@@ -90,9 +90,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   <a href="https://www.credly.com/badges/f8d0a8bc-80b7-4058-b22a-c3c2211b27d6/public_url" rel="noreferer nofollow" target="_blank">
     <img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Badge" width="150" height="150" float="left" />
   </a>
-  <a href="#" rel="noreferer nofollow" target="_blank">
-    <img src="https://user-images.githubusercontent.com/41441643/201259584-6b5c24e6-cd8f-4713-ab7f-d5c5f86aabf7.png" alt="Postman API Fundamental Student Expert" width="150" height="150" float="left" />
-    </a>
 </div>
 
 ## ✨ Followers
