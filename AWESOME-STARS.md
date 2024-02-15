@@ -185,7 +185,7 @@
 - [magicismight/react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - react native toast like component, pure javascript solution
 - [ImBIOS/GAS-CertificateCreationAndEmail](https://github.com/ImBIOS/GAS-CertificateCreationAndEmail) - Automated Certificate Generator & Email Sender with Google Apps Script
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰90 clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content disc
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content di
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
@@ -422,6 +422,7 @@
 
 ## TypeScript 
 
+- [ImBIOS/common-char-extractor-ts](https://github.com/ImBIOS/common-char-extractor-ts) - Given an array of strings, write a function to find and return an array of characters that appear in the same position across all strings.
 - [ImBIOS/datepicker](https://github.com/ImBIOS/datepicker) - A simple datepicker with Chakra-UI and date-fns
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync vi
