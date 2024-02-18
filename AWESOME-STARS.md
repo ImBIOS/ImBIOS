@@ -515,7 +515,7 @@
 - [kuroski/github-issue-viewer](https://github.com/kuroski/github-issue-viewer) - A Github issue viewer apps
 - [ImBIOS/kajiansegar](https://github.com/ImBIOS/kajiansegar) - 
 - [uselessdev/datepicker](https://github.com/uselessdev/datepicker) - A simple datepicker with Chakra-UI and date-fns
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
