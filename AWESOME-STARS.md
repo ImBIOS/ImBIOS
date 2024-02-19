@@ -230,7 +230,7 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [atulmy/fullstack-javascript-architecture](https://github.com/atulmy/fullstack-javascript-architecture) - ✍️  Opinionated project architecture for Full-Stack JavaScript Applications.
 - [yuchiu/Netflix-Clone](https://github.com/yuchiu/Netflix-Clone) - Netflix like full-stack application with SPA client and backend implemented in service oriented architecture
-- [dibosh/simple-nodejs-scaffold](https://github.com/dibosh/simple-nodejs-scaffold) - The simple but essential boilerplate you wanted for API development in NodeJS
+- [itsmunim/simple-nodejs-scaffold](https://github.com/itsmunim/simple-nodejs-scaffold) - The simple but essential boilerplate you wanted for API development in NodeJS
 - [ImBIOS/simple-web-project-collection](https://github.com/ImBIOS/simple-web-project-collection) - Collection of website applications project that is simple and beginner-friendly to start your journey on Web Development Learning Path.
 - [manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website) - ✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.
 - [sampoder/gwa-votes](https://github.com/sampoder/gwa-votes) - 🗳 Students go to the polls for the 2021/22 Student Council elections
