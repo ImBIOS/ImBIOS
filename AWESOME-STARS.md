@@ -173,6 +173,7 @@
 
 ## JavaScript 
 
+- [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
 - [SrBrahma/eslint-config-biome](https://github.com/SrBrahma/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
