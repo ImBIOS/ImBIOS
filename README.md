@@ -186,27 +186,27 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xerx593">
+        <img src="https://avatars2.githubusercontent.com/u/294814" width="100px;" alt="xerx593"/>
+      </a>
+      <br />
+      <a href="https://github.com/xerx593">xerx593</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/angelhodar">
         <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
       </a>
       <br />
       <a href="https://github.com/angelhodar">Angel</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/xerx593">
-        <img src="https://avatars2.githubusercontent.com/u/294814" width="100px;" alt="xerx593"/>
-      </a>
-      <br />
-      <a href="https://github.com/xerx593">xerx593</a>
     </td>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
