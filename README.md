@@ -60,6 +60,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 
 <!-- <img align="right" width="50%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImBIOS&theme=cobalt" /> -->
 
+<a href="https://app.daily.dev/imamdev_"><img src="https://api.daily.dev/devcards/v2/IqI2a8WSrNiJy46UA10BM.png?type=default&r=0y9" width="35%" align="right" alt="Imamuzzaki Abu Salam's Dev Card"/></a>
+
 <div>
   <a href="https://github.com/ImBIOS">
     <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
