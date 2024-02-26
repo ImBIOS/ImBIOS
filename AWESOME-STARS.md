@@ -173,6 +173,7 @@
 
 ## JavaScript 
 
+- [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [ImBIOS/ai-text-summarizer-app](https://github.com/ImBIOS/ai-text-summarizer-app) - "AI Text Summarizer App" is a tool designed for quick and efficient processing of large volumes of text.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
 - [SrBrahma/eslint-config-biome](https://github.com/SrBrahma/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule
@@ -425,6 +426,7 @@
 
 ## TypeScript 
 
+- [caiqichang/vscode-translation](https://github.com/caiqichang/vscode-translation) - A translation extension for Visual Studio Code.
 - [ImBIOS/fantastic-robot](https://github.com/ImBIOS/fantastic-robot) - 
 - [ImBIOS/common-char-extractor-ts](https://github.com/ImBIOS/common-char-extractor-ts) - Given an array of strings, write a function to find and return an array of characters that appear in the same position across all strings.
 - [ImBIOS/datepicker](https://github.com/ImBIOS/datepicker) - A simple datepicker with Chakra-UI and date-fns
