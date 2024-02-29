@@ -50,7 +50,7 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 - [➡️ @imbios/blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert [blogger.com](https://blogger.com) backup to markdown files.
 - [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
 - [🧱 prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds), prisma for Raspi 3B or any armv7 32-bit architecture.
-- [♻️ i18n-num-in-words](https://i18n-num-in-words-website.vercel.app/), number utility to convert numbers to words in any language.
+- [♻️ i18n-num-in-words](https://github.com/ImBIOS/i18n-num-in-words), number utility to convert numbers to words in any language.
 
 [More inactive or small projects...](https://github.com/ImBIOS?tab=repositories&q=&type=public&language=&sort=stargazers)
 
