@@ -1,11 +1,11 @@
 # 👋 Hi, **ImBIOS** here
 
-[![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios)
+<!-- [![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios) -->
 
-[Twitter](https://twitter.com/ImBIOS_Dev) •
-[LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam) •
-[Blog](https://blog.imbios.dev) •
-[YouTube](https://go.imbios.dev/yt)
+[🐦 Twitter](https://twitter.com/ImBIOS_Dev) •
+[🖇️ LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam) •
+[📝 Blog](https://blog.imbios.dev) •
+[▶️ YouTube](https://go.imbios.dev/yt)
 
 <!-- Counting views, -->
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
@@ -22,7 +22,7 @@
 [![Where to PUT - Javascript](https://ytcards.demolab.com/?id=TVVcP7uFMVE&title=Where+to+PUT+-+Javascript&lang=en&timestamp=1682077822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Where to PUT - Javascript")](https://www.youtube.com/watch?v=TVVcP7uFMVE)
 <!-- END YOUTUBE-CARDS -->
 
-## 📚 Latest Blog Posts
+## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
 - 2024-02-05 [Unraveling the Common Characters Challenge: A TypeScript Tale](https://blog.imbios.dev/unraveling-the-common-characters-challenge-a-typescript-tale?utm_source=GitHubProfile)
@@ -35,6 +35,10 @@
 ## 🎁 Products
 
 I love to dogfood what I built. Passionate to build products that can help people.
+
+<!-- ### 📚 Book Products
+
+TODO: Write a book LOL -->
 
 ### 💻 App Products
 
