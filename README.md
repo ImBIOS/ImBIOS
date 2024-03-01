@@ -44,7 +44,7 @@ TODO: Write a book LOL -->
 
 - [😃 Gitmemoji](https://github.com/ImBIOS/gitmemoji), a web quiz game to learn gitmoji.
 - [🎙️ Remute](https://github.com/ImBIOS/remute), use the touch bar app to mute/unmute your microphone, or just use the shortcut on any Mac.
-- [🗳️ Maktab](https://idn-votes-vote.vercel.app/vote), voting app for election.
+- [🗳️ Maktab](https://github.com/ImBIOS/idn-votes-vote), voting app for election.
 - [📦 Cardus App](https://github.com/ImBIOS/cardus-app), home warehouse management system.
 
 ### 🛠️ Tool Products
