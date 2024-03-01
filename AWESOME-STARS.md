@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [gandarez/semver-action](https://github.com/gandarez/semver-action) - Generate a semantic version
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
@@ -429,7 +430,7 @@
 - [caiqichang/vscode-translation](https://github.com/caiqichang/vscode-translation) - A translation extension for Visual Studio Code.
 - [ImBIOS/fantastic-robot](https://github.com/ImBIOS/fantastic-robot) - 
 - [ImBIOS/common-char-extractor-ts](https://github.com/ImBIOS/common-char-extractor-ts) - Given an array of strings, write a function to find and return an array of characters that appear in the same position across all strings.
-- [ImBIOS/datepicker](https://github.com/ImBIOS/datepicker) - A simple datepicker with Chakra-UI and date-fns
+- [ImBIOS/datepicker](https://github.com/ImBIOS/datepicker) - A date library agnostic datepicker with Chakra-UI
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync vi
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice
