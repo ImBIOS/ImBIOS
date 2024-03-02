@@ -77,7 +77,7 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   <img width="45%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13218717?theme=dark&website=true&location=true" alt="user:13218717's SO profile">
 </a>
 
-<div>
+<!-- <div>
   <a href="https://stackoverflow.com/users/13218717/imbios">
     <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/next.js/13218717?theme=dark" alt="user:13218717's SO ranking for next.js">
   </a>
@@ -85,7 +85,7 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   <a href="https://stackoverflow.com/users/13218717/imbios">
     <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/git/13218717?theme=dark" alt="user:13218717's SO ranking for next.js">
   </a>
-</div>
+</div> -->
 
 ## 🎖️ Badge
 
