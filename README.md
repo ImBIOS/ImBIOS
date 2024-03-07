@@ -11,7 +11,7 @@
 <!--<p>Since 8 April 2021 at 8:16 AM</p>-->
 <!--![profile view](https://komarev.com/ghpvc/?username=ImBIOS)-->
 
-## ▶️ Latest Youtube Videos
+## ▶️ Highlighted Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Migrate Yarn to PNPM - Open Source Project Contribution #2](https://ytcards.demolab.com/?id=B06cRjhKo_o&title=Migrate+Yarn+to+PNPM+-+Open+Source+Project+Contribution+%232&lang=en&timestamp=1682715607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Migrate Yarn to PNPM - Open Source Project Contribution #2")](https://www.youtube.com/watch?v=B06cRjhKo_o)
@@ -22,7 +22,7 @@
 [![Where to PUT - Javascript](https://ytcards.demolab.com/?id=TVVcP7uFMVE&title=Where+to+PUT+-+Javascript&lang=en&timestamp=1682077822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Where to PUT - Javascript")](https://www.youtube.com/watch?v=TVVcP7uFMVE)
 <!-- END YOUTUBE-CARDS -->
 
-## 📝 Latest Blog Posts
+## 📝 Highlighted Blog Posts
 
 <!--START_SECTION:blog-posts-->
 - 2024-02-05 [Unraveling the Common Characters Challenge: A TypeScript Tale](https://blog.imbios.dev/unraveling-the-common-characters-challenge-a-typescript-tale?utm_source=GitHubProfile)
