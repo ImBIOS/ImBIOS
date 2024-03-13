@@ -428,6 +428,7 @@
 
 ## TypeScript 
 
+- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [caiqichang/vscode-translation](https://github.com/caiqichang/vscode-translation) - A translation extension for Visual Studio Code.
