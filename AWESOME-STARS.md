@@ -77,7 +77,7 @@
 ## CMake 
 
 - [occ-ai/obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
-- [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) , AXera-Pi Pro (AX650N) and AX620E shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful 
+- [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) , AXera-Pi Pro (AX650N) and AXera-Pi Zero (AX620Q)  shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, 
 
 ## CSS 
 
@@ -427,6 +427,7 @@
 
 ## TypeScript 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
