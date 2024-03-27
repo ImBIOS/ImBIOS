@@ -174,6 +174,7 @@
 
 ## JavaScript 
 
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [ImBIOS/ai-text-summarizer-app](https://github.com/ImBIOS/ai-text-summarizer-app) - "AI Text Summarizer App" is a tool designed for quick and efficient processing of large volumes of text.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
@@ -190,7 +191,7 @@
 - [magicismight/react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - react native toast like component, pure javascript solution
 - [ImBIOS/GAS-CertificateCreationAndEmail](https://github.com/ImBIOS/GAS-CertificateCreationAndEmail) - Automated Certificate Generator & Email Sender with Google Apps Script
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content di
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|conte
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
@@ -367,6 +368,7 @@
 
 ## Rust 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
