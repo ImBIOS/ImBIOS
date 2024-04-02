@@ -382,7 +382,7 @@
 - [ImBIOS/biome](https://github.com/ImBIOS/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [dimusic/active-win-pos-rs](https://github.com/dimusic/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
