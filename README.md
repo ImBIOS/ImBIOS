@@ -208,13 +208,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/angelhodar">
-        <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
-      </a>
-      <br />
-      <a href="https://github.com/angelhodar">Angel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xerx593">
         <img src="https://avatars2.githubusercontent.com/u/294814" width="100px;" alt="xerx593"/>
       </a>
@@ -222,11 +215,11 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/xerx593">xerx593</a>
     </td>
     <td align="center">
-      <a href="https://github.com/adipurnamk">
-        <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
+      <a href="https://github.com/angelhodar">
+        <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
       </a>
       <br />
-      <a href="https://github.com/adipurnamk">adipurnamk</a>
+      <a href="https://github.com/angelhodar">Angel</a>
     </td>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
@@ -236,6 +229,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/dzakdzaks">Dzaky</a>
     </td>
     <td align="center">
+      <a href="https://github.com/adipurnamk">
+        <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
+      </a>
+      <br />
+      <a href="https://github.com/adipurnamk">adipurnamk</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Hencya">
         <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
       </a>
@@ -243,18 +243,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fahminlb33">
-        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
-      </a>
-      <br />
-      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AhmedGsa">
         <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
       </a>
       <br />
       <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fahminlb33">
+        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
+      </a>
+      <br />
+      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
   </tr>
 </table>
