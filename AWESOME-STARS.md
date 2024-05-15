@@ -61,7 +61,7 @@
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
-- [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - The application for displaying pressed keys of the keyboard
+- [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - App for displaying pressed keys of the keyboard
 - [ManakhovN/FigmaToUnityImporter](https://github.com/ManakhovN/FigmaToUnityImporter) - The project that imports nodes from Figma into unity.
 - [DevZhav/unity-moba](https://github.com/DevZhav/unity-moba) - A Multiplayer Online Battle Arena Toolkit for Unity3D with its services and database
 
@@ -461,7 +461,7 @@
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
-- [upstash/ratelimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes
+- [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
 - [fahreziadh/bikinsoal](https://github.com/fahreziadh/bikinsoal) - A Next.js Project that implements GPT-3.5 turbo, T3-Stack App Router, Next-auth, Drizzle and ShadcnUI
 - [testing-library/user-event](https://github.com/testing-library/user-event) - 🐕 Simulate user events
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
