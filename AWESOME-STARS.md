@@ -174,6 +174,7 @@
 
 ## JavaScript 
 
+- [finnfiddle/words-to-numbers](https://github.com/finnfiddle/words-to-numbers) - JS library to convert textual words to numbers with optional fuzzy text matching
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [ImBIOS/ai-text-summarizer-app](https://github.com/ImBIOS/ai-text-summarizer-app) - "AI Text Summarizer App" is a tool designed for quick and efficient processing of large volumes of text.
