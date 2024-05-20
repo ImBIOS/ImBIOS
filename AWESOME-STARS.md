@@ -433,6 +433,7 @@
 
 ## TypeScript 
 
+- [ImBIOS/codecrafters-http-server-typescript](https://github.com/ImBIOS/codecrafters-http-server-typescript) - 
 - [ImBIOS/silver-parakeet](https://github.com/ImBIOS/silver-parakeet) - PoC for Next.js with Editor.js integration
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ImBIOS/ts-ffi-interop-lab-0](https://github.com/ImBIOS/ts-ffi-interop-lab-0) - 
@@ -528,7 +529,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
