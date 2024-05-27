@@ -137,18 +137,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/farkhanmaul">
-        <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
-      </a>
-      <br />
-      <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yehezkieldio">
         <img src="https://avatars2.githubusercontent.com/u/47420407" width="100px;" alt="yehezkieldio"/>
       </a>
       <br />
       <a href="https://github.com/yehezkieldio">Yehezkiel Dio Sinolungan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/farkhanmaul">
+        <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
+      </a>
+      <br />
+      <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
     </td>
     <td align="center">
       <a href="https://github.com/uwaisalqadri">
@@ -211,13 +211,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/xerx593">
-        <img src="https://avatars2.githubusercontent.com/u/294814" width="100px;" alt="xerx593"/>
-      </a>
-      <br />
-      <a href="https://github.com/xerx593">xerx593</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/angelhodar">
         <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
       </a>
@@ -258,6 +251,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vianziro">
+        <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
+      </a>
+      <br />
+      <a href="https://github.com/vianziro">vianziro</a>
     </td>
   </tr>
 </table>
