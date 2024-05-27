@@ -98,6 +98,9 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   <a href="https://www.credly.com/badges/f8d0a8bc-80b7-4058-b22a-c3c2211b27d6/public_url" rel="noreferer nofollow" target="_blank">
     <img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Badge" width="150" height="150" float="left" />
   </a>
+    <a href="https://www.credly.com/badges/40493307-7dad-4d38-8ba5-2b1c3af304f0/public_url" rel="noreferer nofollow" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Knowledge: Cloud Essentials" width="150" height="150" float="left" />
+  </a>
 </div>
 
 ## ✨ Followers
