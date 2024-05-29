@@ -328,3 +328,11 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 ```
 
 </details>
+
+## 📊 My Coding Stats
+
+<details>
+<summary>See my coding stats detail</summary>
+<!--START_SECTION:CodingStats-->
+<!--END_SECTION:CodingStats-->
+</details>
