@@ -333,7 +333,9 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 
 <details>
 <summary>See my coding stats detail</summary>
+  
 <!--START_SECTION:CodingStats-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C492%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
@@ -409,4 +411,5 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
  Last Updated on 29/05/2024 19:48:50 UTC
 <!--END_SECTION:CodingStats-->
+
 </details>
