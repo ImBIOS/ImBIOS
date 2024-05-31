@@ -151,20 +151,20 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
     </td>
     <td align="center">
-      <a href="https://github.com/uwaisalqadri">
-        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
-      </a>
-      <br />
-      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/darioalessandro">
         <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
       </a>
       <br />
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/uwaisalqadri">
+        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
+      </a>
+      <br />
+      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
     <td align="center">
       <a href="https://github.com/RazinSyakib43">
@@ -218,18 +218,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/angelhodar">Angel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dzakdzaks">
-        <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
-      </a>
-      <br />
-      <a href="https://github.com/dzakdzaks">Dzaky</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/adipurnamk">
         <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
       </a>
       <br />
       <a href="https://github.com/adipurnamk">adipurnamk</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dzakdzaks">
+        <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
+      </a>
+      <br />
+      <a href="https://github.com/dzakdzaks">Dzaky</a>
     </td>
     <td align="center">
       <a href="https://github.com/Hencya">
