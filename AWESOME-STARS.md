@@ -221,7 +221,7 @@
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
 - [hamatoyogi/next-mf-blogpost](https://github.com/hamatoyogi/next-mf-blogpost) - A repository for demoing NextJS and Module Federation for the blog post
 - [ImBIOS/qwiktober-2022](https://github.com/ImBIOS/qwiktober-2022) - Simple website collection built with Qwik City for Hacktoberfest 2022
-- [GraphtyLove/Face-recognition-project](https://github.com/GraphtyLove/Face-recognition-project) - Automate attendance record.
+- [GraphtyLove/Face-recognition-project](https://github.com/GraphtyLove/Face-recognition-project) - Automate attendance record. React & Python
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [schalela/mf-nextjs](https://github.com/schalela/mf-nextjs) - Microfrontends using Next.js and Module Federation
 - [laravel/breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
