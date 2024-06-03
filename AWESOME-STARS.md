@@ -174,6 +174,7 @@
 
 ## JavaScript 
 
+- [firebase/friendlyeats-web](https://github.com/firebase/friendlyeats-web) - 
 - [finnfiddle/words-to-numbers](https://github.com/finnfiddle/words-to-numbers) - JS library to convert textual words to numbers with optional fuzzy text matching
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
@@ -435,6 +436,7 @@
 
 ## TypeScript 
 
+- [kossnocorp/typesaurus](https://github.com/kossnocorp/typesaurus) - 🦕 Type-safe TypeScript-first ODM for Firestore
 - [ImBIOS/speechify-web-functional-test](https://github.com/ImBIOS/speechify-web-functional-test) - 
 - [ImBIOS/codecrafters-http-server-typescript](https://github.com/ImBIOS/codecrafters-http-server-typescript) - 
 - [ImBIOS/silver-parakeet](https://github.com/ImBIOS/silver-parakeet) - PoC for Next.js with Editor.js integration
