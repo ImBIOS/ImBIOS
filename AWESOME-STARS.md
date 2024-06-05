@@ -436,6 +436,7 @@
 
 ## TypeScript 
 
+- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
 - [kossnocorp/typesaurus](https://github.com/kossnocorp/typesaurus) - 🦕 Type-safe TypeScript-first ODM for Firestore
 - [ImBIOS/speechify-web-functional-test](https://github.com/ImBIOS/speechify-web-functional-test) - 
 - [ImBIOS/codecrafters-http-server-typescript](https://github.com/ImBIOS/codecrafters-http-server-typescript) - 
