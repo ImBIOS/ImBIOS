@@ -174,6 +174,7 @@
 
 ## JavaScript 
 
+- [ImBIOS/codelab-friendlyeats-web](https://github.com/ImBIOS/codelab-friendlyeats-web) - Integrate Firebase with a Next.js app codelab
 - [firebase/friendlyeats-web](https://github.com/firebase/friendlyeats-web) - 
 - [finnfiddle/words-to-numbers](https://github.com/finnfiddle/words-to-numbers) - JS library to convert textual words to numbers with optional fuzzy text matching
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
