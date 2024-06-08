@@ -453,7 +453,6 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [caiqichang/vscode-translation](https://github.com/caiqichang/vscode-translation) - A translation extension for Visual Studio Code.
-- [ImBIOS/fantastic-robot](https://github.com/ImBIOS/fantastic-robot) - 
 - [ImBIOS/common-char-extractor-ts](https://github.com/ImBIOS/common-char-extractor-ts) - Given an array of strings, write a function to find and return an array of characters that appear in the same position across all strings.
 - [ImBIOS/datepicker](https://github.com/ImBIOS/datepicker) - A date library agnostic datepicker with Chakra-UI
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
