@@ -271,7 +271,7 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 ## 🔒 Pretty Good Privacy
 
 <details>
-<summary>:key: PGP Fingerprint: <code>C59D 18D3 068E 3D48 6C8D  52F2 E83A 7B4A 2C91 CD79</code></summary>
+<summary>🔑 PGP Fingerprint: <code>C59D 18D3 068E 3D48 6C8D  52F2 E83A 7B4A 2C91 CD79</code></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
