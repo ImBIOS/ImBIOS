@@ -437,6 +437,7 @@
 
 ## TypeScript 
 
+- [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
 - [kossnocorp/typesaurus](https://github.com/kossnocorp/typesaurus) - 🦕 Type-safe TypeScript-first ODM for Firestore
 - [ImBIOS/speechify-web-functional-test](https://github.com/ImBIOS/speechify-web-functional-test) - 
@@ -567,7 +568,7 @@
 - [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) - A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
-- [ImBIOS/cardus-app](https://github.com/ImBIOS/cardus-app) - This is the Trusted Web Activity for the CardusApp project. It is a webapp that allows you to create and manage your own personal warehouse/storage/carton.
+- [ImBIOS/cardus-app](https://github.com/ImBIOS/cardus-app) - Trusted Web Activity for the CardusApp project. A webapp that allows you to create and manage your own personal warehouse/storage/carton.
 - [tewarig/anonmsg](https://github.com/tewarig/anonmsg) - 
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
