@@ -249,7 +249,7 @@
 - [alexistdev/manthabill](https://github.com/alexistdev/manthabill) - Website Untuk Software Billing Hosting, untuk yang memulai usaha hosting tapi mahal membayar Software Hosting. Dibuat dengan Codeigniter 3.
 - [NaveenDA/naveenda.github.io](https://github.com/NaveenDA/naveenda.github.io) - A personal Portfolio for https://naveenda.github.io
 - [khetrapalaksh4y/google-form-scrapper](https://github.com/khetrapalaksh4y/google-form-scrapper) - A simple Google Form scraper that returns all the questions in a Google Form
-- [pr0mming/TowerHanoi](https://github.com/pr0mming/TowerHanoi) - Tower of Hanoi in JavaScript using Phaser Framework
+- [pr0mming/TowerHanoi](https://github.com/pr0mming/TowerHanoi) - Tower of Hanoi in JavaScript using Phaser.js
 - [rajivm1991/youtube-channel-scraper](https://github.com/rajivm1991/youtube-channel-scraper) - Apify actor to scrape Youtube channel videos. You can set the maximum videos to scrape per page.
 - [Najibsaurus/VoiceBot-Watson](https://github.com/Najibsaurus/VoiceBot-Watson) - Simple chatbot using IBM Watson (STT, TTS, Assistant)
 - [watson-developer-cloud/car-dashboard](https://github.com/watson-developer-cloud/car-dashboard) - Application that demonstrates how the Watson Assistant service uses intent capabilities in an animated car dashboard UI.
@@ -556,7 +556,7 @@
 - [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 - [ImBIOS/gitmemoji](https://github.com/ImBIOS/gitmemoji) - An app to learn gitmoji emojis
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
