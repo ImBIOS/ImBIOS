@@ -110,13 +110,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/nelsonic">
-        <img src="https://avatars2.githubusercontent.com/u/194400" width="100px;" alt="nelsonic"/>
-      </a>
-      <br />
-      <a href="https://github.com/nelsonic">Nelson</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sampoder">
         <img src="https://avatars2.githubusercontent.com/u/39828164" width="100px;" alt="sampoder"/>
       </a>
@@ -158,8 +151,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/uwaisalqadri">
         <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
@@ -167,6 +158,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/RazinSyakib43">
         <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="RazinSyakib43"/>
@@ -209,8 +202,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/angelhodar">
         <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
@@ -218,6 +209,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/angelhodar">Angel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -259,6 +252,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/vianziro">vianziro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KORLA2">
+        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
+      </a>
+      <br />
+      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
     </td>
   </tr>
 </table>
