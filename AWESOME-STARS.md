@@ -174,7 +174,6 @@
 
 ## JavaScript 
 
-- [ImBIOS/codelab-friendlyeats-web](https://github.com/ImBIOS/codelab-friendlyeats-web) - Integrate Firebase with a Next.js app codelab
 - [firebase/friendlyeats-web](https://github.com/firebase/friendlyeats-web) - 
 - [finnfiddle/words-to-numbers](https://github.com/finnfiddle/words-to-numbers) - JS library to convert textual words to numbers with optional fuzzy text matching
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
@@ -437,7 +436,11 @@
 
 ## TypeScript 
 
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
+- [jarrodwatts/aybow-fitness](https://github.com/jarrodwatts/aybow-fitness) - A TWA Built using Next JS and AWS Amplify. Available on the Google Play Store, or at https://aybow.com
+- [leo-petrucci/run-cap-on-android](https://github.com/leo-petrucci/run-cap-on-android) - Builds and installs a Capacitor app in WSL and launches it on an Android emulator running in Windows
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
+- [ImBIOS/codelab-friendlyeats-web](https://github.com/ImBIOS/codelab-friendlyeats-web) - Integrate Firebase with a Next.js app codelab
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
 - [kossnocorp/typesaurus](https://github.com/kossnocorp/typesaurus) - 🦕 Type-safe TypeScript-first ODM for Firestore
 - [ImBIOS/speechify-web-functional-test](https://github.com/ImBIOS/speechify-web-functional-test) - 
