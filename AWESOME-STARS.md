@@ -228,7 +228,7 @@
 - [laravel/breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
 - [nabendu82/mern-netflix](https://github.com/nabendu82/mern-netflix) - A Netflix clone with MERN
 - [breathingcyborg/twilio-dialogflow-whatsapp](https://github.com/breathingcyborg/twilio-dialogflow-whatsapp) - Connect whatsapp to dialogflow using twilio.
-- [Markkop/nft-marketplace](https://github.com/Markkop/nft-marketplace) - An NFT Marketplace built with NextJS, Hardhat and Solidity
+- [Markkop/nft-marketplace](https://github.com/Markkop/nft-marketplace) - A NFT Marketplace built with NextJS, Hardhat and Solidity
 - [algolia/talksearch-scraper](https://github.com/algolia/talksearch-scraper) - Extract captions and metadata from YouTube playlists and push them to Algolia
 - [hafidmust/grabfood_clone](https://github.com/hafidmust/grabfood_clone) - 
 - [sampoder/intro-to-nextjs](https://github.com/sampoder/intro-to-nextjs) - 💈Workshop for those getting started with Next.js
