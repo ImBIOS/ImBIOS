@@ -292,6 +292,7 @@
 
 ## Others 
 
+- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund p
 - [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [ImBIOS/realworld-rujak](https://github.com/ImBIOS/realworld-rujak) - Rujak-ed RealWorld framework implemented using any bleeding tech I want to learn.
