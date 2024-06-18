@@ -254,11 +254,11 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/vianziro">vianziro</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KORLA2">
-        <img src="https://avatars2.githubusercontent.com/u/96729391" width="100px;" alt="KORLA2"/>
+      <a href="https://github.com/fnakhsan">
+        <img src="https://avatars2.githubusercontent.com/u/79033189" width="100px;" alt="fnakhsan"/>
       </a>
       <br />
-      <a href="https://github.com/KORLA2">KORLA GOUTHAM</a>
+      <a href="https://github.com/fnakhsan">Akhsan</a>
     </td>
   </tr>
 </table>
