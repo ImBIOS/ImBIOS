@@ -226,18 +226,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/adipurnamk">adipurnamk</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Hencya">
-        <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
-      </a>
-      <br />
-      <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AhmedGsa">
         <img src="https://avatars2.githubusercontent.com/u/106388573" width="100px;" alt="AhmedGsa"/>
       </a>
       <br />
       <a href="https://github.com/AhmedGsa">Ahmed Gouasmia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hencya">
+        <img src="https://avatars2.githubusercontent.com/u/61088218" width="100px;" alt="Hencya"/>
+      </a>
+      <br />
+      <a href="https://github.com/Hencya">Faiz Rofi Hencya</a>
     </td>
     <td align="center">
       <a href="https://github.com/fahminlb33">
