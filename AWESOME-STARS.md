@@ -152,6 +152,7 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [pi-hole/docs](https://github.com/pi-hole/docs) - The official Pi-hole documentation
+- [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [craftzdog/link-in-bio](https://github.com/craftzdog/link-in-bio) - Link in bio page for my Instagram profile
 - [mindninjaX/100DaysOfCode](https://github.com/mindninjaX/100DaysOfCode) - A GitHub Repo for my #100DaysOfCode challenge projects
@@ -218,7 +219,6 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [itmi-id/metabase-migration](https://github.com/itmi-id/metabase-migration) - Script to update and duplicate question/card in Metabase
 - [itmi-id/env-diff](https://github.com/itmi-id/env-diff) - 🛠 Simple tool for comparing two environment variable file
-- [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
 - [hamatoyogi/next-mf-blogpost](https://github.com/hamatoyogi/next-mf-blogpost) - A repository for demoing NextJS and Module Federation for the blog post
 - [ImBIOS/qwiktober-2022](https://github.com/ImBIOS/qwiktober-2022) - Simple website collection built with Qwik City for Hacktoberfest 2022
 - [GraphtyLove/Face-recognition-project](https://github.com/GraphtyLove/Face-recognition-project) - Automate attendance record. React & Python
@@ -437,6 +437,7 @@
 
 ## TypeScript 
 
+- [trypear/pearai-app](https://github.com/trypear/pearai-app) - An Open Sourced AI-Powered Text Editor. A fork of VSCode and Continue.
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [jarrodwatts/aybow-fitness](https://github.com/jarrodwatts/aybow-fitness) - A TWA Built using Next JS and AWS Amplify. Available on the Google Play Store, or at https://aybow.com
 - [leo-petrucci/run-cap-on-android](https://github.com/leo-petrucci/run-cap-on-android) - Builds and installs a Capacitor app in WSL and launches it on an Android emulator running in Windows
