@@ -113,7 +113,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [blue-rpc/bluerpc](https://github.com/blue-rpc/bluerpc) - Golang library for end-to-end Go-Typescript type safety.
 - [gandarez/semver-action](https://github.com/gandarez/semver-action) - Generate a semantic version
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -437,6 +437,8 @@
 
 ## TypeScript 
 
+- [ImBIOS/template-dashboard-oss](https://github.com/ImBIOS/template-dashboard-oss) - Free open-source dashboard template by Tremor.
+- [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [trypear/pearai-app](https://github.com/trypear/pearai-app) - An Open Sourced AI-Powered Text Editor. A fork of VSCode and Continue.
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [jarrodwatts/aybow-fitness](https://github.com/jarrodwatts/aybow-fitness) - A TWA Built using Next JS and AWS Amplify. Available on the Google Play Store, or at https://aybow.com
