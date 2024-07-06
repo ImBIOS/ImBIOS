@@ -241,7 +241,6 @@
 - [sampoder/gwa-votes](https://github.com/sampoder/gwa-votes) - 🗳 Students go to the polls for the 2021/22 Student Council elections
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
-- [veritem/next2ts](https://github.com/veritem/next2ts) - CLI tool to help you migrate your Next-js project to typescript in seconds
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
 - [dimotsai/react-alarm-clock](https://github.com/dimotsai/react-alarm-clock) - A web alarm clock that is implemented with React.js
 - [alexistdev/manthabill](https://github.com/alexistdev/manthabill) - Website Untuk Software Billing Hosting, untuk yang memulai usaha hosting tapi mahal membayar Software Hosting. Dibuat dengan Codeigniter 3.
