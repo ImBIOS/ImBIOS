@@ -373,6 +373,7 @@
 
 ## Rust 
 
+- [zzzze/tauri-plugin-spotlight](https://github.com/zzzze/tauri-plugin-spotlight) - 
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
