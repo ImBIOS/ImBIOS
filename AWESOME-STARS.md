@@ -270,6 +270,7 @@
 
 ## MDX 
 
+- [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 
@@ -290,6 +291,7 @@
 
 ## Others 
 
+- [modularml/max](https://github.com/modularml/max) - A collection of sample programs, notebooks, and tools which highlight the power of the MAX Platform
 - [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund p
 - [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
@@ -317,7 +319,6 @@
 
 ## PHP 
 
-- [bayufedra/MBPTL](https://github.com/bayufedra/MBPTL) - Self-deployed Straight-forward hacking lab machine which designed for new comer who want to learn Penetration Testing field that running inside Docker for easy setup.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [ImBIOS/MyFlix-API](https://github.com/ImBIOS/MyFlix-API) - Netflix API clone built with Laravel
 - [nafplann/codeigniter-alumni-app](https://github.com/nafplann/codeigniter-alumni-app) - Aplikasi alumni menggunakan codeigniter dan materialize css framework
@@ -443,6 +444,7 @@
 
 ## TypeScript 
 
+- [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates geared towards creating landing pages and user
 - [ImBIOS/template-dashboard-oss](https://github.com/ImBIOS/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
@@ -466,7 +468,6 @@
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
-- [caiqichang/vscode-translation](https://github.com/caiqichang/vscode-translation) - A translation extension for Visual Studio Code.
 - [ImBIOS/common-char-extractor-ts](https://github.com/ImBIOS/common-char-extractor-ts) - Given an array of strings, write a function to find and return an array of characters that appear in the same position across all strings.
 - [ImBIOS/datepicker](https://github.com/ImBIOS/datepicker) - A date library agnostic datepicker with Chakra-UI
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
