@@ -256,6 +256,7 @@
 ## Jupyter Notebook 
 
 - [Techcps/GSP-Short-Trick](https://github.com/Techcps/GSP-Short-Trick) - 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [afif2100/image-clasifier-tf-keras](https://github.com/afif2100/image-clasifier-tf-keras) - 
 - [brunokatekawa/PeopleAnalytics_Turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover) - [Project repo] On People Analytics for predicting employee turnover.  (Employee Experience article included)
 
@@ -351,7 +352,6 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
