@@ -337,15 +337,15 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <summary>See my coding stats detail</summary>
   
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 648 Contributions in the Year 2024
+> 🏆 651 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -353,47 +353,6 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
  > 
 > 🔑 100 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4787 commits        █████████░░░░░░░░░░░░░░░░   36.51 % 
-🌆 Daytime                3486 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-🌃 Evening                4180 commits        ████████░░░░░░░░░░░░░░░░░   31.88 % 
-🌙 Night                  660 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   2117 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Tuesday                  1544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Wednesday                1737 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 2334 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Friday                   3008 commits        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Saturday                 1421 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Sunday                   952 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Astro                    1 hr 39 mins        ███████████████░░░░░░░░░░   60.22 % 
-Svelte                   41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Image (svg)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      2 hrs 45 mins       █████████████████████████   99.76 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -411,7 +370,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 19:36:18 UTC
+ Last Updated on 24/07/2024 19:39:09 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
