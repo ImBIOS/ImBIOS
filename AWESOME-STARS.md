@@ -425,6 +425,7 @@
 
 ## Shell 
 
+- [foxytouxxx/FoxTools](https://github.com/foxytouxxx/FoxTools) - Simple bash file / python file to install a lot of packages that can sometimes not come with the vps or cannot be installed
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [gurock/automation-frameworks-integration](https://github.com/gurock/automation-frameworks-integration) - 
