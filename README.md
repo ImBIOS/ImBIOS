@@ -2,7 +2,7 @@
 
 <!-- [![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios) -->
 
-[🐦 Twitter](https://twitter.com/ImBIOS_Dev) •
+[✖️ X](https://x.com/ImBIOS_Dev) •
 [🖇️ LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imamuzzaki-abu-salam) •
 [📝 Blog](https://blog.imbios.dev) •
 [▶️ YouTube](https://go.imbios.dev/yt)
