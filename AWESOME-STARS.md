@@ -35,6 +35,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -426,6 +427,16 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [pluxtore/maze-server](https://github.com/pluxtore/maze-server) - An experimental server for the CSCG game "Maze"
 
+## Scala 
+
+- [zio/zio-json](https://github.com/zio/zio-json) - Fast, secure JSON library with tight ZIO integration.
+- [ImBIOS/zio-http](https://github.com/ImBIOS/zio-http) - A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
+- [ImBIOS/zio](https://github.com/ImBIOS/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
+- [zio/zio-http](https://github.com/zio/zio-http) - A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
+- [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
+- [ImBIOS/zio-schema](https://github.com/ImBIOS/zio-schema) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
+- [zio/zio-schema](https://github.com/zio/zio-schema) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
+
 ## Shell 
 
 - [ImBIOS/calcom-docker](https://github.com/ImBIOS/calcom-docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
@@ -459,8 +470,11 @@
 
 ## TypeScript 
 
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
+- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [encoredev/ts-benchmarks](https://github.com/encoredev/ts-benchmarks) - Benchmarks for Encore vs other Node/JS web frameworks
+- [ImBIOS/Botmind_Frontend_Technical_Assignment](https://github.com/ImBIOS/Botmind_Frontend_Technical_Assignment) - This project is a web application that displays a map view of a school campus with a fleet of robots.
 - [ImBIOS/cal.com](https://github.com/ImBIOS/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [intel/vscode-oneapi-devcloud-connector](https://github.com/intel/vscode-oneapi-devcloud-connector) - 
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
