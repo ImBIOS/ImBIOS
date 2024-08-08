@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [firebase/friendlyeats-web](https://github.com/firebase/friendlyeats-web) - 
@@ -248,7 +249,7 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
 - [dimotsai/react-alarm-clock](https://github.com/dimotsai/react-alarm-clock) - A web alarm clock that is implemented with React.js
-- [alexistdev/manthabill](https://github.com/alexistdev/manthabill) - Website Untuk Software Billing Hosting, untuk yang memulai usaha hosting tapi mahal membayar Software Hosting. Dibuat dengan Codeigniter 3.
+- [alexistdev/manthabill](https://github.com/alexistdev/manthabill) - Website Untuk Software Billing Hosting, untuk yang memulai usaha hosting tapi mahal membayar Software Hosting. Dibuat dengan Codeigniter 3.  Versi terbaru sedang dalam pengerjaan menggunakan Laravel 1
 - [NaveenDA/naveenda.github.io](https://github.com/NaveenDA/naveenda.github.io) - A personal Portfolio for https://naveenda.github.io
 - [khetrapalaksh4y/google-form-scrapper](https://github.com/khetrapalaksh4y/google-form-scrapper) - A simple Google Form scraper that returns all the questions in a Google Form
 - [rajivm1991/youtube-channel-scraper](https://github.com/rajivm1991/youtube-channel-scraper) - Apify actor to scrape Youtube channel videos. You can set the maximum videos to scrape per page.
@@ -354,6 +355,7 @@
 
 ## Python 
 
+- [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [modularml/max](https://github.com/modularml/max) - A collection of sample programs, notebooks, and tools which highlight the power of the MAX Platform
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
@@ -395,7 +397,7 @@
 - [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
