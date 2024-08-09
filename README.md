@@ -111,13 +111,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Kos-M">
-        <img src="https://avatars2.githubusercontent.com/u/46938390" width="100px;" alt="Kos-M"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kos-M">Kostas</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sampoder">
         <img src="https://avatars2.githubusercontent.com/u/39828164" width="100px;" alt="sampoder"/>
       </a>
@@ -159,6 +152,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/darioalessandro">
+        <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
+      </a>
+      <br />
+      <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -167,13 +167,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/darioalessandro">
-        <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
-      </a>
-      <br />
-      <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
     <td align="center">
       <a href="https://github.com/RazinSyakib43">
@@ -210,8 +203,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/emRival">Rival</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Syafiq1331">
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
@@ -219,6 +210,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/angelhodar">
         <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
@@ -260,6 +253,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vianziro">
+        <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
+      </a>
+      <br />
+      <a href="https://github.com/vianziro">vianziro</a>
     </td>
   </tr>
 </table>
