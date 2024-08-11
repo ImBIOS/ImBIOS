@@ -356,6 +356,7 @@
 
 ## Python 
 
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [modularml/max](https://github.com/modularml/max) - A collection of sample programs, notebooks, and tools which highlight the power of the MAX Platform
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -473,6 +474,7 @@
 
 ## TypeScript 
 
+- [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - AI Agent for Twitter Personality Analysis
 - [commander-js/extra-typings](https://github.com/commander-js/extra-typings) - Infer strong typings for commander options and action handlers
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
