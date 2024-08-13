@@ -60,6 +60,7 @@
 
 ## C# # 
 
+- [ImBIOS/multiplayer-ar-game-with-unity](https://github.com/ImBIOS/multiplayer-ar-game-with-unity) - Learn Developing Multiplayer AR Game With Unity3D, Vuforia, Photon Unity Networking 2
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - App for displaying pressed keys of the keyboard
@@ -357,6 +358,7 @@
 
 ## Python 
 
+- [MarioVilas/googlesearch](https://github.com/MarioVilas/googlesearch) - Google search from Python (unofficial).
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [modularml/max](https://github.com/modularml/max) - A collection of sample programs, notebooks, and tools which highlight the power of the MAX Platform
