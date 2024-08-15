@@ -138,7 +138,7 @@
 - [ImBIOS/go-micho-twitter](https://github.com/ImBIOS/go-micho-twitter) - Twitter-like API written in Go, using Echo framework.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [budsx/go-clean](https://github.com/budsx/go-clean) - Clean Architecture API -  Golang
+- [budsx/clean-architecture](https://github.com/budsx/clean-architecture) - Clean Architecture API -  Golang
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -395,6 +395,8 @@
 
 ## Rust 
 
+- [ImBIOS/tailcall](https://github.com/ImBIOS/tailcall) - High Performance GraphQL Runtime
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [zzzze/tauri-plugin-spotlight](https://github.com/zzzze/tauri-plugin-spotlight) - 
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -476,6 +478,9 @@
 
 ## TypeScript 
 
+- [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory) - 
+- [ImBIOS/tailcallhq.github.io](https://github.com/ImBIOS/tailcallhq.github.io) - Website for Tailcall
+- [tailcallhq/tailcallhq.github.io](https://github.com/tailcallhq/tailcallhq.github.io) - Website for Tailcall
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - AI Agent for Twitter Personality Analysis
