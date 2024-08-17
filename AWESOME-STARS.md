@@ -179,6 +179,8 @@
 
 ## JavaScript 
 
+- [ImBIOS/Quora-Video-Generator](https://github.com/ImBIOS/Quora-Video-Generator) - 
+- [imtaqin/Quora-Video-Generator](https://github.com/imtaqin/Quora-Video-Generator) - 
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -478,6 +480,7 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory) - 
 - [ImBIOS/tailcallhq.github.io](https://github.com/ImBIOS/tailcallhq.github.io) - Website for Tailcall
 - [tailcallhq/tailcallhq.github.io](https://github.com/tailcallhq/tailcallhq.github.io) - Website for Tailcall
