@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [ImBIOS/proxy-chain](https://github.com/ImBIOS/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
 - [ImBIOS/Quora-Video-Generator](https://github.com/ImBIOS/Quora-Video-Generator) - 
 - [imtaqin/Quora-Video-Generator](https://github.com/imtaqin/Quora-Video-Generator) - 
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -479,6 +480,7 @@
 
 ## TypeScript 
 
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory) - 
 - [ImBIOS/tailcallhq.github.io](https://github.com/ImBIOS/tailcallhq.github.io) - Website for Tailcall
