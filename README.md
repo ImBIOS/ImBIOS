@@ -255,11 +255,11 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/vianziro">vianziro</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fnakhsan">
-        <img src="https://avatars2.githubusercontent.com/u/79033189" width="100px;" alt="fnakhsan"/>
+      <a href="https://github.com/risnanto73">
+        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
       </a>
       <br />
-      <a href="https://github.com/fnakhsan">Akhsan</a>
+      <a href="https://github.com/risnanto73">Risnanto</a>
     </td>
   </tr>
 </table>
