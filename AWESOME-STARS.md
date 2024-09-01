@@ -179,6 +179,8 @@
 
 ## JavaScript 
 
+- [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - An always up-to-date list of the top 100 HTTP user-agents most used over the Internet.
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [ImBIOS/proxy-chain](https://github.com/ImBIOS/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
 - [ImBIOS/Quora-Video-Generator](https://github.com/ImBIOS/Quora-Video-Generator) - 
 - [imtaqin/Quora-Video-Generator](https://github.com/imtaqin/Quora-Video-Generator) - 
@@ -336,6 +338,7 @@
 
 ## PHP 
 
+- [terrylinooo/githuber-md](https://github.com/terrylinooo/githuber-md) - Markdown editor plugin for WordPress.
 - [ImBIOS/MBPTL](https://github.com/ImBIOS/MBPTL) - Self-deployed Straight-forward hacking lab machine which designed for new comer who want to learn Penetration Testing field that running inside Docker for easy setup.
 - [bayufedra/MBPTL](https://github.com/bayufedra/MBPTL) - Self-deployed Straight-forward hacking lab machine which designed for new comer who want to learn Penetration Testing field that running inside Docker for easy setup.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -535,8 +538,8 @@
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice
 - [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 14 , Next.js 13 and React.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
-- [jakobhoeg/shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - Customizable and re-usable chat component for you to use in your projects. Built on top of shadcn.
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [jakobhoeg/shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - CLI for adding customizable and re-usable chat components to your applications. Build beautiful chat interfaces in minutes.
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [calcom/synclinear.com](https://github.com/calcom/synclinear.com) - End-to-end sync of Linear and GitHub.
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
