@@ -169,6 +169,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/RazinSyakib43">Muhammad Razin Syakib</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zfben">
+        <img src="https://avatars2.githubusercontent.com/u/215433" width="100px;" alt="zfben"/>
+      </a>
+      <br />
+      <a href="https://github.com/zfben">Ben</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
@@ -203,6 +210,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/Syafiq1331">Syafiqrzf</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/angelhodar">
         <img src="https://avatars2.githubusercontent.com/u/26228709" width="100px;" alt="angelhodar"/>
@@ -210,8 +219,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/angelhodar">Angel</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dzakdzaks">
         <img src="https://avatars2.githubusercontent.com/u/25009973" width="100px;" alt="dzakdzaks"/>
@@ -253,13 +260,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/fnakhsan">Akhsan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/risnanto73">
-        <img src="https://avatars2.githubusercontent.com/u/28994431" width="100px;" alt="risnanto73"/>
-      </a>
-      <br />
-      <a href="https://github.com/risnanto73">Risnanto</a>
     </td>
   </tr>
 </table>
