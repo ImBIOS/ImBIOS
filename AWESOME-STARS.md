@@ -553,7 +553,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [sefininio/microservices-realworld-app](https://github.com/sefininio/microservices-realworld-app) - A realworld app implementation using nx, nest.js & graphql using a micro-services approach
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 - [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
 - [fahreziadh/bikinsoal](https://github.com/fahreziadh/bikinsoal) - A Next.js Project that implements GPT-3.5 turbo, T3-Stack App Router, Next-auth, Drizzle and ShadcnUI
