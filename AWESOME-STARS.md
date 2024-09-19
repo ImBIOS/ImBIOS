@@ -569,7 +569,7 @@
 - [algora-io/sdk](https://github.com/algora-io/sdk) - List your bounties, top contributors, org stats & more
 - [ImBIOS/bun-to-rupiah-repro](https://github.com/ImBIOS/bun-to-rupiah-repro) - 
 - [shahriarsajeeb/Food-Delivery-WebApp](https://github.com/shahriarsajeeb/Food-Delivery-WebApp) - 
-- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
+- [sst/open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
 - [ImBIOS/aicommits](https://github.com/ImBIOS/aicommits) - A CLI that writes your git commit messages for you with AI
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
