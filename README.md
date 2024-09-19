@@ -139,6 +139,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/tranngoclam">Lam Tran</a>
     </td>
     <td align="center">
+      <a href="https://github.com/darioalessandro">
+        <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
+      </a>
+      <br />
+      <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/uwaisalqadri">
         <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
       </a>
@@ -151,13 +158,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/darioalessandro">
-        <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
-      </a>
-      <br />
-      <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
   </tr>
   <tr>
