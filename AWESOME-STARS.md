@@ -9,7 +9,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [CSS](#css)
 - [Crystal](#crystal)
 - [Dart](#dart)
@@ -79,10 +78,6 @@
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
-
-## CMake 
-
-- [AXERA-TECH/ax-pipeline](https://github.com/AXERA-TECH/ax-pipeline) - The Pipeline example based on AXear-Pi (AX620A) , AXera-Pi Pro (AX650N) and AXera-Pi Zero (AX620Q)  shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, 
 
 ## CSS 
 
