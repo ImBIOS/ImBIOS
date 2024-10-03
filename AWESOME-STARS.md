@@ -491,6 +491,7 @@
 
 ## TypeScript 
 
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [ImBIOS/crawlee](https://github.com/ImBIOS/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
@@ -520,7 +521,7 @@
 - [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
 - [ImBIOS/template-dashboard-oss](https://github.com/ImBIOS/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
-- [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
+- [trypear/pearai-app-archive](https://github.com/trypear/pearai-app-archive) - [ARCHIVED] Forked incorrectly from VSCode. Please view https://github.com/trypear/pearai-app
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [jarrodwatts/aybow-fitness](https://github.com/jarrodwatts/aybow-fitness) - A TWA Built using Next JS and AWS Amplify. Available on the Google Play Store, or at https://aybow.com
