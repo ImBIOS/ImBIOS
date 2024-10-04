@@ -521,7 +521,6 @@
 - [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
 - [ImBIOS/template-dashboard-oss](https://github.com/ImBIOS/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
-- [trypear/pearai-app-archive](https://github.com/trypear/pearai-app-archive) - [ARCHIVED] Forked incorrectly from VSCode. Please view https://github.com/trypear/pearai-app
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [jarrodwatts/aybow-fitness](https://github.com/jarrodwatts/aybow-fitness) - A TWA Built using Next JS and AWS Amplify. Available on the Google Play Store, or at https://aybow.com
