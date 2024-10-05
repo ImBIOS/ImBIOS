@@ -6,6 +6,7 @@
 ## Contents
 
 - [Arduino](#arduino)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -46,6 +47,10 @@
 ## Arduino 
 
 - [sabas1080/PokemonGODIY](https://github.com/sabas1080/PokemonGODIY) - Project to create your own pokemon go plus
+
+## Astro 
+
+- [xubianlab/Astroverse-i18n](https://github.com/xubianlab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## C 
 
