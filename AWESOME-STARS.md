@@ -50,7 +50,7 @@
 
 ## Astro 
 
-- [zlzai/Astroverse-i18n](https://github.com/zlzai/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
+- [zbzailab/Astroverse-i18n](https://github.com/zbzailab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## C 
 
@@ -375,6 +375,7 @@
 
 ## Python 
 
+- [alberto-solano/open-source-LLM-translation-tool](https://github.com/alberto-solano/open-source-LLM-translation-tool) - This project use the Meta NLLB-200 translation model through the Hugging Face transformers library.
 - [MarioVilas/googlesearch](https://github.com/MarioVilas/googlesearch) - Google search from Python (unofficial).
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
