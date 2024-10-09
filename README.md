@@ -118,18 +118,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HaradaKumiko">
-        <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
-      </a>
-      <br />
-      <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fiqryq">
         <img src="https://avatars2.githubusercontent.com/u/25787603" width="100px;" alt="fiqryq"/>
       </a>
       <br />
       <a href="https://github.com/fiqryq">Fiqry choerudin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HaradaKumiko">
+        <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
+      </a>
+      <br />
+      <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
     </td>
     <td align="center">
       <a href="https://github.com/tranngoclam">
@@ -146,18 +146,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
     <td align="center">
-      <a href="https://github.com/uwaisalqadri">
-        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
-      </a>
-      <br />
-      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/farkhanmaul">
         <img src="https://avatars2.githubusercontent.com/u/71893096" width="100px;" alt="farkhanmaul"/>
       </a>
       <br />
       <a href="https://github.com/farkhanmaul">Farkhan Maulana</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/uwaisalqadri">
+        <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
+      </a>
+      <br />
+      <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
   </tr>
   <tr>
@@ -248,18 +248,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/adipurnamk">adipurnamk</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fahminlb33">
-        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
-      </a>
-      <br />
-      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vianziro">
         <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
       </a>
       <br />
       <a href="https://github.com/vianziro">vianziro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fahminlb33">
+        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
+      </a>
+      <br />
+      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
   </tr>
 </table>
