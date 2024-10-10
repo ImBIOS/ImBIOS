@@ -337,9 +337,9 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <summary>See my coding stats detail</summary>
   
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
@@ -351,6 +351,46 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
  > 
 > 🔑 104 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4828 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌆 Daytime                3804 commits        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌃 Evening                5189 commits        █████████░░░░░░░░░░░░░░░░   35.44 % 
+🌙 Night                  821 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1847 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Tuesday                  2112 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Wednesday                2359 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Thursday                 2248 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Friday                   3270 commits        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Saturday                 1801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Sunday                   1005 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               18 hrs 44 mins      ████████████████░░░░░░░░░   65.85 % 
+YAML                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+MDX                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 28 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    28 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -368,7 +408,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2024 20:36:01 UTC
+ Last Updated on 10/10/2024 20:36:15 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
