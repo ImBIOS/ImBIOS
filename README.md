@@ -118,18 +118,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/sampoder">Sam Poder</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HaradaKumiko">
-        <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
-      </a>
-      <br />
-      <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fiqryq">
         <img src="https://avatars2.githubusercontent.com/u/25787603" width="100px;" alt="fiqryq"/>
       </a>
       <br />
       <a href="https://github.com/fiqryq">Fiqry choerudin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HaradaKumiko">
+        <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
+      </a>
+      <br />
+      <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
     </td>
     <td align="center">
       <a href="https://github.com/tranngoclam">
