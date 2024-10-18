@@ -181,6 +181,8 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [atlamors/portfolio](https://github.com/atlamors/portfolio) - An open source portfolio site built on Nextjs and React
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [chempogonzalez/dotenv-checker](https://github.com/chempogonzalez/dotenv-checker) - 🔌 CLI to check/generate .env files and maintain them synchronized
@@ -376,6 +378,8 @@
 
 ## Python 
 
+- [ImBIOS/system-design-primer](https://github.com/ImBIOS/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [alberto-solano/open-source-LLM-translation-tool](https://github.com/alberto-solano/open-source-LLM-translation-tool) - This project use the Meta NLLB-200 translation model through the Hugging Face transformers library.
 - [MarioVilas/googlesearch](https://github.com/MarioVilas/googlesearch) - Google search from Python (unofficial).
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
