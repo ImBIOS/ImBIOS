@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [KirkMcDonald/kirkmcdonald.github.io](https://github.com/KirkMcDonald/kirkmcdonald.github.io) - Simple web-based calculator for the game Factorio.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [atlamors/portfolio](https://github.com/atlamors/portfolio) - An open source portfolio site built on Nextjs and React
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
