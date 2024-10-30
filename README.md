@@ -248,18 +248,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/adipurnamk">adipurnamk</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fahminlb33">
-        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
-      </a>
-      <br />
-      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vianziro">
         <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
       </a>
       <br />
       <a href="https://github.com/vianziro">vianziro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fahminlb33">
+        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
+      </a>
+      <br />
+      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
       <a href="https://github.com/fnakhsan">
