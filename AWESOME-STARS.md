@@ -50,7 +50,7 @@
 
 ## Astro 
 
-- [inotelabs/Astroverse-i18n](https://github.com/inotelabs/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
+- [awllab/Astroverse-i18n](https://github.com/awllab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## C 
 
