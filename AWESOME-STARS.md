@@ -507,6 +507,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [ImBIOS/lab-extract-common-letters](https://github.com/ImBIOS/lab-extract-common-letters) - 📝 TypeScript implementation of an algorithm to extract common characters across multiple strings, optimized for performance with O(n*k) time complexity.
 - [ImBIOS/shadcn-form-builder](https://github.com/ImBIOS/shadcn-form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
