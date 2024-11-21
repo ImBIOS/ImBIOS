@@ -379,6 +379,7 @@
 
 ## Python 
 
+- [aorwall/SWE-bench-docker](https://github.com/aorwall/SWE-bench-docker) - 
 - [ImBIOS/system-design-primer](https://github.com/ImBIOS/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [alberto-solano/open-source-LLM-translation-tool](https://github.com/alberto-solano/open-source-LLM-translation-tool) - This project use the Meta NLLB-200 translation model through the Hugging Face transformers library.
