@@ -380,6 +380,8 @@
 
 ## Python 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [aorwall/SWE-bench-docker](https://github.com/aorwall/SWE-bench-docker) - 
 - [ImBIOS/system-design-primer](https://github.com/ImBIOS/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -509,6 +511,7 @@
 
 ## TypeScript 
 
+- [ImBIOS/lab-t3-todo](https://github.com/ImBIOS/lab-t3-todo) - A full-stack todo app built with T3 Stack
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [ImBIOS/lab-extract-common-letters](https://github.com/ImBIOS/lab-extract-common-letters) - 📝 TypeScript implementation of an algorithm to extract common characters across multiple strings, optimized for performance with O(n*k) time complexity.
 - [ImBIOS/shadcn-form-builder](https://github.com/ImBIOS/shadcn-form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
