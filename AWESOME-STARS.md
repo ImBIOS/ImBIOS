@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [ImBIOS/youtube](https://github.com/ImBIOS/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [ImBIOS/encoredev-ts-benchmarks](https://github.com/ImBIOS/encoredev-ts-benchmarks) - Benchmarks for Encore vs other Node/JS web frameworks
 - [KirkMcDonald/kirkmcdonald.github.io](https://github.com/KirkMcDonald/kirkmcdonald.github.io) - Simple web-based calculator for the game Factorio.
@@ -427,6 +428,7 @@
 
 ## Rust 
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [ngrok/ngrok-javascript](https://github.com/ngrok/ngrok-javascript) - Embed ngrok secure ingress into your Node.js apps with a single line of code.
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
@@ -515,6 +517,8 @@
 
 ## TypeScript 
 
+- [ImBIOS/IndoGitHubers](https://github.com/ImBIOS/IndoGitHubers) - IndoGitHubers is an application that displays the GitHub rank of users in Indonesia.
+- [depapp/IndoGitHubers](https://github.com/depapp/IndoGitHubers) - IndoGitHubers is an application that displays the GitHub rank of users in Indonesia.
 - [ImBIOS/bolt.new](https://github.com/ImBIOS/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy.
