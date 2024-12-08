@@ -386,7 +386,7 @@
 
 - [ImBIOS/OpenHands](https://github.com/ImBIOS/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
+- [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [aorwall/SWE-bench-docker](https://github.com/aorwall/SWE-bench-docker) - 
 - [ImBIOS/system-design-primer](https://github.com/ImBIOS/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
