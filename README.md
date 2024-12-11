@@ -146,18 +146,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/fiqryq">Fiqry choerudin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thewh1teagle">
-        <img src="https://avatars2.githubusercontent.com/u/61390950" width="100px;" alt="thewh1teagle"/>
-      </a>
-      <br />
-      <a href="https://github.com/thewh1teagle">thewh1teagle</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tranngoclam">
         <img src="https://avatars2.githubusercontent.com/u/4991619" width="100px;" alt="tranngoclam"/>
       </a>
       <br />
       <a href="https://github.com/tranngoclam">Lam Tran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thewh1teagle">
+        <img src="https://avatars2.githubusercontent.com/u/61390950" width="100px;" alt="thewh1teagle"/>
+      </a>
+      <br />
+      <a href="https://github.com/thewh1teagle">thewh1teagle</a>
     </td>
     <td align="center">
       <a href="https://github.com/yehezkieldio">
