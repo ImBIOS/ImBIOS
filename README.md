@@ -75,6 +75,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 
 <a href="https://app.daily.dev/imamdev_"><img src="https://api.daily.dev/devcards/v2/IqI2a8WSrNiJy46UA10BM.png?type=default&r=0y9" width="25%" align="right" alt="Imamuzzaki Abu Salam's Dev Card"/></a>
 
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=ImBIOS&style=flat)
+
 <div>
   <a href="https://github.com/ImBIOS">
     <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
