@@ -14,26 +14,25 @@
    limitations under the License.
 """
 
-import requests
 import json
-import sys
 import re
+import sys
+
+import requests
 
 if __name__ == "__main__":
-    assert (len(sys.argv) == 4)
+    assert len(sys.argv) == 4
     handle = sys.argv[1]
     token = sys.argv[2]
     readmePath = sys.argv[3]
 
-    headers = {
-        "Authorization": f"token {token}"
-    }
+    headers = {"Authorization": f"token {token}"}
 
     followers = []
     cursor = None
 
     while True:
-        query = f'''
+        query = f"""
 query {{
     user(login: "{handle}") {{
         followers(first: 10{f', after: "{cursor}"' if cursor else ''}) {{
@@ -69,35 +68,56 @@ query {{
         }}
     }}
 }}
-'''
-        response = requests.post(
-            f"https://api.github.com/graphql", json.dumps({"query": query}), headers=headers)
-        if not response.ok or "data" not in response.json():
-            print(query)
-            print(response.status_code)
-            print(response.text)
-            sys.exit(1)
-        res = response.json()["data"]["user"]["followers"]
-        for follower in res["nodes"]:
-            following = follower["following"]["totalCount"]
-            repoCount = follower["repositories"]["totalCount"]
-            login = follower["login"]
-            name = follower["name"]
-            id = follower["databaseId"]
-            followerNumber = follower["followers"]["totalCount"]
-            thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
-            contributionCount = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"]
-            if following > thirdStars * 50 + repoCount * 5 + followerNumber or contributionCount < 5:
-                print(
-                    f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following")
-                continue
-            followers.append(
-                (followerNumber, login, id, name if name else login))
-            print(followers[-1])
-        sys.stdout.flush()
-        if not res["pageInfo"]["hasNextPage"]:
-            break
-        cursor = res["pageInfo"]["endCursor"]
+"""
+        attempt = 0
+        while attempt < 3:
+            response = requests.post(
+                f"https://api.github.com/graphql",
+                json.dumps({"query": query}),
+                headers=headers,
+            )
+            if not response.ok or "data" not in response.json():
+                print(query)
+                print(response.status_code)
+                print(response.text)
+                # If status code is 403 and message contains "rate limit" then wait for 1 minute and try again
+                if response.status_code == 403 and "rate limit" in response.text:
+                    print("Rate limited. Waiting for 1 minute.")
+                    time.sleep(60)
+                    attempt += 1
+                    print(f"Attempt {attempt}")
+                    continue
+                sys.exit(1)
+            res = response.json()["data"]["user"]["followers"]
+            for follower in res["nodes"]:
+                following = follower["following"]["totalCount"]
+                repoCount = follower["repositories"]["totalCount"]
+                login = follower["login"]
+                name = follower["name"]
+                id = follower["databaseId"]
+                followerNumber = follower["followers"]["totalCount"]
+                thirdStars = (
+                    follower["repositories"]["nodes"][2]["stargazerCount"]
+                    if repoCount >= 3
+                    else 0
+                )
+                contributionCount = follower["contributionsCollection"][
+                    "contributionCalendar"
+                ]["totalContributions"]
+                if (
+                    following > thirdStars * 50 + repoCount * 5 + followerNumber
+                    or contributionCount < 5
+                ):
+                    print(
+                        f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following"
+                    )
+                    continue
+                followers.append((followerNumber, login, id, name if name else login))
+                print(followers[-1])
+            sys.stdout.flush()
+            if not res["pageInfo"]["hasNextPage"]:
+                break
+            cursor = res["pageInfo"]["endCursor"]
 
     followers.sort(reverse=True)
 
@@ -111,14 +131,14 @@ query {{
             if i != 0:
                 html += "  </tr>\n"
             html += "  <tr>\n"
-        html += f'''    <td align="center">
+        html += f"""    <td align="center">
       <a href="https://github.com/{login}">
         <img src="https://avatars2.githubusercontent.com/u/{id}" width="100px;" alt="{login}"/>
       </a>
       <br />
       <a href="https://github.com/{login}">{name}</a>
     </td>
-'''
+"""
 
     html += "  </tr>\n</table>"
 
@@ -126,7 +146,10 @@ query {{
         content = readme.read()
 
     newContent = re.sub(
-        r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)", f"\n{html}\n", content)
+        r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)",
+        f"\n{html}\n",
+        content,
+    )
 
     with open(readmePath, "w") as readme:
         readme.write(newContent)
