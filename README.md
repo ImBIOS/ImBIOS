@@ -75,6 +75,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 
 <a href="https://app.daily.dev/imamdev_"><img src="https://api.daily.dev/devcards/v2/IqI2a8WSrNiJy46UA10BM.png?type=default&r=0y9" width="25%" align="right" alt="Imamuzzaki Abu Salam's Dev Card"/></a>
 
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=ImBIOS&style=flat)
+
 <div>
   <a href="https://github.com/ImBIOS">
     <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
@@ -344,40 +346,40 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <summary>See my coding stats detail</summary>
   
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C932%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C934%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,146 Contributions in the Year 2024
+> 🏆 1,150 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 357 Public Repositories 
+> 📜 358 Public Repositories 
  > 
 > 🔑 113 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4965 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
-🌆 Daytime                3859 commits        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌃 Evening                4265 commits        ████████░░░░░░░░░░░░░░░░░   30.10 % 
-🌙 Night                  1082 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+🌞 Morning                4958 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌆 Daytime                3847 commits        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+🌃 Evening                4308 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌙 Night                  1081 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1898 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Tuesday                  2460 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Wednesday                2865 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Thursday                 2246 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Friday                   2639 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Saturday                 1032 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Sunday                   1031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Monday                   1884 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  2487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Wednesday                2885 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Thursday                 2240 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Friday                   2638 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Saturday                 1029 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Sunday                   1031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 ```
 
 
@@ -387,17 +389,17 @@ Sunday                   1031 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               44 mins             ███████████░░░░░░░░░░░░░░   42.63 % 
-Bash                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+TypeScript               3 hrs 28 mins       ████████████████░░░░░░░░░   62.64 % 
+Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -417,7 +419,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2024 20:33:54 UTC
+ Last Updated on 13/12/2024 20:44:40 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
