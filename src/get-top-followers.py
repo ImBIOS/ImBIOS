@@ -20,6 +20,14 @@ import sys
 
 import requests
 
+
+def is_debug_logging_enabled():
+    return (
+        os.getenv("ACTIONS_STEP_DEBUG") == "true"
+        or os.getenv("ACTIONS_RUNNER_DEBUG") == "true"
+    )
+
+
 if __name__ == "__main__":
     assert len(sys.argv) == 4
     handle = sys.argv[1]
@@ -108,12 +116,14 @@ query {{
                     following > thirdStars * 50 + repoCount * 5 + followerNumber
                     or contributionCount < 5
                 ):
-                    print(
-                        f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following"
-                    )
+                    if is_debug_logging_enabled():
+                        print(
+                            f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following"
+                        )
                     continue
                 followers.append((followerNumber, login, id, name if name else login))
-                print(followers[-1])
+                if is_debug_logging_enabled():
+                    print(followers[-1])
             sys.stdout.flush()
             if not res["pageInfo"]["hasNextPage"]:
                 break
