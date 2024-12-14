@@ -15,21 +15,29 @@
 """
 
 import json
+import os
 import re
 import sys
-import os
+import time
 
 import requests
 
 
 def is_debug_logging_enabled():
+    """
+    Check if debug logging is enabled.
+    """
+
     return (
         os.getenv("ACTIONS_STEP_DEBUG") == "true"
         or os.getenv("ACTIONS_RUNNER_DEBUG") == "true"
     )
 
 
-if __name__ == "__main__":
+def main():
+    """
+    This function fetches the top followers of a GitHub user and updates the README.md file with the list of followers.
+    """
     assert len(sys.argv) == 4
     handle = sys.argv[1]
     token = sys.argv[2]
@@ -97,38 +105,40 @@ query {{
                     print(f"Attempt {attempt}")
                     continue
                 sys.exit(1)
-            res = response.json()["data"]["user"]["followers"]
-            for follower in res["nodes"]:
-                following = follower["following"]["totalCount"]
-                repoCount = follower["repositories"]["totalCount"]
-                login = follower["login"]
-                name = follower["name"]
-                id = follower["databaseId"]
-                followerNumber = follower["followers"]["totalCount"]
-                thirdStars = (
-                    follower["repositories"]["nodes"][2]["stargazerCount"]
-                    if repoCount >= 3
-                    else 0
-                )
-                contributionCount = follower["contributionsCollection"][
-                    "contributionCalendar"
-                ]["totalContributions"]
-                if (
-                    following > thirdStars * 50 + repoCount * 5 + followerNumber
-                    or contributionCount < 5
-                ):
-                    if is_debug_logging_enabled():
-                        print(
-                            f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following"
-                        )
-                    continue
-                followers.append((followerNumber, login, id, name if name else login))
+        res = response.json()["data"]["user"]["followers"]
+        for follower in res["nodes"]:
+            following = follower["following"]["totalCount"]
+            repoCount = follower["repositories"]["totalCount"]
+            login = follower["login"]
+            name = follower["name"]
+            id = follower["databaseId"]
+            followerNumber = follower["followers"]["totalCount"]
+            thirdStars = (
+                follower["repositories"]["nodes"][2]["stargazerCount"]
+                if repoCount >= 3
+                else 0
+            )
+            contributionCount = follower["contributionsCollection"][
+                "contributionCalendar"
+            ]["totalContributions"]
+            if (
+                following > thirdStars * 50 + repoCount * 5 + followerNumber
+                or contributionCount < 5
+            ):
                 if is_debug_logging_enabled():
-                    print(followers[-1])
-            sys.stdout.flush()
-            if not res["pageInfo"]["hasNextPage"]:
-                break
-            cursor = res["pageInfo"]["endCursor"]
+                    print(
+                        f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following"
+                    )
+                continue
+            followers.append((followerNumber, login, id, name if name else login))
+            if is_debug_logging_enabled():
+                print(followers[-1])
+        sys.stdout.flush()
+        print(f"Processed {len(followers)} followers")
+        print(f"is there next page: {res['pageInfo']['hasNextPage']}")
+        if not res["pageInfo"]["hasNextPage"]:
+            break
+        cursor = res["pageInfo"]["endCursor"]
 
     followers.sort(reverse=True)
 
@@ -164,3 +174,7 @@ query {{
 
     with open(readmePath, "w") as readme:
         readme.write(newContent)
+
+
+if __name__ == "__main__":
+    main()
