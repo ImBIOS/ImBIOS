@@ -9,7 +9,7 @@ type RssJsonChannelItem = {
   pubDate: string | undefined;
 };
 
-const getRss = async (): Promise<RssJsonChannelItem[]> => {
+export const getRss = async (): Promise<RssJsonChannelItem[]> => {
   const parser: Parser = new Parser();
   const url = "https://blog.imbios.dev/rss.xml";
   const feed = await parser.parseURL(url);
@@ -29,7 +29,7 @@ const getRss = async (): Promise<RssJsonChannelItem[]> => {
  * @param {object} json
  * @returns {object} sortedJson
  */
-const sortJson = (json: RssJsonChannelItem[]): RssJsonChannelItem[] => {
+export const sortJson = (json: RssJsonChannelItem[]): RssJsonChannelItem[] => {
   json.sort((a, b) => {
     if (a.pubDate && b.pubDate) {
       return new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime();

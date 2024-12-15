@@ -4,9 +4,14 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      - "**/coverage.svg"
+
   pull_request:
     branches:
       - master
+    paths-ignore:
+      - "**/coverage.svg"
 
 jobs:
   test:
@@ -29,27 +34,29 @@ jobs:
 
       - name: Run tests with coverage
         run: |
+          bun test
           cd src
           coverage run -m unittest discover
           coverage report -m
+          ./merge_lcov.sh . merged.lcov
 
       - name: Coverage Badge
-        uses: tj-actions/coverage-badge-py@v2
+        uses: GoogleCloudPlatform/lcov-coverage-badge@v1.0.1
         with:
-          working-directory: src
+          file: ./src/merged.lcov
 
       - name: Verify Changed files
         uses: tj-actions/verify-changed-files@v20
         id: verify-changed-files
         with:
-          files: "src/coverage.svg"
+          files: "coverage.svg"
 
       - name: Commit files
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add src/coverage.svg
+          git add coverage.svg
           git commit -m "Updated coverage.svg"
 
       - name: Push changes
