@@ -385,6 +385,7 @@
 
 ## Python 
 
+- [tj-actions/coverage-badge-py](https://github.com/tj-actions/coverage-badge-py) - :octocat: Github action to generate coverage badge without uploading results to a 3rd party.
 - [ImBIOS/OpenHands](https://github.com/ImBIOS/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
@@ -486,6 +487,7 @@
 
 ## Shell 
 
+- [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
 - [ImBIOS/ols-dockerfiles](https://github.com/ImBIOS/ols-dockerfiles) - Daily Update Lightweight OpenLiteSpeed container in Ubuntu 22.04 Linux Docker Image
 - [litespeedtech/ols-dockerfiles](https://github.com/litespeedtech/ols-dockerfiles) - 
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
@@ -518,6 +520,10 @@
 
 ## TypeScript 
 
+- [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+- [ImBIOS/lcov-coverage-badge](https://github.com/ImBIOS/lcov-coverage-badge) - A GitHub Action for creating markdown embeddable badges, saved to your repository, directly from an LCOV data file.
+- [GoogleCloudPlatform/lcov-coverage-badge](https://github.com/GoogleCloudPlatform/lcov-coverage-badge) - 
+- [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [ImBIOS/sign](https://github.com/ImBIOS/sign) - 
 - [montocommunity/sign](https://github.com/montocommunity/sign) - 
