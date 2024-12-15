@@ -1,4 +1,4 @@
-import { describe, expect, test } from "bun:test";
+import { describe, expect, type Mock, test } from "bun:test";
 import { getRss, sortJson } from "./list-posts";
 
 describe("list-posts", async () => {
@@ -26,7 +26,7 @@ describe("list-posts", async () => {
       ],
     };
 
-    Parser.prototype.parseURL.mockResolvedValue(mockFeed);
+    (Parser.prototype.parseURL as Mock<any>).mockResolvedValue(mockFeed);
 
     const posts = await getRss();
 
@@ -82,7 +82,7 @@ describe("list-posts", async () => {
   - 2024-12-01 [Post 1](https://example.com/1?utm_source=GitHubProfile)
   <!--END_SECTION:blog-posts-->`;
 
-    readFileSync.mockReturnValue(mockReadme); // Mock the existing README content
+    (readFileSync as Mock<any>).mockReturnValue(mockReadme); // Mock the existing README content
 
     // Simulate the RSS fetch and process
     const posts = await getRss(); // Ensure this triggers the update
@@ -94,7 +94,7 @@ describe("list-posts", async () => {
     );
 
     // Mock the file writing process
-    writeFileSync.mockImplementation(() => {});
+    (writeFileSync as Mock<any>).mockImplementation(() => {});
 
     // Ensure that writeFileSync is called with the updated content
     expect(writeFileSync).toHaveBeenCalledWith("README.md", updatedReadme);
@@ -111,7 +111,7 @@ describe("list-posts", async () => {
   - 2024-12-02 [Post 2](https://example.com/2?utm_source=GitHubProfile)
   <!--END_SECTION:blog-posts-->`;
 
-    readFileSync.mockReturnValue(mockReadme);
+    (readFileSync as Mock<any>).mockReturnValue(mockReadme);
 
     await getRss().catch((err) => {
       expect(err.message).toBe("No new blog posts");
