@@ -35,5 +35,6 @@ jobs:
 
       - name: Upload coverage to GitHub Actions
         run: |
+          cd src
           coverage xml
           curl -s https://codecov.io/bash | bash
