@@ -350,15 +350,15 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <summary>See my coding stats detail</summary>
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C934%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
 
 **🐱 My GitHub Data**
 
 > 📦 1.1 MB Used in GitHub's Storage
  >
-> 🏆 1,150 Contributions in the Year 2024
+> 🏆 1,161 Contributions in the Year 2024
  >
 > 💼 Opted to Hire
  >
@@ -420,7 +420,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
- Last Updated on 13/12/2024 20:44:40 UTC
+ Last Updated on 14/12/2024 20:25:45 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
