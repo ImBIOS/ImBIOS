@@ -6,19 +6,22 @@ if [ ! -d "$1" ]; then
   exit 1
 fi
 
-# Initialize LCOV input files variable
-LCOV_INPUT_FILES=""
-
 # Find lcov.info and coverage.lcov files
-while read FILENAME; do
-  LCOV_INPUT_FILES="$LCOV_INPUT_FILES -a \"$FILENAME\""
-done < <(find "$1" \( -name lcov.info -o -name coverage.lcov \))
+LCOV_INPUT_FILES=$(find . \( -name "lcov.info" -o -name "coverage.lcov" \))
 
 # Check if any files were found
 if [ -z "$LCOV_INPUT_FILES" ]; then
-  echo "No lcov.info or coverage.lcov files found in $1."
+  echo "No lcov.info or coverage.lcov files found in current directory recursively."
   exit 1
 fi
 
-# Run lcov command with the specified output path
-eval lcov "${LCOV_INPUT_FILES}" -o "$1/$2"
+# Initialize the lcov command
+LCOV_COMMAND="lcov"
+
+# Loop over each found file and append to the lcov command
+for FILE in $LCOV_INPUT_FILES; do
+  LCOV_COMMAND="$LCOV_COMMAND -a \"$FILE\""
+done
+
+# Run the lcov command with the specified output path
+$LCOV_COMMAND -o "$1/$2"

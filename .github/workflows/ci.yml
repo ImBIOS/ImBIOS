@@ -43,6 +43,7 @@ jobs:
           cd src
           coverage run -m unittest discover
           coverage report -m
+          coverage lcov
           cd ..
           ./merge_lcov.sh src merged.lcov
 
