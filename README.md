@@ -1,6 +1,7 @@
 # 👋 Welcome to **ImBIOS's GitHub**
 
 ![Test Coverage](./src/coverage.svg)
+![CI Status](https://github.com/ImBIOS/ImBIOS/actions/workflows/ci.yml/badge.svg)
 
 <!-- [![@imbios's Holopin board](https://holopin.io/api/user/board?user=imbios)](https://holopin.io/@imbios) -->
 
