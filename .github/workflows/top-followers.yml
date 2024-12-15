@@ -1,9 +1,6 @@
 name: Get Top Followers
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "0 20 1 * *" # Run at 20:00 on the first day of every month
   workflow_dispatch:
