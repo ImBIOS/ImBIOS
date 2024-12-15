@@ -1,219 +1,198 @@
-import unittest
-import logging
-import sys
 import os
-import json
-from unittest.mock import patch, mock_open, MagicMock
+import sys
+import unittest
+from unittest.mock import MagicMock, mock_open, patch
 
-# Configure logging with more verbose output
-logging.basicConfig(
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - %(module)s:%(lineno)d - %(message)s",
-    handlers=[
-        logging.StreamHandler(sys.stdout),  # Output to console
-        logging.FileHandler("test_debug.log", mode="w"),  # Persistent log file
-    ],
-)
-
-# Import the module to test
-import get_top_followers as github_followers
+from get_top_followers import is_debug_logging_enabled, main
 
 
-class VerboseTestGetTopFollowersScript(unittest.TestCase):
+class TestGetTopFollowers(unittest.TestCase):
+
     def setUp(self):
-        """
-        Enhanced setup with detailed logging for test initialization.
-        """
-        # Configure test-specific logging
-        self.logger = logging.getLogger(self.__class__.__name__)
-        self.logger.debug(f"Starting test: {self._testMethodName}")
+        self.argv_backup = sys.argv
+        sys.argv = [
+            "get_top_followers.py",
+            "testuser",
+            "testtoken",
+            "test_README.md",
+        ]
 
-        # Store original system arguments
-        self.original_argv = sys.argv
-        sys.argv = ["script.py", "testuser", "mock_token", "README.md"]
-
-        # Log test configuration details
-        self.logger.info(f"Simulated CLI args: {sys.argv}")
-        self.logger.info(f"Current working directory: {os.getcwd()}")
-        self.logger.info(f"Python version: {sys.version}")
+        self.mocked_env = {
+            "ACTIONS_STEP_DEBUG": "false",
+            "ACTIONS_RUNNER_DEBUG": "false",
+        }
+        self.original_environ = os.environ.copy()
+        os.environ.update(self.mocked_env)
 
     def tearDown(self):
-        """
-        Comprehensive teardown with logging and cleanup.
-        """
-        # Restore original arguments
-        sys.argv = self.original_argv
-
-        self.logger.debug(f"Completed test: {self._testMethodName}")
-
-    def _log_test_case_details(self, test_case):
-        """
-        Helper method to log detailed information about test cases.
-
-        Args:
-            test_case (dict): Dictionary containing test case details
-        """
-        self.logger.debug("Test Case Details:")
-        for key, value in test_case.items():
-            self.logger.debug(f"  {key}: {value}")
+        sys.argv = self.argv_backup
+        os.environ = self.original_environ
 
     def test_is_debug_logging_enabled(self):
-        """
-        Comprehensive test of debug logging detection with extensive logging.
-        """
-        test_scenarios = [
-            {
-                "env_vars": {},
-                "expected_result": False,
-                "description": "No debug environment variables",
+        os.environ["ACTIONS_STEP_DEBUG"] = "true"
+        self.assertTrue(is_debug_logging_enabled())
+
+        os.environ["ACTIONS_STEP_DEBUG"] = "false"
+        os.environ["ACTIONS_RUNNER_DEBUG"] = "true"
+        self.assertTrue(is_debug_logging_enabled())
+
+        os.environ["ACTIONS_STEP_DEBUG"] = "false"
+        os.environ["ACTIONS_RUNNER_DEBUG"] = "false"
+        self.assertFalse(is_debug_logging_enabled())
+
+    @patch(
+        "builtins.open",
+        new_callable=mock_open,
+        read_data="<!--START_SECTION:top-followers--><!--END_SECTION:top-followers-->",
+    )
+    @patch("get_top_followers.requests.post")
+    def test_main(self, mock_post, mock_file):
+        # Mocking API response with proper followers data and pagination
+        mock_response = MagicMock()
+        mock_response.ok = True
+        mock_post.return_value.status_code = 200
+        mock_post.return_value.json.return_value = {
+            "data": {
+                "user": {
+                    "followers": {
+                        "pageInfo": {"endCursor": None, "hasNextPage": False},
+                        "nodes": [
+                            {
+                                "login": "testfollower",
+                                "name": "Test Follower",
+                                "databaseId": 123456,
+                                "following": {
+                                    "totalCount": 10
+                                },  # Ensure 'following' field is present
+                                "repositories": {
+                                    "totalCount": 3,
+                                    "nodes": [
+                                        {"stargazerCount": 5},
+                                        {"stargazerCount": 10},
+                                        {"stargazerCount": 15},
+                                    ],
+                                },
+                                "followers": {"totalCount": 20},
+                                "contributionsCollection": {
+                                    "contributionCalendar": {"totalContributions": 100}
+                                },
+                            }
+                        ],
+                    },
+                },
             },
-            {
-                "env_vars": {"ACTIONS_STEP_DEBUG": "true"},
-                "expected_result": True,
-                "description": "ACTIONS_STEP_DEBUG enabled",
+        }
+
+        # Ensure main works with mocked response
+        main()
+
+        # Verify README content update
+        mock_file().write.assert_called_once()
+        written_content = mock_file().write.call_args[0][0]
+        self.assertIn("testfollower", written_content)
+        self.assertIn(
+            "https://avatars2.githubusercontent.com/u/123456", written_content
+        )
+        self.assertIn("Test Follower", written_content)
+
+
+@patch("get_top_followers.requests.post")
+def test_pagination_handling(self, mock_post):
+    # Simulate multiple pages
+    mock_response_page_1 = MagicMock()
+    mock_response_page_1.ok = True
+    mock_response_page_1.json.return_value = {
+        "data": {
+            "user": {
+                "followers": {
+                    "pageInfo": {"endCursor": "nextPageCursor", "hasNextPage": True},
+                    "nodes": [
+                        {
+                            "login": "follower1",
+                            "name": "Follower One",
+                            "databaseId": 123,
+                            "following": {
+                                "totalCount": 5
+                            },  # Ensure 'following' field is present
+                            "repositories": {
+                                "totalCount": 3,  # Ensure there are 3 repositories
+                                "nodes": [
+                                    {"stargazerCount": 8},
+                                    {"stargazerCount": 12},
+                                    {"stargazerCount": 15},  # Add a third repository
+                                ],
+                            },
+                            "followers": {"totalCount": 10},
+                            "contributionsCollection": {
+                                "contributionCalendar": {"totalContributions": 50}
+                            },
+                        }
+                    ],
+                },
             },
-            {
-                "env_vars": {"ACTIONS_RUNNER_DEBUG": "true"},
-                "expected_result": True,
-                "description": "ACTIONS_RUNNER_DEBUG enabled",
+        },
+    }
+
+    mock_response_page_2 = MagicMock()
+    mock_response_page_2.ok = True
+    mock_response_page_2.json.return_value = {
+        "data": {
+            "user": {
+                "followers": {
+                    "pageInfo": {"endCursor": None, "hasNextPage": False},
+                    "nodes": [
+                        {
+                            "login": "follower2",
+                            "name": "Follower Two",
+                            "databaseId": 456,
+                            "following": {
+                                "totalCount": 12
+                            },  # Ensure 'following' field is present
+                            "repositories": {
+                                "totalCount": 5,
+                                "nodes": [
+                                    {"stargazerCount": 6},
+                                    {"stargazerCount": 7},
+                                    {
+                                        "stargazerCount": 9
+                                    },  # Third repository for this follower
+                                ],
+                            },
+                            "followers": {"totalCount": 15},
+                            "contributionsCollection": {
+                                "contributionCalendar": {"totalContributions": 75}
+                            },
+                        }
+                    ],
+                },
             },
-        ]
+        },
+    }
 
-        for scenario in test_scenarios:
-            self.logger.info(f"Testing Scenario: {scenario['description']}")
+    # Mock two paginated responses
+    mock_post.side_effect = [mock_response_page_1, mock_response_page_2]
 
-            with patch.dict(os.environ, scenario["env_vars"], clear=True):
-                # Detailed logging of environment
-                self.logger.debug(f"Current environment: {os.environ}")
+    # Call main and assert pagination occurs correctly
+    main()
 
-                result = github_followers.is_debug_logging_enabled()
+    # Assert the correct followers have been processed
+    mock_post.assert_any_call(...)  # Ensure correct API calls were made
+    mock_post.assert_any_call(...)  # Ensure the second API call was triggered
 
-                # Verbose logging of test result
-                self.logger.debug(f"Debug Logging Enabled: {result}")
-                self.logger.debug(f"Expected Result: {scenario['expected_result']}")
+    # Ensure content was written to the file
+    mock_file().write.assert_called()
 
-                # Assertion with detailed error message
-                self.assertEqual(
-                    result,
-                    scenario["expected_result"],
-                    f"Failed for scenario: {scenario['description']}\n"
-                    f"Environment: {scenario['env_vars']}",
-                )
+    @patch("get_top_followers.requests.post")
+    def test_invalid_response_handling(self, mock_post):
+        # Test invalid response handling: Ensure API error handling works properly
+        mock_response = MagicMock()
+        mock_response.ok = False  # Simulating failed response
+        mock_post.return_value = mock_response
 
-    def test_follower_filtering_logic(self):
-        """
-        Detailed test of follower filtering logic with comprehensive logging.
-        """
-        test_cases = [
-            {
-                "scenario": "High following count",
-                "following": 1000,
-                "repoCount": 3,
-                "thirdStars": 10,
-                "followerNumber": 50,
-                "contributionCount": 10,
-                "expected_filtered": True,
-            },
-            {
-                "scenario": "Low contribution count",
-                "following": 10,
-                "repoCount": 3,
-                "thirdStars": 10,
-                "followerNumber": 50,
-                "contributionCount": 4,
-                "expected_filtered": True,
-            },
-            {
-                "scenario": "Acceptable follower profile",
-                "following": 50,
-                "repoCount": 3,
-                "thirdStars": 10,
-                "followerNumber": 200,
-                "contributionCount": 20,
-                "expected_filtered": False,
-            },
-        ]
-
-        for test_case in test_cases:
-            self.logger.info(f"Testing Scenario: {test_case['scenario']}")
-            self._log_test_case_details(test_case)
-
-            # Simulate follower filtering logic
-            filtered = (
-                test_case["following"]
-                > test_case["thirdStars"] * 50
-                + test_case["repoCount"] * 5
-                + test_case["followerNumber"]
-                or test_case["contributionCount"] < 5
-            )
-
-            # Verbose logging of filtering result
-            self.logger.debug(f"Filtering Result: {filtered}")
-
-            # Assertion with exhaustive error details
-            self.assertEqual(
-                filtered,
-                test_case["expected_filtered"],
-                f"Filtering logic failed for scenario: {test_case['scenario']}\n"
-                f"Detailed Case:\n{json.dumps(test_case, indent=2)}\n"
-                f"Computed Filtered: {filtered}",
-            )
-
-    def test_debug_logging_with_full_context(self):
-        """
-        Comprehensive debug logging test with maximum context and traceability.
-        """
-        # Simulate different debug logging scenarios
-        debug_scenarios = [
-            {"env": {"ACTIONS_STEP_DEBUG": "true"}, "expected": True},
-            {"env": {"ACTIONS_RUNNER_DEBUG": "true"}, "expected": True},
-            {"env": {}, "expected": False},
-        ]
-
-        for scenario in debug_scenarios:
-            self.logger.info(f"Debug Logging Scenario: {scenario}")
-
-            with patch.dict(os.environ, scenario["env"], clear=True):
-                # Capture system environment state
-                self.logger.debug(f"Current Environment: {dict(os.environ)}")
-
-                # Perform debug logging check
-                debug_enabled = github_followers.is_debug_logging_enabled()
-
-                # Log results with high verbosity
-                self.logger.debug(f"Debug Logging Check Results:")
-                self.logger.debug(f"  Scenario Environment: {scenario['env']}")
-                self.logger.debug(f"  Debug Logging Enabled: {debug_enabled}")
-                self.logger.debug(f"  Expected Result: {scenario['expected']}")
-
-                # Detailed assertion
-                self.assertEqual(
-                    debug_enabled,
-                    scenario["expected"],
-                    f"Unexpected debug logging state\n"
-                    f"Scenario: {scenario}\n"
-                    f"Actual State: {debug_enabled}",
-                )
-
-
-def configure_verbose_unittest():
-    """
-    Configure unittest for maximum verbosity and debugging support.
-    """
-    # Enable verbose test output
-    unittest.TestLoader.testMethodPrefix = "test_"
-
-    # Setup comprehensive logging
-    logging.getLogger().setLevel(logging.DEBUG)
-
-    # Optional: Add more detailed traceback
-    sys.tracebacklimit = 1000
+        # Call main and ensure the error is handled gracefully (possibly with a try/except block)
+        with self.assertRaises(Exception):  # Adjust exception type if necessary
+            main()
 
 
 if __name__ == "__main__":
-    # Apply verbose configuration if debug is enabled
-    if os.environ.get("ACTIONS_STEP_DEBUG") == "true":
-        configure_verbose_unittest()
-
-    # Run tests with verbose output
-    unittest.main(verbosity=2)
+    unittest.main()

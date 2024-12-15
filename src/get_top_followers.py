@@ -1,59 +1,64 @@
-"""
-   Copyright 2020-2022 Yufan You <https://github.com/ouuan>
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-"""
-
 import json
 import os
 import re
 import sys
 import time
+from typing import Callable
 
 import requests
 
 
-def is_debug_logging_enabled():
+def is_debug_logging_enabled() -> bool:
     """
     Check if debug logging is enabled.
     """
-
     return (
         os.getenv("ACTIONS_STEP_DEBUG") == "true"
         or os.getenv("ACTIONS_RUNNER_DEBUG") == "true"
     )
 
 
-def main():
+def retry_request(
+    request_func: Callable[[], requests.Response], retries: int = 3
+) -> requests.Response:
     """
-    This function fetches the top followers of a GitHub user and updates the README.md file with the list of followers.
+    Retry the request with exponential backoff for rate-limited responses.
     """
-    assert len(sys.argv) == 4
-    handle = sys.argv[1]
-    token = sys.argv[2]
-    readmePath = sys.argv[3]
+    for attempt in range(1, retries + 1):
+        response = request_func()
+        if response.ok:
+            return response
+        if response.status_code == 403 and "rate limit" in response.text.lower():
+            wait_time = 2**attempt  # Exponential backoff
+            print(
+                f"Rate limited. Waiting for {wait_time} seconds (Attempt {attempt})..."
+            )
+            time.sleep(wait_time)
+        else:
+            break
+    response.raise_for_status()
 
-    headers = {"Authorization": f"token {token}"}
 
-    followers = []
-    cursor = None
+def handle_api_errors(response: requests.Response) -> None:
+    """
+    Handle API errors by raising appropriate exceptions or exiting.
+    """
+    if not response.ok:
+        if response.status_code == 500:
+            print("Server Error: Retrying is unlikely to help.")
+            raise SystemExit("API returned 500 Internal Server Error.")
+        response.raise_for_status()
 
-    while True:
-        query = f"""
+
+def fetch_followers(handle: str, headers: dict, cursor: str | None) -> dict:
+    """
+    Fetch followers of a GitHub user using the GraphQL API.
+    """
+    query = f"""
 query {{
     user(login: "{handle}") {{
         followers(first: 10{f', after: "{cursor}"' if cursor else ''}) {{
-            pageInfo{{
+            pageInfo {{
                 endCursor
                 hasNextPage
             }}
@@ -86,94 +91,111 @@ query {{
     }}
 }}
 """
-        attempt = 0
-        while attempt < 3:
-            response = requests.post(
-                f"https://api.github.com/graphql",
-                json.dumps({"query": query}),
-                headers=headers,
-            )
-            if not response.ok or "data" not in response.json():
-                print(query)
-                print(response.status_code)
-                print(response.text)
-                # If status code is 403 and message contains "rate limit" then wait for 1 minute and try again
-                if response.status_code == 403 and "rate limit" in response.text:
-                    print("Rate limited. Waiting for 1 minute.")
-                    time.sleep(60)
-                    attempt += 1
-                    print(f"Attempt {attempt}")
-                    continue
-                sys.exit(1)
-        res = response.json()["data"]["user"]["followers"]
-        for follower in res["nodes"]:
-            following = follower["following"]["totalCount"]
-            repoCount = follower["repositories"]["totalCount"]
-            login = follower["login"]
-            name = follower["name"]
-            id = follower["databaseId"]
-            followerNumber = follower["followers"]["totalCount"]
-            thirdStars = (
-                follower["repositories"]["nodes"][2]["stargazerCount"]
-                if repoCount >= 3
-                else 0
-            )
-            contributionCount = follower["contributionsCollection"][
-                "contributionCalendar"
-            ]["totalContributions"]
-            if (
-                following > thirdStars * 50 + repoCount * 5 + followerNumber
-                or contributionCount < 5
-            ):
-                if is_debug_logging_enabled():
-                    print(
-                        f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following"
-                    )
-                continue
-            followers.append((followerNumber, login, id, name if name else login))
-            if is_debug_logging_enabled():
-                print(followers[-1])
-        sys.stdout.flush()
-        print(f"Processed {len(followers)} followers")
-        print(f"is there next page: {res['pageInfo']['hasNextPage']}")
-        if not res["pageInfo"]["hasNextPage"]:
-            break
-        cursor = res["pageInfo"]["endCursor"]
+    response = retry_request(
+        lambda: requests.post(
+            "https://api.github.com/graphql",
+            json={"query": query},
+            headers=headers,
+        )
+    )
+    handle_api_errors(response)
+    return response.json()
 
-    followers.sort(reverse=True)
 
+def generate_html_table(followers: list[tuple[int, str, int, str]]) -> str:
+    """
+    Generate an HTML table for the followers list.
+    """
     html = "<table>\n"
-
     for i in range(min(len(followers), 21)):
-        login = followers[i][1]
-        id = followers[i][2]
-        name = followers[i][3]
+        login, user_id, name = followers[i][1], followers[i][2], followers[i][3]
         if i % 7 == 0:
             if i != 0:
                 html += "  </tr>\n"
             html += "  <tr>\n"
         html += f"""    <td align="center">
       <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="100px;" alt="{login}"/>
+        <img src="https://avatars2.githubusercontent.com/u/{user_id}" width="100px;" alt="{login}"/>
       </a>
       <br />
       <a href="https://github.com/{login}">{name}</a>
     </td>
 """
-
     html += "  </tr>\n</table>"
+    return html
 
-    with open(readmePath, "r") as readme:
+
+def update_readme(readme_path: str, html_content: str) -> None:
+    """
+    Update the README.md file with the generated HTML content.
+    """
+    with open(readme_path, "r", encoding="utf-8") as readme:
         content = readme.read()
 
-    newContent = re.sub(
+    new_content = re.sub(
         r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)",
-        f"\n{html}\n",
+        f"\n{html_content}\n",
         content,
     )
 
-    with open(readmePath, "w") as readme:
-        readme.write(newContent)
+    with open(readme_path, "w", encoding="utf-8") as readme:
+        readme.write(new_content)
+
+
+def main() -> None:
+    """
+    Main function to fetch the top followers and update the README.md file.
+    """
+    if len(sys.argv) != 4:
+        raise SystemExit(
+            "Usage: python get_top_followers.py <GitHub handle> <token> <README path>"
+        )
+
+    handle, token, readme_path = sys.argv[1], sys.argv[2], sys.argv[3]
+    headers = {"Authorization": f"Bearer {token}"}
+
+    followers = []
+    cursor = None
+
+    while True:
+        data = fetch_followers(handle, headers, cursor)
+        user_followers = data["data"]["user"]["followers"]
+        for follower in user_followers["nodes"]:
+            following = follower["following"]["totalCount"]
+            repo_count = follower["repositories"]["totalCount"]
+            login = follower["login"]
+            name = follower["name"]
+            user_id = follower["databaseId"]
+            follower_number = follower["followers"]["totalCount"]
+            third_stars = (
+                follower["repositories"]["nodes"][2]["stargazerCount"]
+                if repo_count >= 3
+                else 0
+            )
+            contribution_count = follower["contributionsCollection"][
+                "contributionCalendar"
+            ]["totalContributions"]
+            if (
+                following > third_stars * 50 + repo_count * 5 + follower_number
+                or contribution_count < 5
+            ):
+                if is_debug_logging_enabled():
+                    print(
+                        f"Skipped{'*' if follower_number > 300 else ''}: https://github.com/{login} with {follower_number} followers and {following} following"
+                    )
+                continue
+            followers.append((follower_number, login, user_id, name or login))
+            if is_debug_logging_enabled():
+                print(followers[-1])
+
+        print(f"Processed {len(followers)} followers")
+        if not user_followers["pageInfo"]["hasNextPage"]:
+            break
+        cursor = user_followers["pageInfo"]["endCursor"]
+
+    followers.sort(reverse=True)
+    html_content = generate_html_table(followers)
+    update_readme(readme_path, html_content)
 
 
 if __name__ == "__main__":
