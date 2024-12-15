@@ -43,7 +43,8 @@ jobs:
           cd src
           coverage run -m unittest discover
           coverage report -m
-          ./merge_lcov.sh . merged.lcov
+          cd ..
+          ./merge_lcov.sh src merged.lcov
 
       - name: Coverage Badge
         uses: GoogleCloudPlatform/lcov-coverage-badge@v1.0.1
