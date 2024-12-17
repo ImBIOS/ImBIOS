@@ -487,6 +487,7 @@
 
 ## Shell 
 
+- [snapcrafters/discord](https://github.com/snapcrafters/discord) - A community-maintained package to easily install Discord on Linux
 - [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
 - [ImBIOS/ols-dockerfiles](https://github.com/ImBIOS/ols-dockerfiles) - Daily Update Lightweight OpenLiteSpeed container in Ubuntu 22.04 Linux Docker Image
 - [litespeedtech/ols-dockerfiles](https://github.com/litespeedtech/ols-dockerfiles) - 
@@ -520,6 +521,9 @@
 
 ## TypeScript 
 
+- [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
+- [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
+- [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [ImBIOS/lcov-coverage-badge](https://github.com/ImBIOS/lcov-coverage-badge) - A GitHub Action for creating markdown embeddable badges, saved to your repository, directly from an LCOV data file.
 - [GoogleCloudPlatform/lcov-coverage-badge](https://github.com/GoogleCloudPlatform/lcov-coverage-badge) - 
