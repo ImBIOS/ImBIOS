@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [neondatabase/website](https://github.com/neondatabase/website) - Official docs and website for Neon.
 - [ImBIOS/youtube](https://github.com/ImBIOS/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [ImBIOS/encoredev-ts-benchmarks](https://github.com/ImBIOS/encoredev-ts-benchmarks) - Benchmarks for Encore vs other Node/JS web frameworks
@@ -487,6 +488,7 @@
 
 ## Shell 
 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [snapcrafters/discord](https://github.com/snapcrafters/discord) - A community-maintained package to easily install Discord on Linux
 - [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
 - [ImBIOS/ols-dockerfiles](https://github.com/ImBIOS/ols-dockerfiles) - Daily Update Lightweight OpenLiteSpeed container in Ubuntu 22.04 Linux Docker Image
@@ -521,6 +523,7 @@
 
 ## TypeScript 
 
+- [mikan3rd/trpc-openai-stream-sample](https://github.com/mikan3rd/trpc-openai-stream-sample) - 🚀 tRPC example for OpenAI streaming responses
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
