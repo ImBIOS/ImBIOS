@@ -120,7 +120,7 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </a>
 </div>
 
-## ✨ Followers
+## ✨ Top Followers
 
 <!--START_SECTION:top-followers-->
 <table>
