@@ -166,6 +166,7 @@
 - [mindninjaX/100DaysOfCode](https://github.com/mindninjaX/100DaysOfCode) - A GitHub Repo for my #100DaysOfCode challenge projects
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [TheSoftwareHouse/Kakunin](https://github.com/TheSoftwareHouse/Kakunin) - An E2E testing framework
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Java 
@@ -266,7 +267,6 @@
 - [ImBIOS/simple-web-project-collection](https://github.com/ImBIOS/simple-web-project-collection) - Collection of website applications project that is simple and beginner-friendly to start your journey on Web Development Learning Path.
 - [manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website) - ✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.
 - [sampoder/gwa-votes](https://github.com/sampoder/gwa-votes) - 🗳 Students go to the polls for the 2021/22 Student Council elections
-- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
 - [dimotsai/react-alarm-clock](https://github.com/dimotsai/react-alarm-clock) - A web alarm clock that is implemented with React.js
@@ -300,6 +300,7 @@
 ## MDX 
 
 - [PxlSyl/tailwind-nextjs-starter-blog-i18n](https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n) - This is a Next.js, i18n and Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizabl
+- [tailcallhq/tailcallhq.github.io](https://github.com/tailcallhq/tailcallhq.github.io) - Website for Tailcall
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
@@ -561,7 +562,6 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory) - 
 - [ImBIOS/tailcallhq.github.io](https://github.com/ImBIOS/tailcallhq.github.io) - Website for Tailcall
-- [tailcallhq/tailcallhq.github.io](https://github.com/tailcallhq/tailcallhq.github.io) - Website for Tailcall
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - AI Agent for Twitter Personality Analysis
