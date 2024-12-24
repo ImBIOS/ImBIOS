@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [ImBIOS/encore-go-benchmarks](https://github.com/ImBIOS/encore-go-benchmarks) - Performance benchmarks and tests for backend services implemented with Encore (Go and TypeScript) against other popular Go frameworks, focusing on request handling, latency, cold start times, and othe
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
