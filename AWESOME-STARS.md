@@ -129,7 +129,7 @@
 - [gandarez/semver-action](https://github.com/gandarez/semver-action) - Generate a semantic version
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -155,7 +155,6 @@
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-- [nardiyansah/RESTful-API-with-Go](https://github.com/nardiyansah/RESTful-API-with-Go) - this is beginner project to create API with Go and Gin Web Framework
 
 ## HTML 
 
@@ -212,7 +211,7 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [ImBIOS/ai-text-summarizer-app](https://github.com/ImBIOS/ai-text-summarizer-app) - "AI Text Summarizer App" is a tool designed for quick and efficient processing of large volumes of text.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
-- [SrBrahma/eslint-config-biome](https://github.com/SrBrahma/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule
+- [hfantauzzi/eslint-config-biome](https://github.com/hfantauzzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [ImBIOS/next_microfrontend](https://github.com/ImBIOS/next_microfrontend) - This project demonstrates the implementation of a micro-frontend architecture using React and Next.js.
