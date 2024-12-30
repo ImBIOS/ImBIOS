@@ -211,7 +211,7 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [ImBIOS/ai-text-summarizer-app](https://github.com/ImBIOS/ai-text-summarizer-app) - "AI Text Summarizer App" is a tool designed for quick and efficient processing of large volumes of text.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
-- [hfantauzzi/eslint-config-biome](https://github.com/hfantauzzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule
+- [ftzi/eslint-config-biome](https://github.com/ftzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [ImBIOS/next_microfrontend](https://github.com/ImBIOS/next_microfrontend) - This project demonstrates the implementation of a micro-frontend architecture using React and Next.js.
@@ -405,6 +405,7 @@
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [gurock/trcli](https://github.com/gurock/trcli) - TR CLI (trcli) is a command line tool for interacting with TestRail.
 - [ImBIOS/Pi-Router-Smart-Controller](https://github.com/ImBIOS/Pi-Router-Smart-Controller) - Controlling router power to auto-reboot if necessary.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -499,7 +500,6 @@
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [foxytouxxx/FoxTools](https://github.com/foxytouxxx/FoxTools) - Simple bash file / python file to install a lot of packages that can sometimes not come with the vps or cannot be installed
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [gurock/automation-frameworks-integration](https://github.com/gurock/automation-frameworks-integration) - 
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
