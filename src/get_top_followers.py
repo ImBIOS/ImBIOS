@@ -3,7 +3,7 @@ import os
 import re
 import sys
 import time
-from typing import Callable
+from typing import Callable, Option
 
 import requests
 
@@ -50,7 +50,7 @@ def handle_api_errors(response: requests.Response) -> None:
         response.raise_for_status()
 
 
-def fetch_followers(handle: str, headers: dict, cursor: str | None) -> dict:
+def fetch_followers(handle: str, headers: dict, cursor: Optional[str]) -> dict:
     """
     Fetch followers of a GitHub user using the GraphQL API.
     """
