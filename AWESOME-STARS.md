@@ -526,6 +526,7 @@
 
 ## TypeScript 
 
+- [oclif/core](https://github.com/oclif/core) - Node.js Open CLI Framework. Built by Salesforce.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [IncredibleDevHQ/dev-video-creator](https://github.com/IncredibleDevHQ/dev-video-creator) - Incredible drastically simplifies creation of developer video content. It offers a unified workflow to storyboard, record, collaborate and produce the video.
 - [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
