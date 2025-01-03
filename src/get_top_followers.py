@@ -3,7 +3,7 @@ import os
 import re
 import sys
 import time
-from typing import Callable, Option
+from typing import Callable, Optional
 
 import requests
 
