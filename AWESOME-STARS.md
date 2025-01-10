@@ -526,6 +526,7 @@
 
 ## TypeScript 
 
+- [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
 - [oclif/core](https://github.com/oclif/core) - Node.js Open CLI Framework. Built by Salesforce.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [IncredibleDevHQ/dev-video-creator](https://github.com/IncredibleDevHQ/dev-video-creator) - Incredible drastically simplifies creation of developer video content. It offers a unified workflow to storyboard, record, collaborate and produce the video.
