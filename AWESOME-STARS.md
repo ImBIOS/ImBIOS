@@ -313,6 +313,7 @@
 
 ## Markdown 
 
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mojo 
@@ -435,6 +436,8 @@
 
 ## Rust 
 
+- [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [ngrok/ngrok-javascript](https://github.com/ngrok/ngrok-javascript) - Embed ngrok secure ingress into your Node.js apps with a single line of code.
@@ -662,7 +665,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - PWA for Next.js, powered by Workbox.
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [ImBIOS/nextjs-flask-lab](https://github.com/ImBIOS/nextjs-flask-lab) - 
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
