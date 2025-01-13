@@ -60,7 +60,7 @@ TODO: Write a book LOL -->
 
 ### 🛠️ Tool Products
 
-- [lcov-coverage-badge](https://github.com/ImBIOS/lcov-coverage-badge), A GitHub Action for creating markdown embeddable badges, saved to your repository, directly from an LCOV data file.
+- [☁️ lcov-coverage-badge](https://github.com/ImBIOS/lcov-coverage-badge), A GitHub Action for creating markdown embeddable badges, saved to your repository, directly from an LCOV data file.
 - [🐇 imbios/bun-node](https://github.com/ImBIOS/bun-node), pre-configured Bun and Node.js docker images for seamless, optimized development and deployment.
 - [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
 - [📲 @imbios/next-pwa](https://github.com/ImBIOS/next-pwa), Zero Config [PWA](https://web.dev/learn/pwa/) Plugin for [Next.js](https://nextjs.org/) with appDir support
