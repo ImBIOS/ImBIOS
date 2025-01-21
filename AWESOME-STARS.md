@@ -185,6 +185,7 @@
 
 ## JavaScript 
 
+- [gajus/eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - JSDoc specific linting rules for ESLint.
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
 - [neondatabase/website](https://github.com/neondatabase/website) - Official docs and website for Neon.
 - [ImBIOS/youtube](https://github.com/ImBIOS/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
@@ -531,6 +532,7 @@
 
 ## TypeScript 
 
+- [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons) - 📦 This package provides the Simple Icons packaged as a set of React components.
 - [midday-ai/languine](https://github.com/midday-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
