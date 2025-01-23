@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [ImBIOS/encore-go-benchmarks](https://github.com/ImBIOS/encore-go-benchmarks) - Performance benchmarks and tests for backend services implemented with Encore (Go and TypeScript) against other popular Go frameworks, focusing on request handling, latency, cold start times, and othe
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
@@ -532,6 +533,7 @@
 
 ## TypeScript 
 
+- [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons) - 📦 This package provides the Simple Icons packaged as a set of React components.
 - [midday-ai/languine](https://github.com/midday-ai/languine) - Translate your application with Languine CLI powered by AI.
@@ -541,7 +543,6 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [IncredibleDevHQ/dev-video-creator](https://github.com/IncredibleDevHQ/dev-video-creator) - Incredible drastically simplifies creation of developer video content. It offers a unified workflow to storyboard, record, collaborate and produce the video.
 - [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [xandemon/developer-icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
