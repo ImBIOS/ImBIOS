@@ -186,6 +186,9 @@
 
 ## JavaScript 
 
+- [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
+- [ImBIOS/eslint-plugin-tailwindcss](https://github.com/ImBIOS/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
+- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [gajus/eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - JSDoc specific linting rules for ESLint.
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
 - [neondatabase/website](https://github.com/neondatabase/website) - Official docs and website for Neon.
@@ -533,6 +536,8 @@
 
 ## TypeScript 
 
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
+- [francoismassart/eslint-plugin-demo-typescript](https://github.com/francoismassart/eslint-plugin-demo-typescript) - Demonstrating an ESLint plugin using TypeScript
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons) - 📦 This package provides the Simple Icons packaged as a set of React components.
