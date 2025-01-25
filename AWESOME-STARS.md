@@ -536,6 +536,8 @@
 
 ## TypeScript 
 
+- [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [francoismassart/eslint-plugin-demo-typescript](https://github.com/francoismassart/eslint-plugin-demo-typescript) - Demonstrating an ESLint plugin using TypeScript
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
