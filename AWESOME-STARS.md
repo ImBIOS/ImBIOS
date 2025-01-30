@@ -187,6 +187,7 @@
 
 ## JavaScript 
 
+- [kharioki/HzCalendar](https://github.com/kharioki/HzCalendar) - 
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [ImBIOS/eslint-plugin-tailwindcss](https://github.com/ImBIOS/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
@@ -538,6 +539,9 @@
 
 ## TypeScript 
 
+- [ImBIOS/mattermost-mobile](https://github.com/ImBIOS/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
+- [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
+- [t3-oss/t3-env](https://github.com/t3-oss/t3-env) - 
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind.
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
