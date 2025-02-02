@@ -3,7 +3,7 @@ import os
 import re
 import sys
 import time
-from typing import Callable, Optional
+from typing import Callable, Optional, List, Tuple
 
 import requests
 
@@ -102,7 +102,7 @@ query {{
     return response.json()
 
 
-def generate_html_table(followers: list[tuple[int, str, int, str]]) -> str:
+def generate_html_table(followers: List[Tuple[int, str, int, str]]) -> str:
     """
     Generate an HTML table for the followers list.
     """
