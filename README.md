@@ -62,6 +62,7 @@ TODO: Write a book LOL -->
 
 ### 🛠️ Tool Products
 
+- [waka-readme-stats](https://github.com/ImBIOS/waka-readme-stats), GitHub Action that dynamically updates your README with live WakaTime metrics and coding activity stats to showcase your coding journey.
 - [☁️ lcov-coverage-badge](https://github.com/ImBIOS/lcov-coverage-badge), A GitHub Action for creating markdown embeddable badges, saved to your repository, directly from an LCOV data file.
 - [🐇 imbios/bun-node](https://github.com/ImBIOS/bun-node), pre-configured Bun and Node.js docker images for seamless, optimized development and deployment.
 - [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
