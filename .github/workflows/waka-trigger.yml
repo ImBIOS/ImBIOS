@@ -19,4 +19,6 @@ jobs:
           SECTION_NAME: CodingStats # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          
+      - name: Retry on failure
+        if: failure()
+        run: exit 1
