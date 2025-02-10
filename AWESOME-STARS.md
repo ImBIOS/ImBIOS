@@ -453,6 +453,7 @@
 
 ## Rust 
 
+- [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
@@ -545,6 +546,7 @@
 
 ## TypeScript 
 
+- [tsperf/tracer](https://github.com/tsperf/tracer) - A VSCode extension to measure type complexity within a project.
 - [ImBIOS/redocly-cli](https://github.com/ImBIOS/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [ImBIOS/redoc](https://github.com/ImBIOS/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
