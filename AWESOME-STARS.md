@@ -187,6 +187,7 @@
 
 ## JavaScript 
 
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [ImBIOS/Gobd-nodebench](https://github.com/ImBIOS/Gobd-nodebench) - 
 - [Gobd/nodebench](https://github.com/Gobd/nodebench) - 
@@ -344,6 +345,7 @@
 
 ## Others 
 
+- [Redocly/redocly-vs-code](https://github.com/Redocly/redocly-vs-code) - Redocly VS Code extension
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
@@ -546,6 +548,7 @@
 
 ## TypeScript 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [tsperf/tracer](https://github.com/tsperf/tracer) - A VSCode extension to measure type complexity within a project.
 - [ImBIOS/redocly-cli](https://github.com/ImBIOS/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [ImBIOS/redoc](https://github.com/ImBIOS/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -597,7 +600,7 @@
 - [planetscale/figma-diagram-generator](https://github.com/planetscale/figma-diagram-generator) - Code to go along with the figma DB diagram creator video
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [ImBIOS/lab-t3-todo](https://github.com/ImBIOS/lab-t3-todo) - A full-stack todo app built with T3 Stack
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [ImBIOS/lab-extract-common-letters](https://github.com/ImBIOS/lab-extract-common-letters) - 📝 TypeScript implementation of an algorithm to extract common characters across multiple strings, optimized for performance with O(n*k) time complexity.
