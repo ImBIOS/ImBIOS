@@ -51,7 +51,7 @@
 ## Astro 
 
 - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source.
-- [idimilab/Astroverse-i18n](https://github.com/idimilab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
+- [inotelab/Astroverse-i18n](https://github.com/inotelab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## C 
 
@@ -384,7 +384,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [ImBIOS/MyFlix-API](https://github.com/ImBIOS/MyFlix-API) - Netflix API clone built with Laravel
 - [nafplann/codeigniter-alumni-app](https://github.com/nafplann/codeigniter-alumni-app) - Aplikasi alumni menggunakan codeigniter dan materialize css framework
-- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [woodwardtw/gfolder_embed](https://github.com/woodwardtw/gfolder_embed) - WordPress shortcode for embedding Google Folders
 - [nafiesl/silsilah](https://github.com/nafiesl/silsilah) - A genealogy/family tree application, built with Laravel.
 - [nafiesl/free-pmo](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel.
@@ -548,6 +548,7 @@
 
 ## TypeScript 
 
+- [ImBIOS/improved-octo-fortnight](https://github.com/ImBIOS/improved-octo-fortnight) - A monorepo technical test project using Turborepo, featuring a full-stack application with Express.js backend and Next.js frontend.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [tsperf/tracer](https://github.com/tsperf/tracer) - A VSCode extension to measure type complexity within a project.
 - [ImBIOS/redocly-cli](https://github.com/ImBIOS/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
