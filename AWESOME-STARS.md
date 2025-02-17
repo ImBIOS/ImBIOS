@@ -345,6 +345,7 @@
 
 ## Others 
 
+- [pulkitgangwar/next.js-snippets](https://github.com/pulkitgangwar/next.js-snippets) - Nextjs snippets extension
 - [Redocly/redocly-vs-code](https://github.com/Redocly/redocly-vs-code) - Redocly VS Code extension
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
