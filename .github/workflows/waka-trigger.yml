@@ -2,8 +2,8 @@ name: Waka Trigger
 
 on:
   schedule:
-    # Runs at 12am IST on the 1st of every month
-    - cron: "30 18 1 * *"
+    # Runs at 12am IST
+    - cron: "30 18 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
