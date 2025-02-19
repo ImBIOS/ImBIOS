@@ -44,7 +44,7 @@ jobs:
         run: |
           bun test
           cd src
-          coverage run -m unittest discover
+          coverage run -m unittest discover -p "*_test.py"
           coverage report -m
           coverage lcov
           cd ..
