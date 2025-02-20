@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -74,6 +75,7 @@
 
 ## C++ 
 
+- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
@@ -187,6 +189,7 @@
 
 ## JavaScript 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [ImBIOS/Gobd-nodebench](https://github.com/ImBIOS/Gobd-nodebench) - 
@@ -309,8 +312,13 @@
 - [dzikirqu/dzikirqu-android](https://github.com/dzikirqu/dzikirqu-android) - Is an All in One app for Muslims with lots of features such as Prayer Times & Adhan, Collections of Dhikr and Prayer sourced from Authentic Hadith, The Holy Qur'an, Qibla, Notes and many more!
 - [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
 
+## Lua 
+
+- [thdxr/environment](https://github.com/thdxr/environment) - 
+
 ## MDX 
 
+- [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [PxlSyl/tailwind-nextjs-starter-blog-i18n](https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n) - This is a Next.js, i18n and Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizabl
 - [tailcallhq/tailcallhq.github.io](https://github.com/tailcallhq/tailcallhq.github.io) - Website for Tailcall
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
@@ -515,6 +523,7 @@
 
 ## Shell 
 
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [snapcrafters/discord](https://github.com/snapcrafters/discord) - A community-maintained package to easily install Discord on Linux
 - [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
@@ -544,10 +553,13 @@
 
 ## Swift 
 
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [kevinhermawan/Canvas](https://github.com/kevinhermawan/Canvas) - DALL·E playground for the Mac
 
 ## TypeScript 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ImBIOS/improved-octo-fortnight](https://github.com/ImBIOS/improved-octo-fortnight) - A monorepo technical test project using Turborepo, featuring a full-stack application with Express.js backend and Next.js frontend.
@@ -818,6 +830,7 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ImBIOS/bun](https://github.com/ImBIOS/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [ImBIOS/codecrafters-bittorrent-zig](https://github.com/ImBIOS/codecrafters-bittorrent-zig) - "Build Your Own BitTorrent" Challenge.
 - [ImBIOS/Exercism](https://github.com/ImBIOS/Exercism) - My Exercism Journey
