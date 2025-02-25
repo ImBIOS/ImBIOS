@@ -418,7 +418,7 @@
 - [tj-actions/coverage-badge-py](https://github.com/tj-actions/coverage-badge-py) - :octocat: Github action to generate coverage badge without uploading results to a 3rd party.
 - [ImBIOS/OpenHands](https://github.com/ImBIOS/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
+- [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
 - [aorwall/SWE-bench-docker](https://github.com/aorwall/SWE-bench-docker) - 
 - [ImBIOS/system-design-primer](https://github.com/ImBIOS/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
