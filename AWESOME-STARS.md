@@ -163,6 +163,7 @@
 
 ## HTML 
 
+- [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
@@ -189,6 +190,7 @@
 
 ## JavaScript 
 
+- [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -332,6 +334,7 @@
 
 ## Markdown 
 
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
