@@ -340,7 +340,7 @@
 
 ## Mojo 
 
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 
 ## Nunjucks 
 
@@ -429,7 +429,6 @@
 - [MarioVilas/googlesearch](https://github.com/MarioVilas/googlesearch) - Google search from Python (unofficial).
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
-- [modular/max](https://github.com/modular/max) - A collection of sample programs, notebooks, and tools which highlight the power of the MAX Platform
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -563,6 +562,7 @@
 
 ## TypeScript 
 
+- [gitn00b1337/expo-widgets](https://github.com/gitn00b1337/expo-widgets) - Bringing widget functionality to expo!
 - [ImBIOS/generative-ai-js](https://github.com/ImBIOS/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
