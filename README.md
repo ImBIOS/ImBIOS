@@ -143,18 +143,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/ImprovedTube">ImprovedTube </a>
     </td>
     <td align="center">
-      <a href="https://github.com/HaradaKumiko">
-        <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
-      </a>
-      <br />
-      <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fiqryq">
         <img src="https://avatars2.githubusercontent.com/u/25787603" width="100px;" alt="fiqryq"/>
       </a>
       <br />
       <a href="https://github.com/fiqryq">Fiqry choerudin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HaradaKumiko">
+        <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
+      </a>
+      <br />
+      <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
     </td>
     <td align="center">
       <a href="https://github.com/tranngoclam">
@@ -164,21 +164,12 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/tranngoclam">Lam Tran</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thewh1teagle">
-        <img src="https://avatars2.githubusercontent.com/u/61390950" width="100px;" alt="thewh1teagle"/>
-      </a>
-      <br />
-      <a href="https://github.com/thewh1teagle">thewh1teagle</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yehezkieldio">
         <img src="https://avatars2.githubusercontent.com/u/47420407" width="100px;" alt="yehezkieldio"/>
       </a>
       <br />
       <a href="https://github.com/yehezkieldio">Yehezkiel Dio Sinolungan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/darioalessandro">
         <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
@@ -186,6 +177,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <br />
       <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/uwaisalqadri">
         <img src="https://avatars2.githubusercontent.com/u/55146646" width="100px;" alt="uwaisalqadri"/>
@@ -222,15 +215,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/zfben">Ben</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hkatzdev">
-        <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/hkatzdev">Harrison Katz</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/mwafrika">
         <img src="https://avatars2.githubusercontent.com/u/25848053" width="100px;" alt="mwafrika"/>
       </a>
@@ -238,18 +222,20 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/mwafrika">MWAFRIKA MUFUNGIZI </a>
     </td>
     <td align="center">
-      <a href="https://github.com/wagyufari">
-        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
-      </a>
-      <br />
-      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wagyufari">
+        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
+      </a>
+      <br />
+      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
     <td align="center">
       <a href="https://github.com/Syafiq1331">
@@ -278,6 +264,20 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/dzakdzaks">Dzaky</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adipurnamk">
+        <img src="https://avatars2.githubusercontent.com/u/58361185" width="100px;" alt="adipurnamk"/>
+      </a>
+      <br />
+      <a href="https://github.com/adipurnamk">adipurnamk</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vianziro">
+        <img src="https://avatars2.githubusercontent.com/u/9649104" width="100px;" alt="vianziro"/>
+      </a>
+      <br />
+      <a href="https://github.com/vianziro">vianziro</a>
     </td>
   </tr>
 </table>
