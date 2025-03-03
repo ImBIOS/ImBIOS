@@ -78,6 +78,7 @@
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [locaal-ai/obs-backgroundremoval](https://github.com/locaal-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
@@ -181,7 +182,6 @@
 - [ImBIOS/RNWidget](https://github.com/ImBIOS/RNWidget) - Widgets using Expo and React Native for cross-platform mobile applications targeting Android and iOS.
 - [mobiletechvn/react-native-widget-bridge](https://github.com/mobiletechvn/react-native-widget-bridge) - A bridge between JS thread and native widget, initially created for sharing data and communication with ios 14 widget
 - [KjellConnelly/react-native-shared-group-preferences](https://github.com/KjellConnelly/react-native-shared-group-preferences) - 
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [ThanosFisherman/WifiUtils](https://github.com/ThanosFisherman/WifiUtils) - Easily Connect to WiFi Networks
 - [mhmdJalal/UI-LoginApp](https://github.com/mhmdJalal/UI-LoginApp) - 
 - [heyletscode/Chat-App-In-Android-And-NodeJS-Using-WebSockets](https://github.com/heyletscode/Chat-App-In-Android-And-NodeJS-Using-WebSockets) - 
@@ -714,7 +714,7 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library that gives you the tools you need to build AI-powered products.
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
