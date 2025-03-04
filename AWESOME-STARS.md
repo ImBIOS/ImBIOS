@@ -112,7 +112,6 @@
 - [ImBIOS/actor-bun-node-docker](https://github.com/ImBIOS/actor-bun-node-docker) - Fork Base Docker images of Apify actors using Bun and Node
 - [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-- [pi-hole/docs](https://github.com/pi-hole/docs) - The official Pi-hole documentation
 - [v-je/docker](https://github.com/v-je/docker) - Easy to use docker environment for PHP development. With zero configuration supports hosting multiple websites, valid SSL certificates (for HTTPS and HTTP 2 development), HTTP2 support. See https://r.
 
 ## Fluent 
@@ -167,6 +166,7 @@
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
+- [pi-hole/docs](https://github.com/pi-hole/docs) - The official Pi-hole documentation
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [craftzdog/link-in-bio](https://github.com/craftzdog/link-in-bio) - Link in bio page for my Instagram profile
@@ -179,6 +179,7 @@
 
 ## Java 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [ImBIOS/RNWidget](https://github.com/ImBIOS/RNWidget) - Widgets using Expo and React Native for cross-platform mobile applications targeting Android and iOS.
 - [mobiletechvn/react-native-widget-bridge](https://github.com/mobiletechvn/react-native-widget-bridge) - A bridge between JS thread and native widget, initially created for sharing data and communication with ios 14 widget
 - [KjellConnelly/react-native-shared-group-preferences](https://github.com/KjellConnelly/react-native-shared-group-preferences) - 
@@ -562,7 +563,7 @@
 
 ## TypeScript 
 
-- [gitn00b1337/expo-widgets](https://github.com/gitn00b1337/expo-widgets) - Bringing widget functionality to expo!
+- [mike-stewart-dev/expo-widgets](https://github.com/mike-stewart-dev/expo-widgets) - Bringing widget functionality to expo!
 - [ImBIOS/generative-ai-js](https://github.com/ImBIOS/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
