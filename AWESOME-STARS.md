@@ -66,6 +66,8 @@
 
 ## C# # 
 
+- [clockworklabs/Blackholio](https://github.com/clockworklabs/Blackholio) - An example game where player circles eat food and other circles!
+- [clockworklabs/com.clockworklabs.spacetimedbsdk](https://github.com/clockworklabs/com.clockworklabs.spacetimedbsdk) - The SpacetimeDB SDK for C# clients
 - [ImBIOS/multiplayer-ar-game-with-unity](https://github.com/ImBIOS/multiplayer-ar-game-with-unity) - Learn Developing Multiplayer AR Game With Unity3D, Vuforia, Photon Unity Networking 2
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -193,6 +195,8 @@
 
 ## JavaScript 
 
+- [ImBIOS/clerk-docs](https://github.com/ImBIOS/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
+- [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [ImBIOS/migrate-catalog](https://github.com/ImBIOS/migrate-catalog) - CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
@@ -418,6 +422,7 @@
 
 ## Python 
 
+- [clockworklabs/spacetimedb-python-sdk](https://github.com/clockworklabs/spacetimedb-python-sdk) - The SpacetimeDB SDK for Python clients
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [ImBIOS/waka-readme-stats](https://github.com/ImBIOS/waka-readme-stats) - GitHub Action that dynamically updates your README with live WakaTime metrics and coding activity stats to showcase your coding journey
@@ -468,6 +473,8 @@
 
 ## Rust 
 
+- [clockworklabs/spacetimedb-minecraft](https://github.com/clockworklabs/spacetimedb-minecraft) - An open source implementation of a minecraft server written in rust running on SpacetimeDB
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
