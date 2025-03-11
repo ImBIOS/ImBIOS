@@ -148,6 +148,7 @@
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [ImBIOS/go-micho-twitter](https://github.com/ImBIOS/go-micho-twitter) - Twitter-like API written in Go, using Echo framework.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -195,6 +196,8 @@
 
 ## JavaScript 
 
+- [ImBIOS/modelcontextprotocol-servers](https://github.com/ImBIOS/modelcontextprotocol-servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ImBIOS/clerk-docs](https://github.com/ImBIOS/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [ImBIOS/migrate-catalog](https://github.com/ImBIOS/migrate-catalog) - CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
@@ -553,7 +556,6 @@
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [0unknwn/auto-hotspot](https://github.com/0unknwn/auto-hotspot) - Service and script to automatically create and configure an access point if there is no known network nearby
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
@@ -572,6 +574,9 @@
 
 ## TypeScript 
 
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [neondatabase-labs/mcp-server-neon](https://github.com/neondatabase-labs/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
+- [jsonresume/mcp](https://github.com/jsonresume/mcp) - The registry mcp server updates your resume while you code
 - [mike-stewart-dev/expo-widgets](https://github.com/mike-stewart-dev/expo-widgets) - Bringing widget functionality to expo!
 - [ImBIOS/generative-ai-js](https://github.com/ImBIOS/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
