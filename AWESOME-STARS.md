@@ -127,12 +127,13 @@
 
 ## Go 
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [ImBIOS/encore-go-benchmarks](https://github.com/ImBIOS/encore-go-benchmarks) - Performance benchmarks and tests for backend services implemented with Encore (Go and TypeScript) against other popular Go frameworks, focusing on request handling, latency, cold start times, and othe
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [blue-rpc/bluerpc](https://github.com/blue-rpc/bluerpc) - Golang library for end-to-end Go-Typescript type safety.
 - [gandarez/semver-action](https://github.com/gandarez/semver-action) - Generate a semantic version
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -425,6 +426,7 @@
 
 ## Python 
 
+- [THUDM/CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
 - [clockworklabs/spacetimedb-python-sdk](https://github.com/clockworklabs/spacetimedb-python-sdk) - The SpacetimeDB SDK for Python clients
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
@@ -574,6 +576,7 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [neondatabase-labs/mcp-server-neon](https://github.com/neondatabase-labs/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
 - [jsonresume/mcp](https://github.com/jsonresume/mcp) - The registry mcp server updates your resume while you code
