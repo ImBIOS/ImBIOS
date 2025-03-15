@@ -148,6 +148,7 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [ImBIOS/go-micho-twitter](https://github.com/ImBIOS/go-micho-twitter) - Twitter-like API written in Go, using Echo framework.
@@ -258,7 +259,6 @@
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
 - [ImBIOS/story-app](https://github.com/ImBIOS/story-app) - This is a story app that allows users to create stories.
 - [ImBIOS/bookshelf-apps](https://github.com/ImBIOS/bookshelf-apps) - Using only HTML, CSS, and JavaScript; This is a bookshelf app that allows you to search for books and add them to your bookshelf. You can also remove books from your bookshelf.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [kentcdodds/js-testing-fundamentals](https://github.com/kentcdodds/js-testing-fundamentals) - Fundamentals of Testing in JavaScript on TestingJavaScript.com
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -432,7 +432,6 @@
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [ImBIOS/waka-readme-stats](https://github.com/ImBIOS/waka-readme-stats) - GitHub Action that dynamically updates your README with live WakaTime metrics and coding activity stats to showcase your coding journey
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
-- [tj-actions/coverage-badge-py](https://github.com/tj-actions/coverage-badge-py) - :octocat: Github action to generate coverage badge without uploading results to a 3rd party.
 - [ImBIOS/OpenHands](https://github.com/ImBIOS/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
@@ -544,7 +543,6 @@
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [snapcrafters/discord](https://github.com/snapcrafters/discord) - A community-maintained package to easily install Discord on Linux
-- [tj-actions/verify-changed-files](https://github.com/tj-actions/verify-changed-files) - :octocat: Github action to verify file changes that occur during the workflow execution.
 - [ImBIOS/ols-dockerfiles](https://github.com/ImBIOS/ols-dockerfiles) - Daily Update Lightweight OpenLiteSpeed container in Ubuntu 22.04 Linux Docker Image
 - [litespeedtech/ols-dockerfiles](https://github.com/litespeedtech/ols-dockerfiles) - 
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
@@ -576,6 +574,7 @@
 
 ## TypeScript 
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [Redocly/warp-multi-sidebars](https://github.com/Redocly/warp-multi-sidebars) - Template with API and multiple sidebars
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
