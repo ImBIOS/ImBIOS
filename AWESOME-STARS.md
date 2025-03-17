@@ -576,6 +576,7 @@
 
 ## TypeScript 
 
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ImBIOS/thymer-in-a-nextshell](https://github.com/ImBIOS/thymer-in-a-nextshell) - 
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
