@@ -53,7 +53,7 @@
 ## Astro 
 
 - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source.
-- [penboxlab/Astroverse-i18n](https://github.com/penboxlab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
+- [inotelab/Astroverse-i18n](https://github.com/inotelab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## C 
 
@@ -585,6 +585,7 @@
 
 ## TypeScript 
 
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ImBIOS/thymer-in-a-nextshell](https://github.com/ImBIOS/thymer-in-a-nextshell) - 
@@ -720,7 +721,7 @@
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync vi
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice
-- [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 14 , Next.js 13 and React.
+- [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [jakobhoeg/shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - CLI for adding customizable and re-usable chat components to your applications. Build beautiful chat interfaces in minutes.
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
