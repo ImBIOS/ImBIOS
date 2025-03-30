@@ -128,6 +128,9 @@
 
 ## Go 
 
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [ImBIOS/hanko](https://github.com/ImBIOS/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
@@ -206,7 +209,6 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ImBIOS/clerk-docs](https://github.com/ImBIOS/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
-- [ImBIOS/migrate-catalog](https://github.com/ImBIOS/migrate-catalog) - CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -336,6 +338,8 @@
 
 ## MDX 
 
+- [ImBIOS/teamhanko-docs](https://github.com/ImBIOS/teamhanko-docs) - The Hanko documentation
+- [teamhanko/docs](https://github.com/teamhanko/docs) - The Hanko documentation
 - [ImBIOS/reusables](https://github.com/ImBIOS/reusables) - 
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [PxlSyl/tailwind-nextjs-starter-blog-i18n](https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n) - This is a Next.js, i18n and Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizabl
@@ -601,6 +605,7 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [neondatabase-labs/mcp-server-neon](https://github.com/neondatabase-labs/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
 - [jsonresume/mcp](https://github.com/jsonresume/mcp) - The registry mcp server updates your resume while you code
+- [ImBIOS/migrate-catalog](https://github.com/ImBIOS/migrate-catalog) - CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
 - [mike-stewart-dev/expo-widgets](https://github.com/mike-stewart-dev/expo-widgets) - Bringing widget functionality to expo!
 - [ImBIOS/generative-ai-js](https://github.com/ImBIOS/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
