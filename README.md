@@ -231,13 +231,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/wagyufari">
-        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
-      </a>
-      <br />
-      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Syafiq1331">
         <img src="https://avatars2.githubusercontent.com/u/71716582" width="100px;" alt="Syafiq1331"/>
       </a>
@@ -271,6 +264,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/adipurnamk">adipurnamk</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fahminlb33">
+        <img src="https://avatars2.githubusercontent.com/u/8360880" width="100px;" alt="fahminlb33"/>
+      </a>
+      <br />
+      <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
       <a href="https://github.com/vianziro">
