@@ -53,7 +53,6 @@
 ## Astro 
 
 - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source.
-- [idimilab/Astroverse-i18n](https://github.com/idimilab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## C 
 
@@ -503,7 +502,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [ngrok/ngrok-javascript](https://github.com/ngrok/ngrok-javascript) - Embed ngrok secure ingress into your Node.js apps with a single line of code.
-- [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+- [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren/] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our Git
 - [ImBIOS/tailcall](https://github.com/ImBIOS/tailcall) - High Performance GraphQL Runtime
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -711,7 +710,7 @@
 - [leo-petrucci/run-cap-on-android](https://github.com/leo-petrucci/run-cap-on-android) - Builds and installs a Capacitor app in WSL and launches it on an Android emulator running in Windows
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
 - [ImBIOS/codelab-friendlyeats-web](https://github.com/ImBIOS/codelab-friendlyeats-web) - Integrate Firebase with a Next.js app codelab
-- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
+- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
 - [kossnocorp/typesaurus](https://github.com/kossnocorp/typesaurus) - 🦕 Type-safe TypeScript-first ODM for Firestore
 - [ImBIOS/speechify-web-functional-test](https://github.com/ImBIOS/speechify-web-functional-test) - 
 - [ImBIOS/codecrafters-http-server-typescript](https://github.com/ImBIOS/codecrafters-http-server-typescript) - 
