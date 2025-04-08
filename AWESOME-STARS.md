@@ -207,9 +207,8 @@
 - [ImBIOS/modelcontextprotocol-servers](https://github.com/ImBIOS/modelcontextprotocol-servers) - Model Context Protocol Servers
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ImBIOS/clerk-docs](https://github.com/ImBIOS/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
-- [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [ImBIOS/Gobd-nodebench](https://github.com/ImBIOS/Gobd-nodebench) - 
@@ -493,6 +492,8 @@
 
 ## Rust 
 
+- [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
 - [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -595,6 +596,12 @@
 
 ## TypeScript 
 
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [manfredsteyer/multi-framework-version](https://github.com/manfredsteyer/multi-framework-version) - 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+- [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) - A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
+- [lumehq/lume](https://github.com/lumehq/lume) - Lume is a nostr client for macOS and Windows 11.
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) - Create-tsrouter-app is drop-in replacement for create-react-app that builds TanStack Router based SPA applications
@@ -611,6 +618,7 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [neondatabase-labs/mcp-server-neon](https://github.com/neondatabase-labs/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
 - [jsonresume/mcp](https://github.com/jsonresume/mcp) - The registry mcp server updates your resume while you code
+- [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [ImBIOS/migrate-catalog](https://github.com/ImBIOS/migrate-catalog) - CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
 - [mike-stewart-dev/expo-widgets](https://github.com/mike-stewart-dev/expo-widgets) - Bringing widget functionality to expo!
 - [ImBIOS/generative-ai-js](https://github.com/ImBIOS/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
