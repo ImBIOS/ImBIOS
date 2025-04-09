@@ -433,6 +433,8 @@
 
 ## Python 
 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accoun
+- [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Ultra-Lightweight Durable Execution in Python
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
@@ -492,6 +494,7 @@
 
 ## Rust 
 
+- [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
@@ -532,7 +535,7 @@
 - [ImBIOS/lorust](https://github.com/ImBIOS/lorust) - Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [Xudong-Huang/may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - mini http implemented on top of may
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -596,6 +599,7 @@
 
 ## TypeScript 
 
+- [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - Ultra-Lightweight Durable Execution in TypeScript
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [manfredsteyer/multi-framework-version](https://github.com/manfredsteyer/multi-framework-version) - 
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
