@@ -500,6 +500,7 @@
 
 ## Rust 
 
+- [ImBIOS/tauri-macos-spotlight-example-2](https://github.com/ImBIOS/tauri-macos-spotlight-example-2) - 
 - [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
