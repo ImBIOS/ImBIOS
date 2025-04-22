@@ -501,6 +501,7 @@
 
 ## Rust 
 
+- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [ImBIOS/tauri-macos-spotlight-example-2](https://github.com/ImBIOS/tauri-macos-spotlight-example-2) - 
 - [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
@@ -607,6 +608,7 @@
 
 ## TypeScript 
 
+- [Redocly/yaml-ast-parser](https://github.com/Redocly/yaml-ast-parser) - Custom fork of YAML-AST-PARSER to provide custom tags with multiple types
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
@@ -645,7 +647,6 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ImBIOS/improved-octo-fortnight](https://github.com/ImBIOS/improved-octo-fortnight) - A monorepo technical test project using Turborepo, featuring a full-stack application with Express.js backend and Next.js frontend.
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [tsperf/tracer](https://github.com/tsperf/tracer) - A VSCode extension to measure type complexity within a project.
 - [ImBIOS/redocly-cli](https://github.com/ImBIOS/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [ImBIOS/redoc](https://github.com/ImBIOS/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -907,6 +908,7 @@
 ## Vue 
 
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [Dashibase/dashibase](https://github.com/Dashibase/dashibase) - Super simple user dashboards for Supabase users.
 - [zernonia/supadb](https://github.com/zernonia/supadb) - Connect and play with Supabase REST API / Graphql easily
 
