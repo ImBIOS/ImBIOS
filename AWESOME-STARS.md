@@ -204,6 +204,7 @@
 
 ## JavaScript 
 
+- [pozil/auto-assign-issue](https://github.com/pozil/auto-assign-issue) - GitHub Action that auto-assigns issues or PRs to one or more users
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [react-csv/react-csv](https://github.com/react-csv/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
@@ -377,6 +378,7 @@
 
 ## Others 
 
+- [supercopy-coretax/hypertax-recruitment](https://github.com/supercopy-coretax/hypertax-recruitment) - 
 - [AgentDeskAI/memory-tools-mcp](https://github.com/AgentDeskAI/memory-tools-mcp) - long term memory system for AI agents using MCP
 - [pulkitgangwar/next.js-snippets](https://github.com/pulkitgangwar/next.js-snippets) - Nextjs snippets extension
 - [Redocly/redocly-vs-code](https://github.com/Redocly/redocly-vs-code) - Redocly VS Code extension
@@ -411,6 +413,8 @@
 
 ## PHP 
 
+- [simplesamlphp/docker-simplesamlphp](https://github.com/simplesamlphp/docker-simplesamlphp) - A docker image for easy deployment of SimpleSAMLphp as either an Identity Provider or as a Service Provider.
+- [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an application written in native PHP that deals with authentication.
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
 - [terrylinooo/githuber-md](https://github.com/terrylinooo/githuber-md) - Markdown editor plugin for WordPress.
 - [ImBIOS/MBPTL](https://github.com/ImBIOS/MBPTL) - Self-deployed Straight-forward hacking lab machine which designed for new comer who want to learn Penetration Testing field that running inside Docker for easy setup.
@@ -573,6 +577,7 @@
 
 ## Shell 
 
+- [tolitius/entail](https://github.com/tolitius/entail) - grep and tail for nomad logs
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [snapcrafters/discord](https://github.com/snapcrafters/discord) - A community-maintained package to easily install Discord on Linux
