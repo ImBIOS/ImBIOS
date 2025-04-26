@@ -713,7 +713,7 @@
 - [needim/gider.im-website](https://github.com/needim/gider.im-website) - gider.im website
 - [needim/gider.im-pwa](https://github.com/needim/gider.im-pwa) - gider.im - privacy-focused income and expense tracking app
 - [hasanharman/form-builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [ImBIOS/crawlee](https://github.com/ImBIOS/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
