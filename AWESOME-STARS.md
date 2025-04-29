@@ -619,6 +619,8 @@
 
 ## TypeScript 
 
+- [batoulapps/adhan-js](https://github.com/batoulapps/adhan-js) - High precision Islamic prayer time library for JavaScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [Redocly/yaml-ast-parser](https://github.com/Redocly/yaml-ast-parser) - Custom fork of YAML-AST-PARSER to provide custom tags with multiple types
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
