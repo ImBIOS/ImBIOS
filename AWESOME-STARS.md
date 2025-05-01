@@ -620,6 +620,7 @@
 
 ## TypeScript 
 
+- [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [ImBIOS/fontara](https://github.com/ImBIOS/fontara) - Font ARA Font Changer ( Cross browser Extension)
 - [mimalef70/fontara](https://github.com/mimalef70/fontara) - Font ARA Font Changer ( Cross browser Extension)
 - [ImBIOS/Wudooh](https://github.com/ImBIOS/Wudooh) - Browser extension that allows Arabic script modifications for clarity and customization
