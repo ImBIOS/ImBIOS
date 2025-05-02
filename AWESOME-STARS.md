@@ -620,6 +620,8 @@
 
 ## TypeScript 
 
+- [ImBIOS/evaly](https://github.com/ImBIOS/evaly) - (🚧 WIP) A modern open-source platform for AI-powered assessments, quizzes, and surveys.
+- [fahreziadh/evaly](https://github.com/fahreziadh/evaly) - (🚧 WIP) A modern open-source platform for AI-powered assessments, quizzes, and surveys.
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [ImBIOS/fontara](https://github.com/ImBIOS/fontara) - Font ARA Font Changer ( Cross browser Extension)
 - [mimalef70/fontara](https://github.com/mimalef70/fontara) - Font ARA Font Changer ( Cross browser Extension)
