@@ -57,6 +57,7 @@
 
 ## C 
 
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
@@ -78,6 +79,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -132,6 +134,9 @@
 
 ## Go 
 
+- [ImBIOS/kubectl-ai](https://github.com/ImBIOS/kubectl-ai) - AI powered Kubernetes Assistant
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
+- [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -622,6 +627,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
 - [ImBIOS/evaly](https://github.com/ImBIOS/evaly) - (🚧 WIP) A modern open-source platform for AI-powered assessments, quizzes, and surveys.
 - [fahreziadh/evaly](https://github.com/fahreziadh/evaly) - (🚧 WIP) A modern open-source platform for AI-powered assessments, quizzes, and surveys.
