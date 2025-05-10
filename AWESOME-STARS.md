@@ -82,6 +82,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
@@ -224,7 +225,6 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ImBIOS/clerk-docs](https://github.com/ImBIOS/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [ImBIOS/Gobd-nodebench](https://github.com/ImBIOS/Gobd-nodebench) - 
@@ -631,6 +631,8 @@
 
 ## TypeScript 
 
+- [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
+- [ImBIOS/monorepo-benchmarks](https://github.com/ImBIOS/monorepo-benchmarks) - Benchmarking the experience of using monorepo tools - Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
 - [upstash/rag-chat](https://github.com/upstash/rag-chat) - Prototype SDK for RAG development.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
