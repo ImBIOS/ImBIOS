@@ -631,6 +631,7 @@
 
 ## TypeScript 
 
+- [GitOpsLovers/nx-biome](https://github.com/GitOpsLovers/nx-biome) - NX plugin to integrate the Biome toolchain.
 - [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
 - [ImBIOS/monorepo-benchmarks](https://github.com/ImBIOS/monorepo-benchmarks) - Benchmarking the experience of using monorepo tools - Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
 - [upstash/rag-chat](https://github.com/upstash/rag-chat) - Prototype SDK for RAG development.
@@ -813,7 +814,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [sefininio/microservices-realworld-app](https://github.com/sefininio/microservices-realworld-app) - A realworld app implementation using nx, nest.js & graphql using a micro-services approach
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-- [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 - [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
 - [fahreziadh/bikinsoal](https://github.com/fahreziadh/bikinsoal) - A Next.js Project that implements GPT-3.5 turbo, T3-Stack App Router, Next-auth, Drizzle and ShadcnUI
@@ -933,7 +934,7 @@
 - [farizdotid/DAFTAR-API-LOKAL-INDONESIA](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia &lt;3
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [lucaschen/microservices-chat-demo](https://github.com/lucaschen/microservices-chat-demo) - 
-- [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
+- [fifocode/nodejs-backend-architecture-typescript](https://github.com/fifocode/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
 - [EPAM-JS-Competency-center/shop-nodejs-aws-serverless](https://github.com/EPAM-JS-Competency-center/shop-nodejs-aws-serverless) - Backend for E-Commerce application (Shop) created with NodeJS, AWS Cloud and Serverless architecture and Serverless framework
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
 - [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
