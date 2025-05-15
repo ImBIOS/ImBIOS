@@ -390,7 +390,6 @@
 ## Others 
 
 - [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual pro
-- [supercopy-coretax/hypertax-recruitment](https://github.com/supercopy-coretax/hypertax-recruitment) - 
 - [AgentDeskAI/memory-tools-mcp](https://github.com/AgentDeskAI/memory-tools-mcp) - long term memory system for AI agents using MCP
 - [pulkitgangwar/next.js-snippets](https://github.com/pulkitgangwar/next.js-snippets) - Nextjs snippets extension
 - [Redocly/redocly-vs-code](https://github.com/Redocly/redocly-vs-code) - Redocly VS Code extension
@@ -632,6 +631,7 @@
 
 ## TypeScript 
 
+- [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy
 - [GitOpsLovers/nx-biome](https://github.com/GitOpsLovers/nx-biome) - NX plugin to integrate the Biome toolchain.
 - [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
 - [ImBIOS/monorepo-benchmarks](https://github.com/ImBIOS/monorepo-benchmarks) - Benchmarking the experience of using monorepo tools - Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
