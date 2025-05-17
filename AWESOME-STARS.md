@@ -631,6 +631,7 @@
 
 ## TypeScript 
 
+- [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy
 - [GitOpsLovers/nx-biome](https://github.com/GitOpsLovers/nx-biome) - NX plugin to integrate the Biome toolchain.
 - [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
