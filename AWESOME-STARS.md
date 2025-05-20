@@ -71,7 +71,6 @@
 - [clockworklabs/Blackholio](https://github.com/clockworklabs/Blackholio) - An example game where player circles eat food and other circles!
 - [clockworklabs/com.clockworklabs.spacetimedbsdk](https://github.com/clockworklabs/com.clockworklabs.spacetimedbsdk) - The SpacetimeDB SDK for C# clients
 - [ImBIOS/multiplayer-ar-game-with-unity](https://github.com/ImBIOS/multiplayer-ar-game-with-unity) - Learn Developing Multiplayer AR Game With Unity3D, Vuforia, Photon Unity Networking 2
-- [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - App for displaying pressed keys of the keyboard
 - [ManakhovN/FigmaToUnityImporter](https://github.com/ManakhovN/FigmaToUnityImporter) - The project that imports nodes from Figma into unity.
@@ -88,7 +87,7 @@
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [locaal-ai/obs-backgroundremoval](https://github.com/locaal-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -215,6 +214,7 @@
 
 ## JavaScript 
 
+- [DaWe35/image-router](https://github.com/DaWe35/image-router) - 
 - [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [pozil/auto-assign-issue](https://github.com/pozil/auto-assign-issue) - GitHub Action that auto-assigns issues or PRs to one or more users
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -631,6 +631,8 @@
 
 ## TypeScript 
 
+- [ImBIOS/vercel-ai](https://github.com/ImBIOS/vercel-ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+- [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) - The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 - [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) - Open Next.js adapter for Cloudflare
 - [sst/console](https://github.com/sst/console) - A web based dashboard for your SST apps
 - [endalk200/create-t3-nx](https://github.com/endalk200/create-t3-nx) - Clean and simple starter repo that uses t3 stacks like NextJs, Tailwindcss, NextAuth, Prisma, tRPC and zod with Nx monorepo worksapces.
