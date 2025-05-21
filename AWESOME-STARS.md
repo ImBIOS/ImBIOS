@@ -118,6 +118,7 @@
 - [ImBIOS/actor-bun-node-docker](https://github.com/ImBIOS/actor-bun-node-docker) - Fork Base Docker images of Apify actors using Bun and Node
 - [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [v-je/docker](https://github.com/v-je/docker) - Easy to use docker environment for PHP development. With zero configuration supports hosting multiple websites, valid SSL certificates (for HTTPS and HTTP 2 development), HTTP2 support. See https://r.
 
 ## Elixir 
@@ -562,7 +563,6 @@
 - [dimusic/active-win-pos-rs](https://github.com/dimusic/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [ImBIOS/lorust](https://github.com/ImBIOS/lorust) - Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
-- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -631,6 +631,7 @@
 
 ## TypeScript 
 
+- [ImBIOS/OpenRouterTeam-ai-sdk-provider](https://github.com/ImBIOS/OpenRouterTeam-ai-sdk-provider) - The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 - [ImBIOS/vercel-ai](https://github.com/ImBIOS/vercel-ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) - The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 - [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) - Open Next.js adapter for Cloudflare
