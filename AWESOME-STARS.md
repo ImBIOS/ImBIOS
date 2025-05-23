@@ -631,6 +631,8 @@
 
 ## TypeScript 
 
+- [clearflask/clearflask](https://github.com/clearflask/clearflask) - Listen to your users during product development with ClearFlask
+- [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [ImBIOS/OpenRouterTeam-ai-sdk-provider](https://github.com/ImBIOS/OpenRouterTeam-ai-sdk-provider) - The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 - [ImBIOS/vercel-ai](https://github.com/ImBIOS/vercel-ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) - The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
