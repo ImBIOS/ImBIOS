@@ -341,7 +341,7 @@
 
 ## Kotlin 
 
-- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
+- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [ImBIOS/ExamBrowser-Android](https://github.com/ImBIOS/ExamBrowser-Android) - 
 - [syntaxxxxx/version-catalog-android-template](https://github.com/syntaxxxxx/version-catalog-android-template) - 
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
@@ -697,7 +697,7 @@
 - [mike-stewart-dev/expo-widgets](https://github.com/mike-stewart-dev/expo-widgets) - Bringing widget functionality to expo!
 - [ImBIOS/generative-ai-js](https://github.com/ImBIOS/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [google-gemini/deprecated-generative-ai-js](https://github.com/google-gemini/deprecated-generative-ai-js) - This SDK is now deprecated, use the new unified Google GenAI SDK.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The TypeScript framework for automating browsers with AI
 - [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
