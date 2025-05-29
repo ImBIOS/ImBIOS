@@ -224,7 +224,6 @@
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [ImBIOS/modelcontextprotocol-servers](https://github.com/ImBIOS/modelcontextprotocol-servers) - Model Context Protocol Servers
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ImBIOS/clerk-docs](https://github.com/ImBIOS/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [OAI/Arazzo-Specification](https://github.com/OAI/Arazzo-Specification) - The Arazzo Specification - A Tapestry for Deterministic API Workflows
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -466,6 +465,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench) - LiveBench: A Challenging, Contamination-Free LLM Benchmark
 - [THUDM/CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [clockworklabs/spacetimedb-python-sdk](https://github.com/clockworklabs/spacetimedb-python-sdk) - The SpacetimeDB SDK for Python clients
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
@@ -816,7 +816,7 @@
 - [ImBIOS/common-char-extractor-ts](https://github.com/ImBIOS/common-char-extractor-ts) - Given an array of strings, write a function to find and return an array of characters that appear in the same position across all strings.
 - [ImBIOS/datepicker](https://github.com/ImBIOS/datepicker) - A date library agnostic datepicker with Chakra-UI
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
-- [ory/polis](https://github.com/ory/polis) - 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync vi
+- [ory/polis](https://github.com/ory/polis) - 🔥 Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via 
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice
 - [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
