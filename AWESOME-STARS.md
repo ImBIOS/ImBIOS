@@ -633,6 +633,7 @@
 
 ## TypeScript 
 
+- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) - :heavy_dollar_sign: :hammer: Path of Exile trading app for price checking
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
@@ -685,7 +686,6 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ImBIOS/thymer-in-a-nextshell](https://github.com/ImBIOS/thymer-in-a-nextshell) - 
-- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [Redocly/warp-multi-sidebars](https://github.com/Redocly/warp-multi-sidebars) - Template with API and multiple sidebars
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
