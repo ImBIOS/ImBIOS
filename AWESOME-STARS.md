@@ -632,6 +632,7 @@
 
 ## TypeScript 
 
+- [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
