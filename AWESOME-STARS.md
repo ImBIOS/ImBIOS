@@ -635,7 +635,7 @@
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
-- [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) - :heavy_dollar_sign: :hammer: Path of Exile trading app for price checking
+- [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) - :heavy_dollar_sign: :hammer: Path of Exile app for price checking
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API
 - [clearflask/clearflask](https://github.com/clearflask/clearflask) - Listen to your users during product development with ClearFlask
