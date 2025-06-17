@@ -78,6 +78,7 @@
 
 ## C++ 
 
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
@@ -158,7 +159,7 @@
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) - LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua.
@@ -297,7 +298,7 @@
 - [ImBIOS/blogger-to-md](https://github.com/ImBIOS/blogger-to-md) - Convert Blogger & WordPress backup blog posts to markdown documents
 - [ImBIOS/next-to-ts](https://github.com/ImBIOS/next-to-ts) - Codemod to help you migrate your Next.js project to typescript in seconds
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [itmi-id/metabase-migration](https://github.com/itmi-id/metabase-migration) - Script to update and duplicate question/card in Metabase
 - [itmi-id/env-diff](https://github.com/itmi-id/env-diff) - 🛠 Simple tool for comparing two environment variable file
 - [hamatoyogi/next-mf-blogpost](https://github.com/hamatoyogi/next-mf-blogpost) - A repository for demoing NextJS and Module Federation for the blog post
@@ -631,6 +632,7 @@
 
 ## TypeScript 
 
+- [SeleniumHQ/selenium-ide](https://github.com/SeleniumHQ/selenium-ide) - Open Source record and playback test automation for the web.
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
@@ -940,7 +942,7 @@
 - [ImBIOS/azurehackathon2022_frontend](https://github.com/ImBIOS/azurehackathon2022_frontend) - 
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [robertmcabee/Front-End-Resources](https://github.com/robertmcabee/Front-End-Resources) - A curated collection of free resources from across the web for front-end developers, covering everything from design to deployment.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
