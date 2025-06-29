@@ -283,7 +283,6 @@
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
 - [ImBIOS/story-app](https://github.com/ImBIOS/story-app) - This is a story app that allows users to create stories.
@@ -329,7 +328,7 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
 - [dimotsai/react-alarm-clock](https://github.com/dimotsai/react-alarm-clock) - A web alarm clock that is implemented with React.js
-- [alexistdev/manthabill](https://github.com/alexistdev/manthabill) - Website Untuk Software Billing Hosting, untuk yang memulai usaha hosting tapi mahal membayar Software Hosting. Dibuat dengan Codeigniter 3.  Versi terbaru sedang dalam pengerjaan menggunakan Laravel 1
+- [alexistdev/manthabill](https://github.com/alexistdev/manthabill) - A website for hosting billing software, designed for those starting a hosting business who find commercial hosting software too expensive. Created with CodeIgniter 3. The latest version is currently u
 - [khetrapalaksh4y/google-form-scrapper](https://github.com/khetrapalaksh4y/google-form-scrapper) - A simple Google Form scraper that returns all the questions in a Google Form
 - [rajivm1991/youtube-channel-scraper](https://github.com/rajivm1991/youtube-channel-scraper) - Apify actor to scrape Youtube channel videos. You can set the maximum videos to scrape per page.
 - [Najibsaurus/VoiceBot-Watson](https://github.com/Najibsaurus/VoiceBot-Watson) - Simple chatbot using IBM Watson (STT, TTS, Assistant)
@@ -575,6 +574,7 @@
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [ImBIOS/lorust](https://github.com/ImBIOS/lorust) - Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [Xudong-Huang/may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - mini http implemented on top of may
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
