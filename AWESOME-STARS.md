@@ -225,7 +225,7 @@
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [DaWe35/image-router](https://github.com/DaWe35/image-router) - 
 - [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
-- [pozil/auto-assign-issue](https://github.com/pozil/auto-assign-issue) - GitHub Action that auto-assigns issues or PRs to one or more users
+- [pozil/auto-assign-issue](https://github.com/pozil/auto-assign-issue) - GitHub Action that auto-assigns issues or PRs to one or more users/teams
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [react-csv/react-csv](https://github.com/react-csv/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
