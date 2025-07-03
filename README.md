@@ -357,75 +357,78 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <!--START_SECTION:CodingStats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C284%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 1.3 MB Used in GitHub's Storage
- >
-> 🏆 458 Contributions in the Year 2025
- >
+> 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 460 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
- >
-> 📜 391 Public Repositories
- >
-> 🔑 130 Private Repositories
- >
-**I'm a Night 🦉**
+ > 
+> 📜 391 Public Repositories 
+ > 
+> 🔑 130 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6387 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-🌆 Daytime                5550 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 %
-🌃 Evening                12490 commits       ████████████░░░░░░░░░░░░░   46.48 %
-🌙 Night                  2444 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+🌞 Morning                6383 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌆 Daytime                5555 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+🌃 Evening                12502 commits       ████████████░░░░░░░░░░░░░   46.52 % 
+🌙 Night                  2437 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 ```
-
-📅 **I'm Most Productive on Wednesday**
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1897 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Tuesday                  4988 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 %
-Wednesday                6548 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 %
-Thursday                 2212 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Friday                   5645 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 %
-Saturday                 4129 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Sunday                   1452 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Monday                   1893 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Tuesday                  4993 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Wednesday                6545 commits        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+Thursday                 2211 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Friday                   5648 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Saturday                 4135 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Sunday                   1452 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages:
-Markdown                 6 mins              ██████████████░░░░░░░░░░░   56.03 %
-Java Properties          3 mins              ███████░░░░░░░░░░░░░░░░░░   29.40 %
-Java                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+💬 Programming Languages: 
+Python                   1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+JavaScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
-🔥 Editors:
-VS Code                  12 mins             █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
 
-💻 Operating System:
-Linux                    12 mins             █████████████████████████   100.00 %
+💻 Operating System: 
+Linux                    7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript**
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               156 repos           ███████████░░░░░░░░░░░░░░   44.44 %
-Python                   9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-MDX                      5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TypeScript               156 repos           ███████████░░░░░░░░░░░░░░   44.32 % 
+Python                   9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+MDX                      5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
- Last Updated on 02/07/2025 21:58:27 UTC
+
+ Last Updated on 03/07/2025 21:46:25 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
