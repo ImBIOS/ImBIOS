@@ -74,7 +74,7 @@ TODO: Write a book LOL -->
 
 [More inactive or small projects...](https://github.com/ImBIOS?tab=repositories&q=&type=public&language=&sort=stargazers)
 
-If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imam.dev). Or ask me anything at [Discussion](https://github.com/ImBIOS/ImBIOS/discussions/new/choose).
+If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imbios.dev). Or ask me anything at [Discussion](https://github.com/ImBIOS/ImBIOS/discussions/new/choose).
 
 ---
 
@@ -359,74 +359,71 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.3 MB Used in GitHub's Storage 
- > 
+> 📦 1.3 MB Used in GitHub's Storage
+ >
 > 🏆 458 Contributions in the Year 2025
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 391 Public Repositories 
- > 
-> 🔑 130 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 391 Public Repositories
+ >
+> 🔑 130 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                6387 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-🌆 Daytime                5550 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-🌃 Evening                12490 commits       ████████████░░░░░░░░░░░░░   46.48 % 
-🌙 Night                  2444 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌞 Morning                6387 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+🌆 Daytime                5550 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 %
+🌃 Evening                12490 commits       ████████████░░░░░░░░░░░░░   46.48 %
+🌙 Night                  2444 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday                   1897 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Tuesday                  4988 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Wednesday                6548 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Thursday                 2212 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Friday                   5645 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Saturday                 4129 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Sunday                   1452 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Monday                   1897 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Tuesday                  4988 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 %
+Wednesday                6548 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+Thursday                 2212 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Friday                   5645 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 %
+Saturday                 4129 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Sunday                   1452 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-Markdown                 6 mins              ██████████████░░░░░░░░░░░   56.03 % 
-Java Properties          3 mins              ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Java                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+💬 Programming Languages:
+Markdown                 6 mins              ██████████████░░░░░░░░░░░   56.03 %
+Java Properties          3 mins              ███████░░░░░░░░░░░░░░░░░░   29.40 %
+Java                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 
-🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  12 mins             █████████████████████████   100.00 %
 
-💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    12 mins             █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               156 repos           ███████████░░░░░░░░░░░░░░   44.44 % 
-Python                   9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-MDX                      5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               156 repos           ███████████░░░░░░░░░░░░░░   44.44 %
+Python                   9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+MDX                      5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Shell                    3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
-
 
  Last Updated on 02/07/2025 21:58:27 UTC
 <!--END_SECTION:CodingStats-->
