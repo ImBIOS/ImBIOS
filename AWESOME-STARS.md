@@ -146,7 +146,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [ImBIOS/hanko](https://github.com/ImBIOS/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
@@ -303,7 +303,7 @@
 - [ImBIOS/blogger-to-md](https://github.com/ImBIOS/blogger-to-md) - Convert Blogger & WordPress backup blog posts to markdown documents
 - [ImBIOS/next-to-ts](https://github.com/ImBIOS/next-to-ts) - Codemod to help you migrate your Next.js project to typescript in seconds
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [itmi-id/metabase-migration](https://github.com/itmi-id/metabase-migration) - Script to update and duplicate question/card in Metabase
 - [itmi-id/env-diff](https://github.com/itmi-id/env-diff) - 🛠 Simple tool for comparing two environment variable file
 - [hamatoyogi/next-mf-blogpost](https://github.com/hamatoyogi/next-mf-blogpost) - A repository for demoing NextJS and Module Federation for the blog post
@@ -361,6 +361,7 @@
 
 ## MDX 
 
+- [tyaga001/devtoolsacademy](https://github.com/tyaga001/devtoolsacademy) - everything about awesome developer tools
 - [ImBIOS/teamhanko-docs](https://github.com/ImBIOS/teamhanko-docs) - The Hanko documentation
 - [teamhanko/docs](https://github.com/teamhanko/docs) - The Hanko documentation
 - [ImBIOS/reusables](https://github.com/ImBIOS/reusables) - 
