@@ -368,6 +368,7 @@
 - [tyaga001/devtoolsacademy](https://github.com/tyaga001/devtoolsacademy) - everything about awesome developer tools
 - [ImBIOS/teamhanko-docs](https://github.com/ImBIOS/teamhanko-docs) - The Hanko documentation
 - [teamhanko/docs](https://github.com/teamhanko/docs) - The Hanko documentation
+- [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [ImBIOS/reusables](https://github.com/ImBIOS/reusables) - 
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [PxlSyl/tailwind-nextjs-starter-blog-i18n](https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n) - This is a Next.js, i18n and Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizabl
@@ -478,7 +479,7 @@
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench) - LiveBench: A Challenging, Contamination-Free LLM Benchmark
 - [THUDM/CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
 - [clockworklabs/spacetimedb-python-sdk](https://github.com/clockworklabs/spacetimedb-python-sdk) - The SpacetimeDB SDK for Python clients
@@ -722,7 +723,6 @@
 - [neondatabase-labs/mcp-server-neon](https://github.com/neondatabase-labs/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
 - [jsonresume/mcp](https://github.com/jsonresume/mcp) - The registry mcp server updates your resume while you code
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
 - [ImBIOS/migrate-catalog](https://github.com/ImBIOS/migrate-catalog) - CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
 - [mike-stewart-dev/expo-widgets](https://github.com/mike-stewart-dev/expo-widgets) - Bringing widget functionality to expo!
 - [ImBIOS/generative-ai-js](https://github.com/ImBIOS/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
