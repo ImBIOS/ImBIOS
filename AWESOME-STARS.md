@@ -100,7 +100,6 @@
 ## CSS 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [dailydotdev/docs](https://github.com/dailydotdev/docs) - The official product docs of daily.dev
 - [xendit/checkout-demo](https://github.com/xendit/checkout-demo) - Sample code for demonstrating Xendit Checkout including creating invoice, redirection type, and type of integration through desktop or mobile view.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
 - [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
@@ -300,6 +299,7 @@
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
+- [dailydotdev/docs](https://github.com/dailydotdev/docs) - The official product docs of daily.dev
 - [pnpm/pnpm.io](https://github.com/pnpm/pnpm.io) - pnpm's website
 - [nextacular/nextacular](https://github.com/nextacular/nextacular) - An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern tech
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
@@ -537,6 +537,7 @@
 
 ## Rust 
 
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ImBIOS/blue-recorder](https://github.com/ImBIOS/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).
