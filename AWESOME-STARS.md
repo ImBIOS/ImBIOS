@@ -537,6 +537,7 @@
 
 ## Rust 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ImBIOS/blue-recorder](https://github.com/ImBIOS/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
@@ -657,6 +658,7 @@
 
 ## TypeScript 
 
+- [ImBIOS/convex-evals](https://github.com/ImBIOS/convex-evals) - 
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup 
 - [21st-dev/21st-extension](https://github.com/21st-dev/21st-extension) - 
 - [ImBIOS/create-better-t-stack](https://github.com/ImBIOS/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
