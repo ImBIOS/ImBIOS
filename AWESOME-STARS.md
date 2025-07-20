@@ -403,6 +403,7 @@
 
 ## Others 
 
+- [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual pro
 - [AgentDeskAI/memory-tools-mcp](https://github.com/AgentDeskAI/memory-tools-mcp) - long term memory system for AI agents using MCP
 - [pulkitgangwar/next.js-snippets](https://github.com/pulkitgangwar/next.js-snippets) - Nextjs snippets extension
 - [Redocly/redocly-vs-code](https://github.com/Redocly/redocly-vs-code) - Redocly VS Code extension
@@ -620,7 +621,6 @@
 
 ## Shell 
 
-- [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual pro
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [tolitius/entail](https://github.com/tolitius/entail) - grep and tail for nomad logs
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
