@@ -664,6 +664,7 @@
 
 ## TypeScript 
 
+- [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, KV, R2, and geolocation services. Supports Next.js, Hono, and more!
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [iyegoroff/spectypes](https://github.com/iyegoroff/spectypes) - Fast, compiled, eval-free data validator/transformer
 - [ImBIOS/typescript-runtime-type-benchmarks](https://github.com/ImBIOS/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
@@ -727,7 +728,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) - A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
-- [lumehq/lume](https://github.com/lumehq/lume) - Lume is a nostr client for macOS and Windows 11.
+- [lumehq/lume](https://github.com/lumehq/lume) - Rebooting...
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) - Create-tsrouter-app is drop-in replacement for create-react-app that builds TanStack Router based SPA applications
