@@ -483,7 +483,7 @@
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench) - LiveBench: A Challenging, Contamination-Free LLM Benchmark
-- [THUDM/CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
+- [zai-org/CogView4](https://github.com/zai-org/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
 - [clockworklabs/spacetimedb-python-sdk](https://github.com/clockworklabs/spacetimedb-python-sdk) - The SpacetimeDB SDK for Python clients
 - [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
@@ -664,6 +664,10 @@
 
 ## TypeScript 
 
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
+- [standard-community/standard-openapi](https://github.com/standard-community/standard-openapi) - Standard Schema to OpenAPI Schema convertor
+- [ImBIOS/hono-openapi](https://github.com/ImBIOS/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
+- [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
 - [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, Hyperdrive, KV, R2, and geolocation services. Supports Next.js, Hono, and more!
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [iyegoroff/spectypes](https://github.com/iyegoroff/spectypes) - Fast, compiled, eval-free data validator/transformer
