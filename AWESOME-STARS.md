@@ -664,6 +664,7 @@
 
 ## TypeScript 
 
+- [honojs/middleware](https://github.com/honojs/middleware) - monorepo for Hono third-party middleware/helpers/wrappers
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [standard-community/standard-openapi](https://github.com/standard-community/standard-openapi) - Standard Schema to OpenAPI Schema convertor
 - [ImBIOS/hono-openapi](https://github.com/ImBIOS/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
