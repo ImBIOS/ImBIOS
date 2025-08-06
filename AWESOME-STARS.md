@@ -41,6 +41,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -58,6 +59,7 @@
 
 ## C 
 
+- [duixcom/Duix.Heygem](https://github.com/duixcom/Duix.Heygem) - 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
@@ -71,7 +73,6 @@
 ## C# # 
 
 - [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
-- [clockworklabs/Blackholio](https://github.com/clockworklabs/Blackholio) - An example game where player circles eat food and other circles!
 - [clockworklabs/com.clockworklabs.spacetimedbsdk](https://github.com/clockworklabs/com.clockworklabs.spacetimedbsdk) - The SpacetimeDB SDK for C# clients
 - [ImBIOS/multiplayer-ar-game-with-unity](https://github.com/ImBIOS/multiplayer-ar-game-with-unity) - Learn Developing Multiplayer AR Game With Unity3D, Vuforia, Photon Unity Networking 2
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -157,7 +158,7 @@
 - [ImBIOS/encore-go-benchmarks](https://github.com/ImBIOS/encore-go-benchmarks) - Performance benchmarks and tests for backend services implemented with Encore (Go and TypeScript) against other popular Go frameworks, focusing on request handling, latency, cold start times, and othe
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GPT-OSS, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [blue-rpc/bluerpc](https://github.com/blue-rpc/bluerpc) - Golang library for end-to-end Go-Typescript type safety.
 - [gandarez/semver-action](https://github.com/gandarez/semver-action) - Generate a semantic version
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -629,6 +630,10 @@
 - [ImBIOS/zio-schema](https://github.com/ImBIOS/zio-schema) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
 - [zio/zio-schema](https://github.com/zio/zio-schema) - Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
 
+## ShaderLab 
+
+- [clockworklabs/Blackholio](https://github.com/clockworklabs/Blackholio) - An example game where player circles eat food and other circles!
+
 ## Shell 
 
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -668,6 +673,8 @@
 
 ## TypeScript 
 
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [ImBIOS/ai-chatbot](https://github.com/ImBIOS/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [afsar-dev/Nurui](https://github.com/afsar-dev/Nurui) - 🔥💯 Nur UI is a modern React and Next.js based UI component library. It streamlines front-end development with powerful features like CLI scaffolding, automatic TypeScript-to-JavaScript conversion, and
