@@ -468,7 +468,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [AlexaSRM/Zombie-Fever](https://github.com/AlexaSRM/Zombie-Fever) - An Alexa Game using Skill Flow Builder
 
 ## Python 
@@ -698,6 +697,7 @@
 - [get-convex/convex-evals](https://github.com/get-convex/convex-evals) - 
 - [ygwyg/diverce](https://github.com/ygwyg/diverce) - vercel nextjs -&gt; cloudflare workers
 - [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) - CLI to build and develop Next.js apps for Cloudflare Pages
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [coinbase/onchainkit](https://github.com/coinbase/onchainkit) - React components and TypeScript utilities to help you build top-tier onchain apps.
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
