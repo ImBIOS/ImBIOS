@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [hertg/egpu-switcher](https://github.com/hertg/egpu-switcher) - 🖥🐧 Setup script for eGPUs in Linux (X.Org)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [ImBIOS/kubectl-ai](https://github.com/ImBIOS/kubectl-ai) - AI powered Kubernetes Assistant
@@ -636,6 +637,7 @@
 
 ## Shell 
 
+- [ewagner12/all-ways-egpu](https://github.com/ewagner12/all-ways-egpu) - Configure eGPU as primary under Linux Wayland desktops
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [tolitius/entail](https://github.com/tolitius/entail) - grep and tail for nomad logs
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
