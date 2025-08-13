@@ -128,6 +128,7 @@
 
 ## Elixir 
 
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
@@ -352,7 +353,7 @@
 ## Jupyter Notebook 
 
 - [Techcps/GSP-Short-Trick](https://github.com/Techcps/GSP-Short-Trick) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [afif2100/image-clasifier-tf-keras](https://github.com/afif2100/image-clasifier-tf-keras) - 
 - [brunokatekawa/PeopleAnalytics_Turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover) - [Project repo] On People Analytics for predicting employee turnover.  (Employee Experience article included)
 
@@ -675,6 +676,8 @@
 
 ## TypeScript 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [mendableai/open-lovable](https://github.com/mendableai/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [ImBIOS/tab-trackr](https://github.com/ImBIOS/tab-trackr) - A powerful Chrome extension for productivity tracking and team collaboration. Track browsing time, analyze productivity patterns, and collaborate with remote teams. Built with React, TypeScript, Supab
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
