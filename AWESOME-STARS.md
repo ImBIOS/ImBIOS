@@ -693,7 +693,7 @@
 - [standard-community/standard-openapi](https://github.com/standard-community/standard-openapi) - Standard Schema to OpenAPI Schema convertor
 - [ImBIOS/hono-openapi](https://github.com/ImBIOS/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
 - [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
-- [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, Hyperdrive, KV, R2, and geolocation services. Supports Next.js, Hono, and more!
+- [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, Hyperdrive, KV, R2, and geolocation services. CLI for project generation, automated resource provisioning on Cloudflare, and database migr
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [iyegoroff/spectypes](https://github.com/iyegoroff/spectypes) - Fast, compiled, eval-free data validator/transformer
 - [ImBIOS/typescript-runtime-type-benchmarks](https://github.com/ImBIOS/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
