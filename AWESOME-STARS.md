@@ -680,6 +680,7 @@
 
 ## TypeScript 
 
+- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Infrastructure as TypeScript
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
@@ -742,7 +743,7 @@
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
 - [ImBIOS/evaly](https://github.com/ImBIOS/evaly) - (🚧 WIP) A modern open-source platform for AI-powered assessments, quizzes, and surveys.
-- [fahreziadh/evaly](https://github.com/fahreziadh/evaly) - (🚧 WIP) A modern open-source platform for AI-powered assessments, quizzes, and surveys.
+- [fahreziadh/evaly](https://github.com/fahreziadh/evaly) - A modern open-source platform for AI-powered assessments, quizzes, and surveys.
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [ImBIOS/fontara](https://github.com/ImBIOS/fontara) - Font ARA Font Changer ( Cross browser Extension)
 - [mimalef70/fontara](https://github.com/mimalef70/fontara) - Font ARA Font Changer ( Cross browser Extension)
