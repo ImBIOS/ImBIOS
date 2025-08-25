@@ -59,6 +59,7 @@
 
 ## C 
 
+- [Beariish/bolt](https://github.com/Beariish/bolt) - High-performance, real-time optimized, and statically typed embedded language implemented in C.
 - [duixcom/Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
