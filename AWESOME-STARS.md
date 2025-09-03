@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [ImBIOS/nuclei-templates](https://github.com/ImBIOS/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [sindresorhus/get-windows](https://github.com/sindresorhus/get-windows) - Get metadata about the active window and open windows (title, id, bounds, owner, etc)
@@ -477,6 +478,7 @@
 
 ## PowerShell 
 
+- [ImBIOS/lab-cve-2020-0610](https://github.com/ImBIOS/lab-cve-2020-0610) - Reproducible lab for CVE-2020-0610 (BlueGate) - Windows RD Gateway UDP/DTLS remote code execution vulnerability. Includes PowerShell scripts, setup guide, and nuclei template validation examples.
 - [AlexaSRM/Zombie-Fever](https://github.com/AlexaSRM/Zombie-Fever) - An Alexa Game using Skill Flow Builder
 
 ## Python 
@@ -651,6 +653,8 @@
 
 ## Shell 
 
+- [ImBIOS/lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515) - CVE-2025-3515 WordPress lab for Drag and Drop Multiple File Upload for CF7: Dockerized PoC & Nuclei testing
+- [ImBIOS/lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042) - CVE-2016-15042 lab: Dockerized WordPress PoC for unauthenticated file upload in Frontend File Manager &lt;4.0 and N‑Media Post Front‑end Form &lt;1.1
 - [ewagner12/all-ways-egpu](https://github.com/ewagner12/all-ways-egpu) - Configure eGPU as primary under Linux Wayland desktops
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [tolitius/entail](https://github.com/tolitius/entail) - grep and tail for nomad logs
@@ -690,6 +694,7 @@
 
 ## TypeScript 
 
+- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [ImBIOS/activepieces](https://github.com/ImBIOS/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [ImBIOS/anthropic-quickstarts](https://github.com/ImBIOS/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
