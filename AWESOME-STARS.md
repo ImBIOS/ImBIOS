@@ -580,7 +580,7 @@
 - [ImBIOS/tauri-macos-spotlight-example-2](https://github.com/ImBIOS/tauri-macos-spotlight-example-2) - 
 - [ahkohd/tauri-toolkit](https://github.com/ahkohd/tauri-toolkit) - A workspace of libraries and plugins for @tauri-apps
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
-- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Tauri plugin to convert a window to panel
+- [ahkohd/tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Create panels for your Tauri app
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
 - [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -652,6 +652,7 @@
 
 ## Shell 
 
+- [linuxserver/docker-kali-linux](https://github.com/linuxserver/docker-kali-linux) - Web accessible Kali Linux with a KDE interface
 - [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819) - FreePBX CVE-2025-57819 lab (Docker) + Nuclei POC for unauth SQLi (time-based).
 - [ImBIOS/lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515) - CVE-2025-3515 WordPress lab for Drag and Drop Multiple File Upload for CF7: Dockerized PoC & Nuclei testing
 - [ImBIOS/lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042) - CVE-2016-15042 lab: Dockerized WordPress PoC for unauthenticated file upload in Frontend File Manager &lt;4.0 and N‑Media Post Front‑end Form &lt;1.1
@@ -799,7 +800,7 @@
 - [Redocly/warp-multi-sidebars](https://github.com/Redocly/warp-multi-sidebars) - Template with API and multiple sidebars
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
-- [neondatabase-labs/mcp-server-neon](https://github.com/neondatabase-labs/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
+- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
 - [jsonresume/mcp](https://github.com/jsonresume/mcp) - The registry mcp server updates your resume while you code
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ImBIOS/migrate-catalog](https://github.com/ImBIOS/migrate-catalog) - CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
