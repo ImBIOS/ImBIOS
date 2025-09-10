@@ -695,6 +695,8 @@
 
 ## TypeScript 
 
+- [ImBIOS/react-native-reusables-templates](https://github.com/ImBIOS/react-native-reusables-templates) - Templates for building universal apps with React Native Reusables.
+- [founded-labs/react-native-reusables-templates](https://github.com/founded-labs/react-native-reusables-templates) - Templates for building universal apps with React Native Reusables.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
