@@ -483,6 +483,8 @@
 
 ## Python 
 
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [NVIDIA-Maxine/nim-clients](https://github.com/NVIDIA-Maxine/nim-clients) - Sample clients for building applications using NVIDIA Maxine NIMs
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -509,7 +511,7 @@
 - [tj-actions/coverage-badge-py](https://github.com/tj-actions/coverage-badge-py) - :octocat: Github action to generate coverage badge without uploading results to a 3rd party.
 - [ImBIOS/OpenHands](https://github.com/ImBIOS/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
+- [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [aorwall/SWE-bench-docker](https://github.com/aorwall/SWE-bench-docker) - 
 - [ImBIOS/system-design-primer](https://github.com/ImBIOS/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -562,7 +564,7 @@
 ## Rust 
 
 - [ImBIOS/nativelink](https://github.com/ImBIOS/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faste
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faste
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drasticall
 - [ImBIOS/active-win-pos-rs](https://github.com/ImBIOS/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
