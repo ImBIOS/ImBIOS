@@ -59,6 +59,7 @@
 
 ## C 
 
+- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
 - [Beariish/bolt](https://github.com/Beariish/bolt) - High-performance, real-time optimized, and statically typed embedded language implemented in C.
 - [duixcom/Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -243,7 +244,7 @@
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [DaWe35/image-router](https://github.com/DaWe35/image-router) - 
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [pozil/auto-assign-issue](https://github.com/pozil/auto-assign-issue) - GitHub Action that auto-assigns issues or PRs to one or more users/teams
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [react-csv/react-csv](https://github.com/react-csv/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data
@@ -381,7 +382,6 @@
 
 ## MDX 
 
-- [tyaga001/devtoolsacademy](https://github.com/tyaga001/devtoolsacademy) - everything about awesome developer tools
 - [ImBIOS/teamhanko-docs](https://github.com/ImBIOS/teamhanko-docs) - The Hanko documentation
 - [teamhanko/docs](https://github.com/teamhanko/docs) - The Hanko documentation
 - [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
@@ -697,6 +697,7 @@
 
 ## TypeScript 
 
+- [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
 - [ImBIOS/react-native-reusables-templates](https://github.com/ImBIOS/react-native-reusables-templates) - Templates for building universal apps with React Native Reusables.
 - [founded-labs/react-native-reusables-templates](https://github.com/founded-labs/react-native-reusables-templates) - Templates for building universal apps with React Native Reusables.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -741,6 +742,7 @@
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [coinbase/onchainkit](https://github.com/coinbase/onchainkit) - React components and TypeScript utilities to help you build top-tier onchain apps.
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [tyaga001/devtoolsacademy](https://github.com/tyaga001/devtoolsacademy) - everything about awesome developer tools
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo
