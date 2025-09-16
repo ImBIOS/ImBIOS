@@ -362,7 +362,7 @@
 ## Jupyter Notebook 
 
 - [Techcps/GSP-Short-Trick](https://github.com/Techcps/GSP-Short-Trick) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [afif2100/image-clasifier-tf-keras](https://github.com/afif2100/image-clasifier-tf-keras) - 
 - [brunokatekawa/PeopleAnalytics_Turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover) - [Project repo] On People Analytics for predicting employee turnover.  (Employee Experience article included)
 
@@ -563,6 +563,7 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ImBIOS/nativelink](https://github.com/ImBIOS/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faste
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drasticall
 - [ImBIOS/active-win-pos-rs](https://github.com/ImBIOS/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
