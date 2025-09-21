@@ -559,6 +559,7 @@
 
 ## Ruby 
 
+- [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [antiwork/flexile](https://github.com/antiwork/flexile) - Contractor payments
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
@@ -707,6 +708,10 @@
 
 ## TypeScript 
 
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
+- [vadimdemedes/ink-testing-library](https://github.com/vadimdemedes/ink-testing-library) - Utilities for testing Ink apps
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- [ImBIOS/NeStA-Picker](https://github.com/ImBIOS/NeStA-Picker) - Pick your next Steam achievement fast (CLI) for Completionists
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
