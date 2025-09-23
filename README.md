@@ -355,13 +355,15 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <summary>See my coding stats detail</summary>
 
 <!--START_SECTION:CodingStats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 710 Contributions in the Year 2025
+> 🏆 724 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -369,6 +371,46 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
  > 
 > 🔑 141 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7113 commits        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌆 Daytime                6896 commits        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+🌃 Evening                9636 commits        █████████░░░░░░░░░░░░░░░░   35.56 % 
+🌙 Night                  3451 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   2037 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Tuesday                  3381 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Wednesday                5987 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Thursday                 2328 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Friday                   6560 commits        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Saturday                 5343 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Sunday                   1460 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.93 % 
+Markdown                 6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.56 % 
+JSON                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+
+🔥 Editors: 
+Cursor                   18 hrs 19 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    18 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -386,7 +428,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 20:46:42 UTC
+ Last Updated on 23/09/2025 20:57:21 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
