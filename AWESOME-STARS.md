@@ -483,7 +483,6 @@
 ## PowerShell 
 
 - [ImBIOS/lab-cve-2020-0610](https://github.com/ImBIOS/lab-cve-2020-0610) - Reproducible lab for CVE-2020-0610 (BlueGate) - Windows RD Gateway UDP/DTLS remote code execution vulnerability. Includes PowerShell scripts, setup guide, and nuclei template validation examples.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [AlexaSRM/Zombie-Fever](https://github.com/AlexaSRM/Zombie-Fever) - An Alexa Game using Skill Flow Builder
 
 ## Python 
@@ -756,6 +755,7 @@
 - [get-convex/convex-evals](https://github.com/get-convex/convex-evals) - 
 - [ygwyg/diverce](https://github.com/ygwyg/diverce) - vercel nextjs -&gt; cloudflare workers
 - [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) - CLI to build and develop Next.js apps for Cloudflare Pages
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [coinbase/onchainkit](https://github.com/coinbase/onchainkit) - React components and TypeScript utilities to help you build top-tier onchain apps.
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -866,7 +866,7 @@
 - [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [xandemon/developer-icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
-- [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
+- [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [mikan3rd/trpc-openai-stream-sample](https://github.com/mikan3rd/trpc-openai-stream-sample) - 🚀 tRPC example for OpenAI streaming responses
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
