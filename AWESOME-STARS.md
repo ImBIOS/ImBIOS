@@ -85,6 +85,7 @@
 ## C++ 
 
 - [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - An Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports Claude Desktop App, Windsurf  & Cursor, also includes OpenAI's GPT 5, Deepseek V3.1, Claude Sonnet 4 APIs and Grok 4, with plans
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -202,7 +203,6 @@
 
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [pi-hole/docs](https://github.com/pi-hole/docs) - The official Pi-hole documentation
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
@@ -393,6 +393,7 @@
 - [PxlSyl/tailwind-nextjs-starter-blog-i18n](https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n) - This is a Next.js, i18n and Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizabl
 - [tailcallhq/tailcallhq.github.io](https://github.com/tailcallhq/tailcallhq.github.io) - Website for Tailcall
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 
 ## Makefile 
@@ -487,6 +488,8 @@
 
 ## Python 
 
+- [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores 68% on SWE-bench verified!
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
@@ -743,7 +746,6 @@
 - [ImBIOS/hono-openapi](https://github.com/ImBIOS/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
 - [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
 - [zpg6/better-auth-cloudflare](https://github.com/zpg6/better-auth-cloudflare) - Seamlessly integrate better-auth with Cloudflare Workers, D1, Hyperdrive, KV, R2, and geolocation services. CLI for project generation, automated resource provisioning on Cloudflare, and database migr
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [iyegoroff/spectypes](https://github.com/iyegoroff/spectypes) - Fast, compiled, eval-free data validator/transformer
 - [ImBIOS/typescript-runtime-type-benchmarks](https://github.com/ImBIOS/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
@@ -790,7 +792,7 @@
 - [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router
 - [ImBIOS/evaly](https://github.com/ImBIOS/evaly) - (🚧 WIP) A modern open-source platform for AI-powered assessments, quizzes, and surveys.
 - [fahreziadh/evaly](https://github.com/fahreziadh/evaly) - A modern open-source platform for AI-powered assessments, quizzes, and surveys.
-- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend,Sendgrid, Postmark etc.
+- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [ImBIOS/fontara](https://github.com/ImBIOS/fontara) - Font ARA Font Changer ( Cross browser Extension)
 - [mimalef70/fontara](https://github.com/mimalef70/fontara) - Font ARA Font Changer ( Cross browser Extension)
 - [ImBIOS/Wudooh](https://github.com/ImBIOS/Wudooh) - Browser extension that allows Arabic script modifications for clarity and customization
