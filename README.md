@@ -355,15 +355,13 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <summary>See my coding stats detail</summary>
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C470%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 749 Contributions in the Year 2025
+> 🏆 750 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -388,7 +386,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 20:39:49 UTC
+ Last Updated on 28/09/2025 20:40:33 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
