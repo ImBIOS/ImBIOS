@@ -38,6 +38,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [ReScript](#rescript)
+- [Red](#red)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -235,7 +236,7 @@
 - [ImBIOS/react-component-count](https://github.com/ImBIOS/react-component-count) - ⚡ Lightning-fast, memory-efficient CLI tool to count and analyze React components in any project. Optimized for performance with O(f/p×s) time complexity.
 - [ImBIOS/avana-frontend-test](https://github.com/ImBIOS/avana-frontend-test) - A project as a test for Frontend job application at Avana.id
 - [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augments your Steam Experience
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [ImBIOS/nuclei-templates](https://github.com/ImBIOS/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -368,7 +369,6 @@
 
 ## Jupyter Notebook 
 
-- [Techcps/GSP-Short-Trick](https://github.com/Techcps/GSP-Short-Trick) - 
 - [afif2100/image-clasifier-tf-keras](https://github.com/afif2100/image-clasifier-tf-keras) - 
 - [brunokatekawa/PeopleAnalytics_Turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover) - [Project repo] On People Analytics for predicting employee turnover.  (Employee Experience article included)
 
@@ -565,6 +565,10 @@
 
 - [DZakh/sury](https://github.com/DZakh/sury) - 🧬 The fastest schema with next-gen DX
 
+## Red 
+
+- [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
+
 ## Ruby 
 
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
@@ -716,6 +720,8 @@
 
 ## TypeScript 
 
+- [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
 - [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
 - [ali-master/uuidv47](https://github.com/ali-master/uuidv47) - Reversible UUID v4/v7 transformation using SipHash-2-4 cryptography. Hide time-ordering from external APIs while maintaining internal chronological benefits.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
