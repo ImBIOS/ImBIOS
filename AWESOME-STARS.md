@@ -109,6 +109,8 @@
 
 ## CSS 
 
+- [ImBIOS/seeker](https://github.com/ImBIOS/seeker) - Accurately Locate Smartphones using Social Engineering
+- [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [xendit/checkout-demo](https://github.com/xendit/checkout-demo) - Sample code for demonstrating Xendit Checkout including creating invoice, redirection type, and type of integration through desktop or mobile view.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
@@ -219,6 +221,7 @@
 
 ## Java 
 
+- [capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) - A Capacitor plugin that sends you geolocation updates, even while the app is in the background.
 - [ImBIOS/Telegram](https://github.com/ImBIOS/Telegram) - Telegram for Android source
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -233,6 +236,8 @@
 
 ## JavaScript 
 
+- [ImBIOS/RTVGeolocationTracker](https://github.com/ImBIOS/RTVGeolocationTracker) - Real-time vehicle GPS tracker built with MERN stack. Features mobile app registration, background tracking, and a web dashboard for location history.
+- [vilalali/RTVGeolocationTracker](https://github.com/vilalali/RTVGeolocationTracker) - Real-time vehicle GPS tracker built with MERN stack. Features mobile app registration, background tracking, and a web dashboard for location history.
 - [pinojs/sonic-boom](https://github.com/pinojs/sonic-boom) - Extremely fast utf8 only stream implementation
 - [ImBIOS/react-component-count](https://github.com/ImBIOS/react-component-count) - ⚡ Lightning-fast, memory-efficient CLI tool to count and analyze React components in any project. Optimized for performance with O(f/p×s) time complexity.
 - [ImBIOS/avana-frontend-test](https://github.com/ImBIOS/avana-frontend-test) - A project as a test for Frontend job application at Avana.id
@@ -420,6 +425,7 @@
 
 ## Objective-C 
 
+- [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated, battery-conscious background-geolocation with motion-detection
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [ImBIOS/remute](https://github.com/ImBIOS/remute) - Use the Touch Bar app to Mute/Unmute your microphone, or just use the shortcut on any Mac.
 - [ImBIOS/mute-me](https://github.com/ImBIOS/mute-me) - Moved to ImBIOS/remute
@@ -678,6 +684,7 @@
 
 ## Shell 
 
+- [docker-library/mongo](https://github.com/docker-library/mongo) - Docker Official Image packaging for MongoDB
 - [linuxserver/docker-kali-linux](https://github.com/linuxserver/docker-kali-linux) - Web accessible Kali Linux with a KDE interface
 - [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819) - FreePBX CVE-2025-57819 lab (Docker) + Nuclei POC for unauth SQLi (time-based).
 - [ImBIOS/lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515) - CVE-2025-3515 WordPress lab for Drag and Drop Multiple File Upload for CF7: Dockerized PoC & Nuclei testing
