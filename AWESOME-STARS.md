@@ -549,7 +549,6 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [gurock/trcli](https://github.com/gurock/trcli) - TR CLI (trcli) is a command line tool for interacting with TestRail.
 - [ImBIOS/Pi-Router-Smart-Controller](https://github.com/ImBIOS/Pi-Router-Smart-Controller) - Controlling router power to auto-reboot if necessary.
-- [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
@@ -704,6 +703,7 @@
 - [foxytouxxx/FoxTools](https://github.com/foxytouxxx/FoxTools) - Simple bash file / python file to install a lot of packages that can sometimes not come with the vps or cannot be installed
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
 - [gurock/automation-frameworks-integration](https://github.com/gurock/automation-frameworks-integration) - 
+- [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
