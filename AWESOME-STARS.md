@@ -730,6 +730,7 @@
 
 ## TypeScript 
 
+- [ImBIOS/tablecn](https://github.com/ImBIOS/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
 - [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
