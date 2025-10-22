@@ -88,7 +88,7 @@
 ## C++ 
 
 - [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - An Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports Claude Desktop App, Windsurf  & Cursor, also includes OpenAI's GPT 5, Deepseek V3.1, Claude Sonnet 4 APIs and Grok 4, with plans
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -113,7 +113,6 @@
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [xendit/checkout-demo](https://github.com/xendit/checkout-demo) - Sample code for demonstrating Xendit Checkout including creating invoice, redirection type, and type of integration through desktop or mobile view.
-- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
 - [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 
 ## Crystal 
@@ -474,7 +473,6 @@
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
 - [terrylinooo/githuber-md](https://github.com/terrylinooo/githuber-md) - Markdown editor plugin for WordPress.
 - [ImBIOS/MBPTL](https://github.com/ImBIOS/MBPTL) - Self-deployed Straight-forward hacking lab machine which designed for new comer who want to learn Penetration Testing field that running inside Docker for easy setup.
-- [bayufedra/MBPTL](https://github.com/bayufedra/MBPTL) - Best hands-on lab for learning the fundamentals of cybersecurity and penetration testing and packaged as Docker containers for fast, safe setup.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [ImBIOS/MyFlix-API](https://github.com/ImBIOS/MyFlix-API) - Netflix API clone built with Laravel
 - [nafplann/codeigniter-alumni-app](https://github.com/nafplann/codeigniter-alumni-app) - Aplikasi alumni menggunakan codeigniter dan materialize css framework
@@ -701,6 +699,7 @@
 - [litespeedtech/ols-dockerfiles](https://github.com/litespeedtech/ols-dockerfiles) - 
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [foxytouxxx/FoxTools](https://github.com/foxytouxxx/FoxTools) - Simple bash file / python file to install a lot of packages that can sometimes not come with the vps or cannot be installed
+- [bayufedra/MBPTL](https://github.com/bayufedra/MBPTL) - Best hands-on lab for learning the fundamentals of cybersecurity and penetration testing and packaged as Docker containers for fast, safe setup.
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
 - [gurock/automation-frameworks-integration](https://github.com/gurock/automation-frameworks-integration) - 
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
@@ -730,6 +729,7 @@
 
 ## TypeScript 
 
+- [vercel/resumable-stream](https://github.com/vercel/resumable-stream) - Stream resumption for web streams
 - [ImBIOS/tablecn](https://github.com/ImBIOS/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
@@ -1111,6 +1111,7 @@
 - [lucaschen/microservices-chat-demo](https://github.com/lucaschen/microservices-chat-demo) - 
 - [fifocode/nodejs-backend-architecture-typescript](https://github.com/fifocode/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
 - [EPAM-JS-Competency-center/shop-nodejs-aws-serverless](https://github.com/EPAM-JS-Competency-center/shop-nodejs-aws-serverless) - Backend for E-Commerce application (Shop) created with NodeJS, AWS Cloud and Serverless architecture and Serverless framework
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 16. All the tools you need to build your next project ⚡️
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
 - [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [NaveenDA/naveenda.github.io](https://github.com/NaveenDA/naveenda.github.io) - A personal Portfolio for https://naveenda.github.io
