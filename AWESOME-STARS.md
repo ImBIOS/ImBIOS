@@ -496,6 +496,8 @@
 
 ## Python 
 
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [ImBIOS/IDN-Homograph-Generator](https://github.com/ImBIOS/IDN-Homograph-Generator) - Generate IDN homographs and phishing domains
 - [varrickkoh/IDN-Homograph-Generator](https://github.com/varrickkoh/IDN-Homograph-Generator) - Generate IDN homographs and phishing domains
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
@@ -807,7 +809,7 @@
 - [endalk200/create-t3-nx](https://github.com/endalk200/create-t3-nx) - Clean and simple starter repo that uses t3 stacks like NextJs, Tailwindcss, NextAuth, Prisma, tRPC and zod with Nx monorepo worksapces.
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy
-- [GitOpsLovers/nx-biome](https://github.com/GitOpsLovers/nx-biome) - NX plugin to integrate the Biome toolchain.
+- [mcfdez/nx-biome](https://github.com/mcfdez/nx-biome) - NX plugin to integrate the Biome toolchain.
 - [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
 - [ImBIOS/monorepo-benchmarks](https://github.com/ImBIOS/monorepo-benchmarks) - Benchmarking the experience of using monorepo tools - Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
 - [upstash/rag-chat](https://github.com/upstash/rag-chat) - Prototype SDK for RAG development.
