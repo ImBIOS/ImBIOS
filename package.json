@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "rss-parser": "^3.13.0",
+    "@types/bun": "^1.0.0"
+  }
+}

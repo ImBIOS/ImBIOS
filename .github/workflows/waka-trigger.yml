@@ -1,0 +1,32 @@
+name: Waka Trigger
+
+on:
+  schedule:
+    # Runs every Sunday at 18:30
+    - cron: "30 18 * * 0"
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      # TODO: after repo is maintained properly, change to ImBIOS
+      - uses: anmol098/waka-readme-stats@master
+        # - uses: ImBIOS/waka-readme-stats@master
+        with:
+          SHOW_PROJECTS: "False" # optional
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          ### content
+          SECTION_NAME: CodingStats # optional
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+  rerun-failed-jobs:
+    runs-on: ubuntu-latest
+    needs: [update-readme]
+    if: failure()
+    steps:
+      - name: Rerun failed jobs in the current workflow
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh run rerun ${{ github.run_id }} --failed

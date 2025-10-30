@@ -1,0 +1,29 @@
+name: Blog Posts
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Run at 00:00 every Sunday
+  workflow_dispatch:
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+      - name: Update post list
+        run: |
+          bun install --frozen-lockfile
+          bun src/list-posts.ts
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update blog posts"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

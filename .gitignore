@@ -1,0 +1,355 @@
+.vscode/
+.dccache
+node_modules/
+*.lcov
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# UV
+#   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#uv.lock
+
+# poetry
+#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# pdm
+#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
+#pdm.lock
+#   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
+#   in version control.
+#   https://pdm.fming.dev/latest/usage/project/#working-with-version-control
+.pdm.toml
+.pdm-python
+.pdm-build/
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+#.idea/
+
+.DS_Store
+.env
+.envrc
+.eslintcache
+.idea
+.next
+.ninja_deps
+.ninja_log
+.npm
+.npm.gz
+.parcel-cache
+.swcrc
+.trace
+.uuid
+.vs
+.vscode/clang*
+.vscode/cpp*
+.zig-cache
+*.a
+*.bc
+*.big
+*.blob
+*.bun
+*.crash
+*.database
+*.db
+*.dmg
+*.dSYM
+*.generated.ts
+*.jsb
+*.lib
+*.log
+*.o
+*.out.js
+*.out.refresh.js
+*.pdb
+*.sqlite
+*.tmp
+*.trace
+*.wat
+*.zip
+**/.verdaccio-db.json
+**/*.dir
+**/*.pdb
+**/*.sln*
+**/*.vcxproj*
+**/package-lock.json
+/.cache
+/.webkit-cache
+/build-*/
+/bun-webkit
+/kcov-out
+/test-report.json
+/test-report.md
+/test.js
+/test.ts
+/test.zig
+/testdir
+build
+build.ninja
+bun-binary
+bun-mimalloc
+bun-nomimalloc
+bun-singlehtreaded
+bun-test-scratch
+bun-zigld
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
+cold-jsc-start
+cold-jsc-start.d
+compile_commands.json
+cover
+coverage
+coverv
+dist
+esbuilddir
+examples/lotta-modules/bun-nofscache
+examples/lotta-modules/bun-old
+examples/lotta-modules/bun-yday
+failing-tests.txt
+github
+make-dev-stats.csv
+misctools/fetch
+misctools/machbench
+misctools/sha
+myscript.sh
+node_modules
+node_modules_*
+out
+out.*
+outcss
+outdir
+outdir/
+packages/*/*.wasm
+packages/bun-*/*.o
+packages/bun-*/bun
+packages/bun-*/bun-profile
+packages/bun-*/debug-bun
+packages/bun-cli/bin/*
+packages/bun-cli/postinstall.js
+packages/bun-wasm/*.cjs
+packages/bun-wasm/*.d.cts
+packages/bun-wasm/*.d.mts
+packages/bun-wasm/*.d.ts
+packages/bun-wasm/*.js
+packages/bun-wasm/*.map
+packages/bun-wasm/*.mjs
+packages/debug-*
+parceldist
+pnpm-lock.yaml
+profile.json
+README.md.template
+release/
+scripts/env.local
+sign.*.json
+sign.json
+src/bake/generated.ts
+src/generated_enum_extractor.zig
+src/bun.js/bindings-obj
+src/bun.js/bindings/GeneratedJS2Native.zig
+src/bun.js/bindings/GeneratedBindings.zig
+src/bun.js/debug-bindings-obj
+src/deps/zig-clap/.gitattributes
+src/deps/zig-clap/.github
+src/deps/zig-clap/example
+src/deps/zig-clap/README.md
+src/fallback.version
+src/js/out/DebugPath.h
+src/js/out/functions*
+src/js/out/modules*
+src/js/out/tmp
+src/node-fallbacks/node_modules
+src/node-fallbacks/out/*
+src/runtime.version
+src/tests.zig
+test.txt
+test/js/bun/glob/fixtures
+test/node.js/upstream
+tsconfig.tsbuildinfo
+txt.js
+x64
+yarn.lock
+zig-cache
+zig-out
+test/node.js/upstream
+.zig-cache
+scripts/env.local
+*.generated.ts
+src/bake/generated.ts
+test/cli/install/registry/packages/publish-pkg-*
+test/cli/install/registry/packages/@secret/publish-pkg-8
+test/js/third_party/prisma/prisma/sqlite/dev.db-journal
+
+# Dependencies
+/vendor
+
+# Dependencies (before CMake)
+# These can be removed in the far future
+/src/bun.js/WebKit
+/src/deps/boringssl
+/src/deps/brotli
+/src/deps/c*ares
+/src/deps/libarchive
+/src/deps/libdeflate
+/src/deps/libuv
+/src/deps/lol*html
+/src/deps/ls*hpack
+/src/deps/mimalloc
+/src/deps/picohttpparser
+/src/deps/tinycc
+/src/deps/WebKit
+/src/deps/zig
+/src/deps/zlib
+/src/deps/zstd
+
+# Generated files
+
+.buildkite/ci.yml
+*.sock
+scratch*.{js,ts,tsx,cjs,mjs}
