@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [ImBIOS/IDN-Homograph-Generator](https://github.com/ImBIOS/IDN-Homograph-Generator) - Generate IDN homographs and phishing domains
@@ -732,6 +733,7 @@
 
 ## TypeScript 
 
+- [vercel/sandbox-example-next](https://github.com/vercel/sandbox-example-next) - 
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [ImBIOS/vercel-blob-server](https://github.com/ImBIOS/vercel-blob-server) - Mocking a vercel blob server ONLY FOR LOCAL DEVELOPMENT.
 - [634750802/vercel-blob-server](https://github.com/634750802/vercel-blob-server) - Mocking a vercel blob server ONLY FOR LOCAL DEVELOPMENT.
