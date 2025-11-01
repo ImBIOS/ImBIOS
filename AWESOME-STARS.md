@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - An Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports Claude Desktop App, Windsurf  & Cursor, also includes OpenAI's GPT 5, Deepseek V3.1, Claude Sonnet 4 APIs and Grok 4, with plans
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
