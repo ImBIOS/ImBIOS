@@ -163,7 +163,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [ImBIOS/hanko](https://github.com/ImBIOS/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
@@ -475,7 +475,7 @@
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
 - [terrylinooo/githuber-md](https://github.com/terrylinooo/githuber-md) - Markdown editor plugin for WordPress.
 - [ImBIOS/MBPTL](https://github.com/ImBIOS/MBPTL) - Self-deployed Straight-forward hacking lab machine which designed for new comer who want to learn Penetration Testing field that running inside Docker for easy setup.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [ImBIOS/MyFlix-API](https://github.com/ImBIOS/MyFlix-API) - Netflix API clone built with Laravel
 - [nafplann/codeigniter-alumni-app](https://github.com/nafplann/codeigniter-alumni-app) - Aplikasi alumni menggunakan codeigniter dan materialize css framework
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
