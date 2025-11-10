@@ -434,6 +434,8 @@
 
 ## Others 
 
+- [ImBIOS/joss-reviews](https://github.com/ImBIOS/joss-reviews) - Reviews for the Journal of Open Source Software
+- [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews) - Reviews for the Journal of Open Source Software
 - [ImBIOS/contribute](https://github.com/ImBIOS/contribute) - Contribution guide for my projects
 - [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual pro
 - [AgentDeskAI/memory-tools-mcp](https://github.com/AgentDeskAI/memory-tools-mcp) - long term memory system for AI agents using MCP
