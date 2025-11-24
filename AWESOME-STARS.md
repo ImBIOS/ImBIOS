@@ -209,6 +209,7 @@
 
 ## HTML 
 
+- [ImBIOS/lab-snake-reverse](https://github.com/ImBIOS/lab-snake-reverse) - Run for your life! A reverse take on the classic Snake game where YOU are the apple and the AI snake is hunting you. Built with vanilla JS & A* Pathfinding.
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
@@ -742,6 +743,7 @@
 
 ## TypeScript 
 
+- [Kinfe123/better-auth-ui](https://github.com/Kinfe123/better-auth-ui) - Custom + Pre built Auth UI for better-auth that you can copy / paste with their functionality
 - [ImBIOS/better-auth](https://github.com/ImBIOS/better-auth) - The most comprehensive authentication framework for TypeScript
 - [ImBIOS/better-auth-ui](https://github.com/ImBIOS/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
 - [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
