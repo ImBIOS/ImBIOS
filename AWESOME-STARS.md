@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [ImBIOS/lab-ts-cli-unreverse](https://github.com/ImBIOS/lab-ts-cli-unreverse) - Production-Ready TypeScript CLI | Multi-Runtime Performance Benchmarking Suite | ESBuild Bundle 11KB | Node.js, Bun, Binary | File Processing, Statistics, LRU Cache | 130ms Cold Start
 - [ImBIOS/RTVGeolocationTracker](https://github.com/ImBIOS/RTVGeolocationTracker) - Real-time vehicle GPS tracker built with MERN stack. Features mobile app registration, background tracking, and a web dashboard for location history.
 - [vilalali/RTVGeolocationTracker](https://github.com/vilalali/RTVGeolocationTracker) - Real-time vehicle GPS tracker built with MERN stack. Features mobile app registration, background tracking, and a web dashboard for location history.
@@ -255,7 +256,6 @@
 - [sindresorhus/get-windows](https://github.com/sindresorhus/get-windows) - Get metadata about the active window and open windows (title, id, bounds, owner, etc)
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
@@ -788,6 +788,7 @@
 - [ImBIOS/tab-trackr](https://github.com/ImBIOS/tab-trackr) - A powerful Chrome extension for productivity tracking and team collaboration. Track browsing time, analyze productivity patterns, and collaborate with remote teams. Built with React, TypeScript, Supab
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [ImBIOS/ai-chatbot](https://github.com/ImBIOS/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [afsar-dev/Nurui](https://github.com/afsar-dev/Nurui) - 🔥💯 Nur/ui is a modern React and Next.js based UI component library. It streamlines front-end development with powerful features like CLI scaffolding, automatic TypeScript-to-JavaScript conversion, and
