@@ -194,7 +194,7 @@
 - [ImBIOS/go-micho-twitter](https://github.com/ImBIOS/go-micho-twitter) - Twitter-like API written in Go, using Echo framework.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [budsx/clean-architecture](https://github.com/budsx/clean-architecture) - Clean Architecture API -  Golang
+- [budsx/Project-Layout](https://github.com/budsx/Project-Layout) - Go Project Layout
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -308,7 +308,7 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [ImBIOS/ai-text-summarizer-app](https://github.com/ImBIOS/ai-text-summarizer-app) - "AI Text Summarizer App" is a tool designed for quick and efficient processing of large volumes of text.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
-- [ftzi/eslint-config-biome](https://github.com/ftzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule
+- [ftzi/eslint-config-biome](https://github.com/ftzi/eslint-config-biome) - 🏔️ Disables ESLint rules that have a recommended and equivalent Biome rule
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [ImBIOS/next_microfrontend](https://github.com/ImBIOS/next_microfrontend) - This project demonstrates the implementation of a micro-frontend architecture using React and Next.js.
@@ -744,6 +744,8 @@
 
 ## TypeScript 
 
+- [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
+- [chaance/vitest-axe](https://github.com/chaance/vitest-axe) - Custom Vitest matcher for testing accessibility with aXe. Forked from jest-axe.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [ImBIOS/gemini-cli](https://github.com/ImBIOS/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Kinfe123/better-auth-ui](https://github.com/Kinfe123/better-auth-ui) - Custom + Pre built Auth UI for better-auth that you can copy / paste with their functionality
