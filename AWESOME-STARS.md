@@ -61,7 +61,7 @@
 ## C 
 
 - [Sanix-Darker/cisv](https://github.com/Sanix-Darker/cisv) - The csv parser on steroids.
-- [pogocache/pogocache](https://github.com/pogocache/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
+- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
 - [Beariish/bolt](https://github.com/Beariish/bolt) - High-performance, real-time optimized, and statically typed embedded language implemented in C.
 - [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -88,7 +88,7 @@
 ## C++ 
 
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - An Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Supports Claude Desktop App, Windsurf  & Cursor, also includes OpenAI's GPT 5, Deepseek V3.1, Claude Sonnet 4 APIs and Grok 4, with plans
+- [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - An Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Includes OpenAI's GPT 5.1, Deepseek V3.1, Claude Sonnet 4.5 APIs, Gemini 3, Alibaba Qwen and Grok 4.1, with plans to add Gemini, audio & 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [ImBIOS/lab-ts-cli-unreverse](https://github.com/ImBIOS/lab-ts-cli-unreverse) - Production-Ready TypeScript CLI | Multi-Runtime Performance Benchmarking Suite | ESBuild Bundle 11KB | Node.js, Bun, Binary | File Processing, Statistics, LRU Cache | 130ms Cold Start
 - [ImBIOS/RTVGeolocationTracker](https://github.com/ImBIOS/RTVGeolocationTracker) - Real-time vehicle GPS tracker built with MERN stack. Features mobile app registration, background tracking, and a web dashboard for location history.
@@ -837,7 +838,6 @@
 - [endalk200/create-t3-nx](https://github.com/endalk200/create-t3-nx) - Clean and simple starter repo that uses t3 stacks like NextJs, Tailwindcss, NextAuth, Prisma, tRPC and zod with Nx monorepo worksapces.
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy
-- [mcfdez/nx-biome](https://github.com/mcfdez/nx-biome) - NX plugin to integrate the Biome toolchain.
 - [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
 - [ImBIOS/monorepo-benchmarks](https://github.com/ImBIOS/monorepo-benchmarks) - Benchmarking the experience of using monorepo tools - Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
 - [upstash/rag-chat](https://github.com/upstash/rag-chat) - Prototype SDK for RAG development.
