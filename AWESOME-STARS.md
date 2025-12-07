@@ -750,6 +750,7 @@
 
 ## TypeScript 
 
+- [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
 - [chaance/vitest-axe](https://github.com/chaance/vitest-axe) - Custom Vitest matcher for testing accessibility with aXe. Forked from jest-axe.
