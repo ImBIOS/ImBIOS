@@ -401,6 +401,7 @@
 
 ## MDX 
 
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [ImBIOS/teamhanko-docs](https://github.com/ImBIOS/teamhanko-docs) - The Hanko documentation
 - [teamhanko/docs](https://github.com/teamhanko/docs) - The Hanko documentation
 - [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
@@ -506,6 +507,7 @@
 
 ## Python 
 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ImBIOS/spec-kit](https://github.com/ImBIOS/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ImBIOS/Agentic-Web-Interfaces-concierge](https://github.com/ImBIOS/Agentic-Web-Interfaces-concierge) - Declarative framework for building Agentic AI Services. Build powerful AI apps allowing Agents to navigate, interact and transact with your service.
 - [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Declarative framework to build Agentic AI applications. Build apps to allow Agents to navigate, interact and transact with your service.
@@ -750,6 +752,8 @@
 
 ## TypeScript 
 
+- [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
+- [nrwl/typecheck-timings](https://github.com/nrwl/typecheck-timings) - 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
@@ -759,7 +763,7 @@
 - [Kinfe123/better-auth-ui](https://github.com/Kinfe123/better-auth-ui) - Custom + Pre built Auth UI for better-auth that you can copy / paste with their functionality
 - [ImBIOS/better-auth](https://github.com/ImBIOS/better-auth) - The most comprehensive authentication framework for TypeScript
 - [ImBIOS/better-auth-ui](https://github.com/ImBIOS/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
-- [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
+- [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui) - Beautiful UI components built for Better Auth.
 - [dodopayments/dodo-adapters](https://github.com/dodopayments/dodo-adapters) - Framework-specific adapters for seamless Dodo Payments integration across web frameworks.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [vercel/sandbox-example-next](https://github.com/vercel/sandbox-example-next) - 
