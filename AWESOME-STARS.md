@@ -507,6 +507,8 @@
 
 ## Python 
 
+- [localstack/pulumi-local](https://github.com/localstack/pulumi-local) - Thin wrapper script to use Pulumi with LocalStack
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ImBIOS/spec-kit](https://github.com/ImBIOS/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ImBIOS/Agentic-Web-Interfaces-concierge](https://github.com/ImBIOS/Agentic-Web-Interfaces-concierge) - Declarative framework for building Agentic AI Services. Build powerful AI apps allowing Agents to navigate, interact and transact with your service.
@@ -752,6 +754,8 @@
 
 ## TypeScript 
 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [nrwl/typecheck-timings](https://github.com/nrwl/typecheck-timings) - 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
@@ -775,7 +779,7 @@
 - [vercel/resumable-stream](https://github.com/vercel/resumable-stream) - Stream resumption for web streams
 - [ImBIOS/tablecn](https://github.com/ImBIOS/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month. Fol
 - [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
 - [ali-master/uuidv47](https://github.com/ali-master/uuidv47) - Reversible UUID v4/v7 transformation using SipHash-2-4 cryptography. Hide time-ordering from external APIs while maintaining internal chronological benefits.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
