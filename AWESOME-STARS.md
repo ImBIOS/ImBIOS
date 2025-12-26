@@ -244,6 +244,7 @@
 
 ## JavaScript 
 
+- [smrchy/rsmq](https://github.com/smrchy/rsmq) - Redis Simple Message Queue
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [ImBIOS/lab-ts-cli-unreverse](https://github.com/ImBIOS/lab-ts-cli-unreverse) - Production-Ready TypeScript CLI | Multi-Runtime Performance Benchmarking Suite | ESBuild Bundle 11KB | Node.js, Bun, Binary | File Processing, Statistics, LRU Cache | 130ms Cold Start
@@ -762,7 +763,7 @@
 
 ## TypeScript 
 
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Minimal, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, minimal, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [invertase/react-native-google-mobile-ads](https://github.com/invertase/react-native-google-mobile-ads) - React Native Google Mobile Ads enables you to monetize your app with AdMob.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [openfoodfacts/openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) - Official JavaScript package for the Open Food Facts API
