@@ -763,7 +763,7 @@
 
 ## TypeScript 
 
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, minimal, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [invertase/react-native-google-mobile-ads](https://github.com/invertase/react-native-google-mobile-ads) - React Native Google Mobile Ads enables you to monetize your app with AdMob.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [openfoodfacts/openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) - Official JavaScript package for the Open Food Facts API
