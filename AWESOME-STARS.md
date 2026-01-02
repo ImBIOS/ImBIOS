@@ -408,6 +408,7 @@
 
 ## MDX 
 
+- [tyaga001/devtoolsacademy](https://github.com/tyaga001/devtoolsacademy) - everything about awesome developer tools
 - [ImBIOS/teamhanko-docs](https://github.com/ImBIOS/teamhanko-docs) - The Hanko documentation
 - [teamhanko/docs](https://github.com/teamhanko/docs) - The Hanko documentation
 - [clerk/clerk-docs](https://github.com/clerk/clerk-docs) - The documentation content for Clerk, an authentication and user management platform.
@@ -764,6 +765,8 @@
 
 ## TypeScript 
 
+- [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+- [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device manage
 - [ImBIOS/thiqah-ops](https://github.com/ImBIOS/thiqah-ops) - AI SysAdmin Trust Benchmark - Comprehensive testing suite for evaluating LLM competence in system administration. Real-world scenarios covering setup, security, networking, monitoring, and troubleshoo
 - [kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) - HealthKit bindings for React Native with TypeScript
 - [stomp-js/stompjs](https://github.com/stomp-js/stompjs) - Javascript and Typescript Stomp client for Web browsers and node.js apps
@@ -852,7 +855,6 @@
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [coinbase/onchainkit](https://github.com/coinbase/onchainkit) - React components and TypeScript utilities to help you build top-tier onchain apps.
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [tyaga001/devtoolsacademy](https://github.com/tyaga001/devtoolsacademy) - everything about awesome developer tools
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo
