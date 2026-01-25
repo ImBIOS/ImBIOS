@@ -252,6 +252,7 @@
 
 ## JavaScript 
 
+- [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [deinstapel/cpupower](https://github.com/deinstapel/cpupower) - Manage the frequency scaling driver of your CPU (Intel Core and AMD Ryzen processors supported)
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [ImBIOS/facetpack-uniwind-repro](https://github.com/ImBIOS/facetpack-uniwind-repro) - 
@@ -403,6 +404,7 @@
 
 ## Kotlin 
 
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [ImBIOS/ExamBrowser-Android](https://github.com/ImBIOS/ExamBrowser-Android) - 
 - [syntaxxxxx/version-catalog-android-template](https://github.com/syntaxxxxx/version-catalog-android-template) - 
