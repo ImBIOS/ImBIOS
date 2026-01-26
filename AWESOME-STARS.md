@@ -131,7 +131,6 @@
 
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [ImBIOS/flutter_travel_ui_learn](https://github.com/ImBIOS/flutter_travel_ui_learn) - 
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## Dockerfile 
@@ -529,6 +528,7 @@
 
 ## Python 
 
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) - Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
@@ -540,7 +540,6 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ImBIOS/spec-kit](https://github.com/ImBIOS/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ImBIOS/Agentic-Web-Interfaces-concierge](https://github.com/ImBIOS/Agentic-Web-Interfaces-concierge) - Declarative framework for building Agentic AI Services. Build powerful AI apps allowing Agents to navigate, interact and transact with your service.
-- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source framework to build reliable Agentic workflows, ChatGPT Apps and MCP Servers 🚀
 - [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a free local self hosted video compressor webui designed for performance and ease of use. inspired by 8mb.video
 - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) - A clean, modular SDK for building AI agents with OpenHands V1.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
@@ -640,6 +639,7 @@
 
 ## Rust 
 
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [zed-extensions/postgres-context-server](https://github.com/zed-extensions/postgres-context-server) - An extension providing a Model Context Server extension for PostgreSQL
 - [zed-extensions/mcp-server-puppeteer](https://github.com/zed-extensions/mcp-server-puppeteer) - An MCP server for Puppeteer
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -796,6 +796,10 @@
 
 ## TypeScript 
 
+- [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
+- [agentclientprotocol/typescript-sdk](https://github.com/agentclientprotocol/typescript-sdk) - TypeScript SDK for ACP clients and agents.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs in TypeScript
 - [catppuccin/zed-icons](https://github.com/catppuccin/zed-icons) - 🦊 Soothing pastel icons for Zed
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [ImBIOS/tool-search-mcp](https://github.com/ImBIOS/tool-search-mcp) - High-performance semantic tool search for Claude Code. Save 97% tokens with intelligent MCP tool discovery using embedding, BM25, and regex search methods.
@@ -833,6 +837,7 @@
 - [nrwl/typecheck-timings](https://github.com/nrwl/typecheck-timings) - 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
+- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source platform to build stateful MCP workflows that agents can navigate, interact and transact with 🚀
 - [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
 - [chaance/vitest-axe](https://github.com/chaance/vitest-axe) - Custom Vitest matcher for testing accessibility with aXe. Forked from jest-axe.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
@@ -1173,6 +1178,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [kuroski/github-issue-viewer](https://github.com/kuroski/github-issue-viewer) - A Github issue viewer apps
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [ImBIOS/kajiansegar](https://github.com/ImBIOS/kajiansegar) - 
 - [hiwllc/datepicker](https://github.com/hiwllc/datepicker) - A simple datepicker with Chakra-UI and date-fns
