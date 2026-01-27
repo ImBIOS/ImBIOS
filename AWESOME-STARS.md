@@ -44,7 +44,6 @@
 - [Scala](#scala)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
-- [SurrealQL](#surrealql)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -183,7 +182,7 @@
 - [ImBIOS/encore-go-benchmarks](https://github.com/ImBIOS/encore-go-benchmarks) - Performance benchmarks and tests for backend services implemented with Encore (Go and TypeScript) against other popular Go frameworks, focusing on request handling, latency, cold start times, and othe
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [blue-rpc/bluerpc](https://github.com/blue-rpc/bluerpc) - Golang library for end-to-end Go-Typescript type safety.
 - [gandarez/semver-action](https://github.com/gandarez/semver-action) - Generate a semantic version
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
@@ -383,7 +382,6 @@
 - [ImBIOS/simple-web-project-collection](https://github.com/ImBIOS/simple-web-project-collection) - Collection of website applications project that is simple and beginner-friendly to start your journey on Web Development Learning Path.
 - [manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website) - ✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.
 - [sampoder/gwa-votes](https://github.com/sampoder/gwa-votes) - 🗳 Students go to the polls for the 2021/22 Student Council elections
-- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 16. All the tools you need to build your next project ⚡️
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
 - [dimotsai/react-alarm-clock](https://github.com/dimotsai/react-alarm-clock) - A web alarm clock that is implemented with React.js
@@ -777,10 +775,6 @@
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [craftercms/craftercms](https://github.com/craftercms/craftercms) - Parent project for Crafter CMS. Issue tracking across all repositories and global builds.
 
-## SurrealQL 
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
 ## Svelte 
 
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
@@ -796,6 +790,8 @@
 
 ## TypeScript 
 
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
 - [agentclientprotocol/typescript-sdk](https://github.com/agentclientprotocol/typescript-sdk) - TypeScript SDK for ACP clients and agents.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -837,7 +833,7 @@
 - [nrwl/typecheck-timings](https://github.com/nrwl/typecheck-timings) - 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
-- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source platform to build stateful MCP workflows that agents can navigate, interact and transact with 🚀
+- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source platform to give your MCP servers superpowers 🚀
 - [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
 - [chaance/vitest-axe](https://github.com/chaance/vitest-axe) - Custom Vitest matcher for testing accessibility with aXe. Forked from jest-axe.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
@@ -1136,6 +1132,7 @@
 - [aanckar/react-pdf-tailwind](https://github.com/aanckar/react-pdf-tailwind) - Use Tailwind CSS to style PDFs created with react-pdf
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - PWA for Next.js, powered by Workbox.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [ImBIOS/nextjs-flask-lab](https://github.com/ImBIOS/nextjs-flask-lab) - 
@@ -1230,6 +1227,7 @@
 - [lucaschen/microservices-chat-demo](https://github.com/lucaschen/microservices-chat-demo) - 
 - [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
 - [EPAM-JS-Competency-center/shop-nodejs-aws-serverless](https://github.com/EPAM-JS-Competency-center/shop-nodejs-aws-serverless) - Backend for E-Commerce application (Shop) created with NodeJS, AWS Cloud and Serverless architecture and Serverless framework
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 16. All the tools you need to build your next project ⚡️
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
 - [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [NaveenDA/naveenda.github.io](https://github.com/NaveenDA/naveenda.github.io) - A personal Portfolio for https://naveenda.github.io
