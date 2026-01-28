@@ -157,6 +157,7 @@
 
 ## Go 
 
+- [coollabsio/coolify-cli](https://github.com/coollabsio/coolify-cli) - CLI for Coolify
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
@@ -265,7 +266,7 @@
 - [ImBIOS/react-component-count](https://github.com/ImBIOS/react-component-count) - ⚡ Lightning-fast, memory-efficient CLI tool to count and analyze React components in any project. Optimized for performance with O(f/p×s) time complexity.
 - [ImBIOS/avana-frontend-test](https://github.com/ImBIOS/avana-frontend-test) - A project as a test for Frontend job application at Avana.id
 - [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augments your Steam Experience
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [ImBIOS/nuclei-templates](https://github.com/ImBIOS/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -833,7 +834,7 @@
 - [nrwl/typecheck-timings](https://github.com/nrwl/typecheck-timings) - 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
-- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source platform to give your MCP servers superpowers 🚀
+- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source framework to build Agentic apps served over MCP  🚀
 - [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
 - [chaance/vitest-axe](https://github.com/chaance/vitest-axe) - Custom Vitest matcher for testing accessibility with aXe. Forked from jest-axe.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
