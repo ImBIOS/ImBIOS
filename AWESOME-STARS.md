@@ -143,7 +143,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
@@ -834,7 +834,7 @@
 - [nrwl/typecheck-timings](https://github.com/nrwl/typecheck-timings) - 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
-- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source framework to build Agentic apps served over MCP  🚀
+- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - Open Source platform to give your MCPs superpowers  🚀
 - [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
 - [chaance/vitest-axe](https://github.com/chaance/vitest-axe) - Custom Vitest matcher for testing accessibility with aXe. Forked from jest-axe.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
@@ -954,7 +954,7 @@
 - [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) - A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
-- [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) - Create-tsrouter-app is drop-in replacement for create-react-app that builds TanStack Router based SPA applications
+- [TanStack/cli](https://github.com/TanStack/cli) - The official TanStack CLI - Project Scaffolding, MCP Server, Agent Skills Installation, etc
 - [FynLink/get.fyn.link](https://github.com/FynLink/get.fyn.link) - The free, fast, private & open source URL shortener.
 - [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) - A starter kit for building ai agents on Cloudflare
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
@@ -1102,7 +1102,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [n4ze3m/lol](https://github.com/n4ze3m/lol) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [sefininio/microservices-realworld-app](https://github.com/sefininio/microservices-realworld-app) - A realworld app implementation using nx, nest.js & graphql using a micro-services approach
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
