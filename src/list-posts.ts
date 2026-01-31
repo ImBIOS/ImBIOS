@@ -41,26 +41,40 @@ export const sortJson = (json: RssJsonChannelItem[]): RssJsonChannelItem[] => {
   return json;
 };
 
+export const formatPost = (item: RssJsonChannelItem): string => {
+  const date = new Date(item.pubDate ?? "");
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  const slug = item.link?.replace("https://blog.imbios.dev/", "");
+  const correctUrl = `https://blog.imbios.dev/blog/${year}/${month}/${day}/${slug}`;
+  return `- ${date.toISOString().split("T")[0]} [${item.title}](${correctUrl}?utm_source=GitHubProfile)`;
+};
+
+export const formatPosts = (feeds: RssJsonChannelItem[]): string[] => {
+  return feeds.slice(0, 5).map(formatPost);
+};
+
+export const hasNewPosts = (readme: string, posts: string[]): boolean => {
+  return !readme.includes(posts.join("\n"));
+};
+
+export const updateReadme = (readme: string, posts: string[]): string => {
+  return readme
+    .replace(BLOG_POSTS_REGEX, posts.join("\n"))
+    .replace(CDATA_REGEX, "$1");
+};
+
 getRss()
   .then((rss) => {
     const feeds = sortJson(rss);
-    const posts = feeds.slice(0, 5).map((item) => {
-      const date = new Date(item.pubDate ?? "");
-      const year = date.getFullYear();
-      const month = String(date.getMonth() + 1).padStart(2, "0");
-      const day = String(date.getDate()).padStart(2, "0");
-      const slug = item.link?.replace("https://blog.imbios.dev/", "");
-      const correctUrl = `https://blog.imbios.dev/blog/${year}/${month}/${day}/${slug}`;
-      return `- ${date.toISOString().split("T")[0]} [${item.title}](${correctUrl}?utm_source=GitHubProfile)`;
-    });
+    const posts = formatPosts(feeds);
 
     const readme = readFileSync("README.md", "utf8");
-    if (readme.includes(posts.join("\n"))) {
+    if (!hasNewPosts(readme, posts)) {
       throw new Error("No new blog posts");
     }
-    const updatedReadme = readFileSync("README.md", "utf8")
-      .replace(BLOG_POSTS_REGEX, posts.join("\n"))
-      .replace(CDATA_REGEX, "$1");
+    const updatedReadme = updateReadme(readme, posts);
     writeFileSync("README.md", updatedReadme);
     console.log("Updated README.md");
   })

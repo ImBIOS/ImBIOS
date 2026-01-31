@@ -1,6 +1,6 @@
 
 [test]
 coverageReporter = ["text", "lcov"] # default ["text"]
-# To require 50% line-level and function-level coverage
+# To require 75% line-level and function-level coverage
 # We're not keeping code, we're keeping behavior and expectations
-coverageThreshold = 0.5
+coverageThreshold = 0.75
