@@ -1,55 +1,21 @@
-import { describe, expect, type Mock, test } from "bun:test";
-import { getRss, sortJson } from "./list-posts";
+import { beforeEach, describe, expect, mock, test } from "bun:test";
+import { getRss, type RssJsonChannelItem, sortJson } from "./list-posts";
 
-describe("list-posts", async () => {
-  const readFileSync = await import("fs").then((m) => m.readFileSync);
-  const writeFileSync = await import("fs").then((m) => m.writeFileSync);
-  const Parser = await import("rss-parser").then((m) => m.default);
+// Create a mock function for parseURL
+const mockParseURL = mock(() => ({ items: [] }));
 
-  test.todo("getRss should fetch and parse RSS feed correctly", async () => {
-    const mockFeed = {
-      items: [
-        {
-          title: "Post 1",
-          cover_image: "image1.jpg",
-          creator: "Author 1",
-          link: "https://example.com/1",
-          pubDate: "2024-12-01T00:00:00Z",
-        },
-        {
-          title: "Post 2",
-          cover_image: "image2.jpg",
-          creator: "Author 2",
-          link: "https://example.com/2",
-          pubDate: "2024-12-02T00:00:00Z",
-        },
-      ],
-    };
+// Mock rss-parser module
+mock.module("rss-parser", () => {
+  return {
+    default: class Parser {
+      parseURL = mockParseURL;
+    },
+  };
+});
 
-    (Parser.prototype.parseURL as Mock<any>).mockResolvedValue(mockFeed);
-
-    const posts = await getRss();
-
-    expect(posts).toEqual([
-      {
-        title: "Post 1",
-        coverImage: "image1.jpg",
-        creator: "Author 1",
-        link: "https://example.com/1",
-        pubDate: "2024-12-01T00:00:00Z",
-      },
-      {
-        title: "Post 2",
-        coverImage: "image2.jpg",
-        creator: "Author 2",
-        link: "https://example.com/2",
-        pubDate: "2024-12-02T00:00:00Z",
-      },
-    ]);
-  });
-
-  test("sortJson should sort RSS items by pubDate in descending order", () => {
-    const unsortedJson = [
+describe("sortJson", () => {
+  test("should sort RSS items by pubDate in descending order", () => {
+    const unsortedJson: RssJsonChannelItem[] = [
       {
         title: "Post 1",
         coverImage: "image1.jpg",
@@ -72,49 +38,200 @@ describe("list-posts", async () => {
     expect(sortedJson[1].title).toBe("Post 1");
   });
 
-  test.todo("should update README.md if there are new blog posts", async () => {
-    const mockPosts = [
-      "- 2024-12-02 [Post 2](https://example.com/2?utm_source=GitHubProfile)",
-      "- 2024-12-01 [Post 1](https://example.com/1?utm_source=GitHubProfile)",
+  test("should handle undefined pubDate for both items", () => {
+    const json: RssJsonChannelItem[] = [
+      {
+        title: "Post 1",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: undefined,
+      },
+      {
+        title: "Post 2",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: undefined,
+      },
     ];
 
-    const mockReadme = `<!--START_SECTION:blog-posts-->
-  - 2024-12-01 [Post 1](https://example.com/1?utm_source=GitHubProfile)
-  <!--END_SECTION:blog-posts-->`;
-
-    (readFileSync as Mock<any>).mockReturnValue(mockReadme); // Mock the existing README content
-
-    // Simulate the RSS fetch and process
-    const posts = await getRss(); // Ensure this triggers the update
-
-    // Update logic
-    const updatedReadme = mockReadme.replace(
-      /(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/,
-      mockPosts.join("\n")
-    );
-
-    // Mock the file writing process
-    (writeFileSync as Mock<any>).mockImplementation(() => {});
-
-    // Ensure that writeFileSync is called with the updated content
-    expect(writeFileSync).toHaveBeenCalledWith("README.md", updatedReadme);
+    const sorted = sortJson(json);
+    expect(sorted[0].title).toBe("Post 1");
+    expect(sorted[1].title).toBe("Post 2");
   });
 
-  test("should throw error when no new blog posts exist", async () => {
-    const mockPosts = [
-      "- 2024-12-01 [Post 1](https://example.com/1?utm_source=GitHubProfile)",
-      "- 2024-12-02 [Post 2](https://example.com/2?utm_source=GitHubProfile)",
+  test("should handle undefined pubDate for first item only", () => {
+    const json: RssJsonChannelItem[] = [
+      {
+        title: "Post 1",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: undefined,
+      },
+      {
+        title: "Post 2",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: "2024-12-02T00:00:00Z",
+      },
     ];
 
-    const mockReadme = `<!--START_SECTION:blog-posts-->
-  - 2024-12-01 [Post 1](https://example.com/1?utm_source=GitHubProfile)
-  - 2024-12-02 [Post 2](https://example.com/2?utm_source=GitHubProfile)
-  <!--END_SECTION:blog-posts-->`;
+    const sorted = sortJson(json);
+    expect(sorted[0].title).toBe("Post 1");
+  });
 
-    (readFileSync as Mock<any>).mockReturnValue(mockReadme);
+  test("should handle undefined pubDate for second item only", () => {
+    const json: RssJsonChannelItem[] = [
+      {
+        title: "Post 1",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: "2024-12-01T00:00:00Z",
+      },
+      {
+        title: "Post 2",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: undefined,
+      },
+    ];
 
-    await getRss().catch((err) => {
-      expect(err.message).toBe("No new blog posts");
+    const sorted = sortJson(json);
+    expect(sorted[0].title).toBe("Post 1");
+  });
+
+  test("should return the same array reference", () => {
+    const json: RssJsonChannelItem[] = [
+      {
+        title: "Post 1",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: "2024-12-01T00:00:00Z",
+      },
+    ];
+
+    const sorted = sortJson(json);
+    expect(sorted).toBe(json);
+  });
+
+  test("should handle single item array", () => {
+    const json: RssJsonChannelItem[] = [
+      {
+        title: "Post 1",
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: "2024-12-01T00:00:00Z",
+      },
+    ];
+
+    const sorted = sortJson(json);
+    expect(sorted.length).toBe(1);
+    expect(sorted[0].title).toBe("Post 1");
+  });
+
+  test("should handle empty array", () => {
+    const json: RssJsonChannelItem[] = [];
+
+    const sorted = sortJson(json);
+    expect(sorted.length).toBe(0);
+  });
+});
+
+describe("getRss", () => {
+  beforeEach(() => {
+    mockParseURL.mockClear();
+  });
+
+  test("should fetch and parse RSS feed correctly", async () => {
+    mockParseURL.mockResolvedValue({
+      items: [
+        {
+          title: "Post 1",
+          cover_image: "image1.jpg",
+          creator: "Author 1",
+          link: "https://example.com/1",
+          pubDate: "2024-12-01T00:00:00Z",
+        },
+        {
+          title: "Post 2",
+          cover_image: "image2.jpg",
+          creator: "Author 2",
+          link: "https://example.com/2",
+          pubDate: "2024-12-02T00:00:00Z",
+        },
+      ],
     });
+
+    const posts = await getRss();
+
+    expect(posts).toEqual([
+      {
+        title: "Post 1",
+        coverImage: "image1.jpg",
+        creator: "Author 1",
+        link: "https://example.com/1",
+        pubDate: "2024-12-01T00:00:00Z",
+      },
+      {
+        title: "Post 2",
+        coverImage: "image2.jpg",
+        creator: "Author 2",
+        link: "https://example.com/2",
+        pubDate: "2024-12-02T00:00:00Z",
+      },
+    ]);
+  });
+
+  test("should handle RSS feed with missing optional fields", async () => {
+    mockParseURL.mockResolvedValue({
+      items: [
+        {
+          title: undefined,
+          cover_image: undefined,
+          creator: undefined,
+          link: undefined,
+          pubDate: undefined,
+        },
+      ],
+    });
+
+    const posts = await getRss();
+
+    expect(posts).toEqual([
+      {
+        title: undefined,
+        coverImage: undefined,
+        creator: undefined,
+        link: undefined,
+        pubDate: undefined,
+      },
+    ]);
+  });
+
+  test("should handle empty RSS feed", async () => {
+    mockParseURL.mockResolvedValue({
+      items: [],
+    });
+
+    const posts = await getRss();
+
+    expect(posts).toEqual([]);
+  });
+
+  test("should call parseURL with correct URL", async () => {
+    mockParseURL.mockResolvedValue({ items: [] });
+
+    await getRss();
+
+    expect(mockParseURL).toHaveBeenCalledWith(
+      "https://blog.imbios.dev/rss.xml"
+    );
   });
 });

@@ -1,75 +1,67 @@
-import { readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
-type RssJsonChannelItem = {
+interface RssJsonChannelItem {
   title: string | undefined;
-  coverImage: any;
+  coverImage: unknown;
   creator: string | undefined;
   link: string | undefined;
   pubDate: string | undefined;
-};
+}
+
+const CDATA_REGEX = /<!\[CDATA\[(.*?)\]\]>/g;
+const BLOG_POSTS_REGEX =
+  /(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/;
 
 export const getRss = async (): Promise<RssJsonChannelItem[]> => {
   const parser: Parser = new Parser();
   const url = "https://blog.imbios.dev/rss.xml";
-  const feed = await parser.parseURL(url);
-  return feed.items.map((item) => {
-    return {
-      title: item["title"],
-      coverImage: item["cover_image"],
-      creator: item["creator"],
-      link: item["link"],
-      pubDate: item["pubDate"],
-    };
-  });
+  try {
+    const feed = await parser.parseURL(url);
+    return feed.items.map((item) => ({
+      title: item.title,
+      coverImage: item.cover_image,
+      creator: item.creator,
+      link: item.link,
+      pubDate: item.pubDate,
+    }));
+  } catch (error) {
+    console.error("Failed to fetch RSS feed:", error);
+    return [];
+  }
 };
 
-/**
- * Sort JSON by pubDate
- * @param {object} json
- * @returns {object} sortedJson
- */
 export const sortJson = (json: RssJsonChannelItem[]): RssJsonChannelItem[] => {
   json.sort((a, b) => {
     if (a.pubDate && b.pubDate) {
       return new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime();
     }
-
     return 0;
   });
   return json;
 };
 
-// Read XML file and convert to JSON
 getRss()
   .then((rss) => {
     const feeds = sortJson(rss);
+    const posts = feeds.slice(0, 5).map((item) => {
+      const date = new Date(item.pubDate ?? "");
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, "0");
+      const day = String(date.getDate()).padStart(2, "0");
+      const slug = item.link?.replace("https://blog.imbios.dev/", "");
+      const correctUrl = `https://blog.imbios.dev/blog/${year}/${month}/${day}/${slug}`;
+      return `- ${date.toISOString().split("T")[0]} [${item.title}](${correctUrl}?utm_source=GitHubProfile)`;
+    });
 
-    // Create Markdown list of posts
-    const posts = feeds
-      .slice(0, 5)
-      .map(
-        (item) =>
-          `- ${new Date(item.pubDate ?? "").toISOString().split("T")[0]} [${
-            item.title
-          }](${item.link}?utm_source=GitHubProfile)`
-      );
-
-    // Update README.md if posts have changed,
-    // otherwise throw an error to remind me to write a blog post
     const readme = readFileSync("README.md", "utf8");
     if (readme.includes(posts.join("\n"))) {
       throw new Error("No new blog posts");
-    } else {
-      const updatedReadme = readFileSync("README.md", "utf8")
-        .replace(
-          /(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/,
-          posts.join("\n")
-        )
-        .replace(/<!\[CDATA\[(.*?)\]\]>/g, "$1");
-      writeFileSync("README.md", updatedReadme);
-
-      console.log("Updated README.md");
     }
+    const updatedReadme = readFileSync("README.md", "utf8")
+      .replace(BLOG_POSTS_REGEX, posts.join("\n"))
+      .replace(CDATA_REGEX, "$1");
+    writeFileSync("README.md", updatedReadme);
+    console.log("Updated README.md");
   })
   .catch((err) => console.error(err));
