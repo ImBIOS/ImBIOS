@@ -353,3 +353,5 @@ test/js/third_party/prisma/prisma/sqlite/dev.db-journal
 .buildkite/ci.yml
 *.sock
 scratch*.{js,ts,tsx,cjs,mjs}
+
+playwright

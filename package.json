@@ -1,7 +1,13 @@
 {
+  "name": "imbios",
+  "type": "module",
   "devDependencies": {
-    "@types/node": "^20.11.17",
-    "rss-parser": "^3.13.0",
-    "@types/bun": "^1.0.0"
+    "@types/bun": "^1.0.0",
+    "@types/node": "^24.0.0",
+    "rss-parser": "^3.13.0"
+  },
+  "scripts": {
+    "test": "bun test",
+    "test:coverage": "bun test --coverage"
   }
 }

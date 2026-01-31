@@ -2,5 +2,6 @@
 [test]
 # Load these modules before running tests.
 preload = ["./test-setup.ts"]
-coverage = true
 coverageReporter = ["text", "lcov"] # default ["text"]
+# To require 99% line-level and function-level coverage
+coverageThreshold = 0.99
