@@ -164,27 +164,27 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/yehezkieldio">Yehezkiel Dio Sinolungan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/withLinda">
+        <img src="https://avatars2.githubusercontent.com/u/82918531" width="100px;" alt="withLinda"/>
+      </a>
+      <br />
+      <a href="https://github.com/withLinda">Linda</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HaradaKumiko">
         <img src="https://avatars2.githubusercontent.com/u/42530587" width="100px;" alt="HaradaKumiko"/>
       </a>
       <br />
       <a href="https://github.com/HaradaKumiko">Farhan Rivaldy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/tranngoclam">
         <img src="https://avatars2.githubusercontent.com/u/4991619" width="100px;" alt="tranngoclam"/>
       </a>
       <br />
       <a href="https://github.com/tranngoclam">Lam Tran</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/darioalessandro">
-        <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
-      </a>
-      <br />
-      <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
     <td align="center">
       <a href="https://github.com/uwaisalqadri">
@@ -194,11 +194,11 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/uwaisalqadri">Uwais Alqadri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/withLinda">
-        <img src="https://avatars2.githubusercontent.com/u/82918531" width="100px;" alt="withLinda"/>
+      <a href="https://github.com/darioalessandro">
+        <img src="https://avatars2.githubusercontent.com/u/1176339" width="100px;" alt="darioalessandro"/>
       </a>
       <br />
-      <a href="https://github.com/withLinda">Linda</a>
+      <a href="https://github.com/darioalessandro">Dario A Lencina-Talarico</a>
     </td>
     <td align="center">
       <a href="https://github.com/Elijas">
@@ -238,6 +238,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/razinsyakib">Muhammad Razin Syakib</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xdemocle">
+        <img src="https://avatars2.githubusercontent.com/u/4141466" width="100px;" alt="xdemocle"/>
+      </a>
+      <br />
+      <a href="https://github.com/xdemocle">Rocco Russo</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
@@ -250,13 +257,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/kamranhossain">Kamran Hossain</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xdemocle">
-        <img src="https://avatars2.githubusercontent.com/u/4141466" width="100px;" alt="xdemocle"/>
-      </a>
-      <br />
-      <a href="https://github.com/xdemocle">Rocco Russo</a>
     </td>
     <td align="center">
       <a href="https://github.com/emRival">
