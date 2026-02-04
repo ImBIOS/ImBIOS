@@ -339,7 +339,7 @@
 - [magicismight/react-native-root-toast](https://github.com/magicismight/react-native-root-toast) - react native toast like component, pure javascript solution
 - [ImBIOS/GAS-CertificateCreationAndEmail](https://github.com/ImBIOS/GAS-CertificateCreationAndEmail) - Automated Certificate Generator & Email Sender with Google Apps Script
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|
+- [code-charity/ImprovedTube](https://github.com/code-charity/ImprovedTube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|
 - [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [ipenywis/your-react-boilerplate](https://github.com/ipenywis/your-react-boilerplate) - The Pro React Project Boilerplate you need https://youtu.be/nm8UWffANOc
 - [ImBIOS/story-app](https://github.com/ImBIOS/story-app) - This is a story app that allows users to create stories.
@@ -458,6 +458,8 @@
 
 ## Others 
 
+- [automazeio/claude-code-for-power-users](https://github.com/automazeio/claude-code-for-power-users) - From Autocomplete to AI Architect: Mastering Claude Code for Professional Development
+- [automazeio/open-royalties](https://github.com/automazeio/open-royalties) - The missing funding framework for bootstrappers, indie hackers, and creators
 - [ImBIOS/joss-reviews](https://github.com/ImBIOS/joss-reviews) - Reviews for the Journal of Open Source Software
 - [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews) - Reviews for the Journal of Open Source Software
 - [ImBIOS/contribute](https://github.com/ImBIOS/contribute) - Contribution guide for my projects
@@ -742,6 +744,7 @@
 
 ## Shell 
 
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - OpenClaw aka (Clawdbot, MoltBot) is an open agent platform that runs on your machine and works from the chat apps you already use. WhatsApp, Telegram, Discord, Slack, Teams—wherever you are, your AI a
 - [ImBIOS/mattermost-enterprise-arm](https://github.com/ImBIOS/mattermost-enterprise-arm) - Deploy Mattermost Enterprise on Raspberry Pi and ARM servers with Docker. Optimized builds for ARM64/ARMv7 with automated CI/CD.
 - [mattermost/docker](https://github.com/mattermost/docker) - Install Mattermost server via Docker
@@ -795,9 +798,11 @@
 
 ## TypeScript 
 
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
+- [ImBIOS/coding-helper](https://github.com/ImBIOS/coding-helper) - CLI tool and Claude Code plugin for managing Z.AI (GLM) and MiniMax API providers. Switch between providers, manage multiple accounts, track usage, and rotate API keys.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
