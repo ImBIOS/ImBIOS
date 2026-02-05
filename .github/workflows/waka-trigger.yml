@@ -10,8 +10,6 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      # TODO: after repo is maintained properly, change to ImBIOS
-      # - uses: anmol098/waka-readme-stats@master
       - uses: ImBIOS/waka-readme-stats@master
         with:
           SHOW_PROJECTS: "False" # optional
