@@ -157,6 +157,7 @@
 
 ## Go 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [coollabsio/coolify-cli](https://github.com/coollabsio/coolify-cli) - CLI for Coolify
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
@@ -235,6 +236,7 @@
 
 ## Java 
 
+- [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) - A Capacitor plugin that sends you geolocation updates, even while the app is in the background.
 - [ImBIOS/Telegram](https://github.com/ImBIOS/Telegram) - Telegram for Android source
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
@@ -802,7 +804,6 @@
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
-- [ImBIOS/coding-helper](https://github.com/ImBIOS/coding-helper) - CLI tool and Claude Code plugin for managing Z.AI (GLM) and MiniMax API providers. Switch between providers, manage multiple accounts, track usage, and rotate API keys.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
