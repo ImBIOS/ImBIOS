@@ -7,6 +7,7 @@
 
 - [Arduino](#arduino)
 - [Astro](#astro)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -57,6 +58,10 @@
 ## Astro 
 
 - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source.
+
+## Bru 
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -718,7 +723,7 @@
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [ImBIOS/lorust](https://github.com/ImBIOS/lorust) - Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconferencing system written in rust
+- [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - media streaming framework and teleconferencing system written in rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [Xudong-Huang/may_minihttp](https://github.com/Xudong-Huang/may_minihttp) - mini http implemented on top of may
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -1130,7 +1135,6 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [n4ze3m/lol](https://github.com/n4ze3m/lol) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [sefininio/microservices-realworld-app](https://github.com/sefininio/microservices-realworld-app) - A realworld app implementation using nx, nest.js & graphql using a micro-services approach
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
