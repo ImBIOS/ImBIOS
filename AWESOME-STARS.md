@@ -908,7 +908,7 @@
 - [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
-- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
+- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and serialiser for JavaScript
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [ImBIOS/tab-trackr](https://github.com/ImBIOS/tab-trackr) - A powerful Chrome extension for productivity tracking and team collaboration. Track browsing time, analyze productivity patterns, and collaborate with remote teams. Built with React, TypeScript, Supab
