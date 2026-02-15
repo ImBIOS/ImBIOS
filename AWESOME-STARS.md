@@ -455,7 +455,7 @@
 ## Nunjucks 
 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Objective-C 
 
@@ -554,6 +554,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ImBIOS/spec-kit](https://github.com/ImBIOS/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ImBIOS/Agentic-Web-Interfaces-concierge](https://github.com/ImBIOS/Agentic-Web-Interfaces-concierge) - Declarative framework for building Agentic AI Services. Build powerful AI apps allowing Agents to navigate, interact and transact with your service.
+- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - 🚀 The fabric for building next gen MCP apps
 - [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a free local self hosted video compressor webui designed for performance and ease of use. inspired by 8mb.video
 - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) - A clean, modular SDK for building AI agents with OpenHands V1.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -866,7 +867,6 @@
 - [nrwl/typecheck-timings](https://github.com/nrwl/typecheck-timings) - 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
-- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - The fabric for building next gen MCP apps
 - [auth0-lab/a0-components](https://github.com/auth0-lab/a0-components) - 
 - [chaance/vitest-axe](https://github.com/chaance/vitest-axe) - Custom Vitest matcher for testing accessibility with aXe. Forked from jest-axe.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
