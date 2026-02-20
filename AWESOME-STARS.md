@@ -555,7 +555,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ImBIOS/spec-kit](https://github.com/ImBIOS/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ImBIOS/Agentic-Web-Interfaces-concierge](https://github.com/ImBIOS/Agentic-Web-Interfaces-concierge) - Declarative framework for building Agentic AI Services. Build powerful AI apps allowing Agents to navigate, interact and transact with your service.
-- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - 🚀 The reliability layer for building next gen MCP apps
+- [concierge-hq/concierge](https://github.com/concierge-hq/concierge) - 🚀 The reliability layer for building next gen MCP servers
 - [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a free local self hosted video compressor webui designed for performance and ease of use. inspired by 8mb.video
 - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) - A clean, modular SDK for building AI agents with OpenHands V1.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -643,7 +643,6 @@
 ## Ruby 
 
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
-- [antiwork/flexile](https://github.com/antiwork/flexile) - Contractor payments
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 - [infertux/bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -1066,7 +1065,7 @@
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [planetscale/figma-diagram-generator](https://github.com/planetscale/figma-diagram-generator) - Code to go along with the figma DB diagram creator video
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [ImBIOS/lab-t3-todo](https://github.com/ImBIOS/lab-t3-todo) - A full-stack todo app built with T3 Stack
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
