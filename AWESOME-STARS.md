@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [axelmarciano/expo-open-ota](https://github.com/axelmarciano/expo-open-ota) - An open-source self-hosted custom updates server implementing the Expo Updates protocol, built for production. Supports cloud storage & CDN.
 - [yahsan2/gh-sub-issue](https://github.com/yahsan2/gh-sub-issue) - GitHub CLI extension for managing sub-issues (child issues)
@@ -818,6 +819,9 @@
 
 ## TypeScript 
 
+- [ImBIOS/Dokploy-templates](https://github.com/ImBIOS/Dokploy-templates) - All the open source templates integrated to dokploy 🚀
+- [Dokploy/templates](https://github.com/Dokploy/templates) - All the open source templates integrated to dokploy 🚀
+- [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [ImBIOS/dokploy](https://github.com/ImBIOS/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
