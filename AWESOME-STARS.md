@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [axelmarciano/expo-open-ota](https://github.com/axelmarciano/expo-open-ota) - An open-source self-hosted custom updates server implementing the Expo Updates protocol, built for production. Supports cloud storage & CDN.
@@ -619,7 +620,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
@@ -658,7 +659,7 @@
 
 ## Rust 
 
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 497 models. 133 providers. One command to find what runs on your hardware.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [ImBIOS/versionlens](https://github.com/ImBIOS/versionlens) - Display version information for dependencies in package files
 - [zed-industries/package-version-server](https://github.com/zed-industries/package-version-server) - A language server that handles hover information in package.json files
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -819,6 +820,8 @@
 
 ## TypeScript 
 
+- [ImBIOS/agent-browser](https://github.com/ImBIOS/agent-browser) - Browser automation CLI for AI agents
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [ImBIOS/Dokploy-templates](https://github.com/ImBIOS/Dokploy-templates) - All the open source templates integrated to dokploy 🚀
 - [Dokploy/templates](https://github.com/Dokploy/templates) - All the open source templates integrated to dokploy 🚀
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
