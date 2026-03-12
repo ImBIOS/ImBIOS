@@ -97,6 +97,8 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   <img width="45%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13218717?theme=dark&website=true&location=true" alt="user:13218717's SO profile">
 </a>
 
+<img src="https://algora.io/og/user/ImBIOS" />
+
 <figure><embed src="https://wakatime.com/share/@ImBIOS/0a978ca4-c91f-4329-85dd-2534dfc585c9.svg"></embed></figure>
 
 <!-- <div>
