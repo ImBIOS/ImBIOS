@@ -433,7 +433,6 @@
 
 ## MDX 
 
-- [Dokploy/website](https://github.com/Dokploy/website) - Website & Docs Monorepo
 - [logchimp/docs](https://github.com/logchimp/docs) - 
 - [tyaga001/devtoolsacademy](https://github.com/tyaga001/devtoolsacademy) - everything about awesome developer tools
 - [ImBIOS/teamhanko-docs](https://github.com/ImBIOS/teamhanko-docs) - The Hanko documentation
@@ -845,6 +844,7 @@
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [ImBIOS/dokploy](https://github.com/ImBIOS/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [Dokploy/website](https://github.com/Dokploy/website) - Website & Docs Monorepo
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [opral/paraglide-js](https://github.com/opral/paraglide-js) - Compiler-based i18n library that emits tree-shakable translations, leading to up to 70% smaller bundle sizes.
