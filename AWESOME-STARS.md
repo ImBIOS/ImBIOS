@@ -725,7 +725,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [zzzze/tauri-plugin-spotlight](https://github.com/zzzze/tauri-plugin-spotlight) - 
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -780,7 +780,7 @@
 
 - [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) - Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails
 - [Dicklesworthstone/acip](https://github.com/Dicklesworthstone/acip) - The Advanced Cognitive Inoculation Prompt
-- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 - [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - OpenClaw aka (Clawdbot, MoltBot) is an open agent platform that runs on your machine and works from the chat apps you already use. WhatsApp, Telegram, Discord, Slack, Teams—wherever you are, your AI a
 - [ImBIOS/mattermost-enterprise-arm](https://github.com/ImBIOS/mattermost-enterprise-arm) - Deploy Mattermost Enterprise on Raspberry Pi and ARM servers with Docker. Optimized builds for ARM64/ARMv7 with automated CI/CD.
 - [mattermost/docker](https://github.com/mattermost/docker) - Install Mattermost server via Docker
@@ -833,6 +833,8 @@
 
 ## TypeScript 
 
+- [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
