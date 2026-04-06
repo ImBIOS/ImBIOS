@@ -579,7 +579,7 @@
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [ImBIOS/IDN-Homograph-Generator](https://github.com/ImBIOS/IDN-Homograph-Generator) - Generate IDN homographs and phishing domains
 - [varrickkoh/IDN-Homograph-Generator](https://github.com/varrickkoh/IDN-Homograph-Generator) - Generate IDN homographs and phishing domains
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
@@ -849,7 +849,7 @@
 - [ImBIOS/opencode](https://github.com/ImBIOS/opencode) - The open source coding agent.
 - [ImBIOS/swarm-tools](https://github.com/ImBIOS/swarm-tools) - Multi-agent swarm coordination for OpenCode with learning capabilities, beads integration, and Agent Mail
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
-- [millionco/expect](https://github.com/millionco/expect) - Expect tests your app in a browser so you don't have to.
+- [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
