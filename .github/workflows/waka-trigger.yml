@@ -10,15 +10,31 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - name: Restore repo cache
+        uses: actions/cache@v4
+        with:
+          path: .repo_cache
+          key: repo-cache-${{ github.run_id }}
+          restore-keys: |
+            repo-cache-
+
       - uses: ImBIOS/waka-readme-stats@master
         with:
-          SHOW_PROJECTS: "False" # optional
+          SHOW_PROJECTS: "False"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          ### content
-          SECTION_NAME: CodingStats # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          SECTION_NAME: CodingStats
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          FETCH_DEFAULT_BRANCH_ONLY: "True"
+          MAX_CONCURRENCY: "4"
+
+      - name: Save repo cache
+        if: always()
+        uses: actions/cache@v4
+        with:
+          path: .repo_cache
+          key: repo-cache-${{ github.run_id }}
+
   rerun-failed-jobs:
     runs-on: ubuntu-latest
     needs: [update-readme]
