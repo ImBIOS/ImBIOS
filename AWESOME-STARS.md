@@ -74,7 +74,7 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -554,6 +554,7 @@
 
 ## Python 
 
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -676,6 +677,7 @@
 
 ## Rust 
 
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [ImBIOS/forgecode](https://github.com/ImBIOS/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -848,6 +850,8 @@
 
 ## TypeScript 
 
+- [proxysoul/soulforge](https://github.com/proxysoul/soulforge) - Graph-powered code intelligence, multi-agent coding with codebase-aware AI. No more grep & pray
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [ImBIOS/boneyard](https://github.com/ImBIOS/boneyard) - Auto generated skeleton loading framework
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
@@ -1264,7 +1268,7 @@
 - [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - A playground to explore Next.js features such as nested layouts, instant loading states, streaming, and component level data fetching.
 - [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile) - Github Action to create a .env file with Github Secrets
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
