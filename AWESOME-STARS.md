@@ -960,7 +960,7 @@
 - [ImBIOS/tablecn](https://github.com/ImBIOS/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated, battery-conscious background-geolocation with motion-detection
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
 - [ali-master/uuidv47](https://github.com/ali-master/uuidv47) - Reversible UUID v4/v7 transformation using SipHash-2-4 cryptography. Hide time-ordering from external APIs while maintaining internal chronological benefits.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
@@ -1068,7 +1068,7 @@
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [ImBIOS/thymer-in-a-nextshell](https://github.com/ImBIOS/thymer-in-a-nextshell) - 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [Redocly/warp-multi-sidebars](https://github.com/Redocly/warp-multi-sidebars) - Template with API and multiple sidebars
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
