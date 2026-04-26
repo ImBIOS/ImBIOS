@@ -165,6 +165,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [smhanov/auth](https://github.com/smhanov/auth) - Boring user authentication code for golang
 - [qf-studio/pilot](https://github.com/qf-studio/pilot) - #1 Terminal Benchmark 2.0 — AI that ships your tickets.
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
@@ -798,6 +799,7 @@
 
 ## Shell 
 
+- [ImBIOS/environment](https://github.com/ImBIOS/environment) - Portable Zsh dotfiles, shell configuration, and system package tracking for Ubuntu/Debian. Uses GNU Stow, Starship, zplug, and per-machine apt package lists.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [ImBIOS/peon-ping](https://github.com/ImBIOS/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
