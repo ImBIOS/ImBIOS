@@ -1,4 +1,4 @@
-name: Blog Posts
+name: Update README
 
 on:
   schedule:
@@ -6,21 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-posts:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          submodules: recursive
       - uses: oven-sh/setup-bun@v1
-      - name: Update post list
+      - name: Update blog posts and products
         run: |
           bun install --frozen-lockfile
           bun src/list-posts.ts
+          bun src/list-products.ts
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update blog posts"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "Update README sections"
       - name: Pull changes
         run: git pull -r
       - name: Push changes

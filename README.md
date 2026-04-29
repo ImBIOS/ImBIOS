@@ -38,41 +38,43 @@
 ## 📝 Recommended Blog Posts
 
 <!--START_SECTION:blog-posts-->
-- 2024-02-05 [Unraveling the Common Characters Challenge: A TypeScript Tale](https://blog.imbios.dev/blog/2024/02/05/unraveling-the-common-characters-challenge-a-typescript-tale?utm_source=GitHubProfile)
-- 2023-10-02 [Complete Guide to Deploying Next.js Standalone with Bun and Docker](https://blog.imbios.dev/blog/2023/10/02/complete-guide-to-deploying-nextjs-standalone-with-bun-and-docker?utm_source=GitHubProfile)
-- 2023-05-02 [Why is it so hard to create PWA with Next.js?](https://blog.imbios.dev/blog/2023/05/02/why-is-it-so-hard-to-create-pwa-with-nextjs?utm_source=GitHubProfile)
-- 2023-04-23 [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://blog.imbios.dev/blog/2023/04/23/how-i-made-a-reminder-to-write-a-blog-post-using-github-action?utm_source=GitHubProfile)
-- 2023-04-13 [3 Scalable Next.js Architecture Boilerplate](https://blog.imbios.dev/blog/2023/04/13/3-scalable-nextjs-architecture-boilerplate?utm_source=GitHubProfile)
+- 2025-09-02 [From Zero to Security Contributor: Building a CVE-2020-0610 BlueGate Detection Lab](https://blog.imbios.dev/blog/en/from-zero-to-security-contributor-building-a-cve-2020-0610-bluegate-detection-lab?utm_source=GitHubProfile)
+- 2025-01-15 [My LeetCode 41 Obsession: A Deep Dive into the First Missing Positive Puzzle](https://blog.imbios.dev/blog/en/leetcode-41?utm_source=GitHubProfile)
+- 2024-02-05 [Unraveling the Common Characters Challenge: A TypeScript Tale](https://blog.imbios.dev/blog/en/unraveling-the-common-characters-challenge-a-typescript-tale?utm_source=GitHubProfile)
+- 2022-11-15 [JavaScript Hashmap: Performant Key-Value Pair](https://blog.imbios.dev/blog/en/javascript-hashmap-performant-key-value-pair?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ## 🎁 Several Products
 
 I love to dogfood what I built. Passionate to build products that can help people.
 
-<!-- ### 📚 Book Products
-
-TODO: Write a book LOL -->
-
+<!--START_SECTION:products-->
 ### 💻 App Products
 
-- [😃 Gitmemoji](https://github.com/ImBIOS/gitmemoji), a web quiz game to learn gitmoji.
-- [🎙️ Remute](https://github.com/ImBIOS/remute), use the touch bar app to mute/unmute your microphone, or just use the shortcut on any Mac.
-- [🗳️ Maktab](https://github.com/ImBIOS/idn-votes-vote), voting app for election.
-- [📦 Cardus App](https://github.com/ImBIOS/cardus-app), home warehouse management system.
+- [tailwind-color-filter-generator](https://tailwind-color-filter-generator.imbios.dev/), Generate custom css and tailwind filter property to achieve any target color 🎨
+- [gitmemoji](https://gitmemoji.imbios.dev/), An app to learn gitmoji emojis
 
 ### 🛠️ Tool Products
 
-- [waka-readme-stats](https://github.com/ImBIOS/waka-readme-stats), GitHub Action that dynamically updates your README with live WakaTime metrics and coding activity stats to showcase your coding journey.
-- [☁️ lcov-coverage-badge](https://github.com/ImBIOS/lcov-coverage-badge), A GitHub Action for creating markdown embeddable badges, saved to your repository, directly from an LCOV data file.
-- [🐇 imbios/bun-node](https://github.com/ImBIOS/bun-node), pre-configured Bun and Node.js docker images for seamless, optimized development and deployment.
-- [➡️ next-to-ts](https://github.com/ImBIOS/next-to-ts), codemod to convert Next.js JavaScript to TypeScript.
-- [📲 @imbios/next-pwa](https://github.com/ImBIOS/next-pwa), Zero Config [PWA](https://web.dev/learn/pwa/) Plugin for [Next.js](https://nextjs.org/) with appDir support
-- [➡️ @imbios/blogger-to-md](https://github.com/ImBIOS/blogger-to-md), convert [blogger.com](https://blogger.com) backup to markdown files.
-- [🏭 tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator), generate tailwind color filter from target color to transform any color to target color.
-- [🧱 prisma-armv7-builds](https://github.com/ImBIOS/prisma-armv7-builds), prisma for Raspi 3B or any armv7 32-bit architecture.
-- [♻️ i18n-num-in-words](https://github.com/ImBIOS/i18n-num-in-words), number utility to convert numbers to words in any language.
+- [bun-node](https://hub.docker.com/r/imbios/bun-node), Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
+- [lab-snake-reverse](https://imbios.github.io/lab-snake-reverse/), Run for your life! A reverse take on the classic Snake game where YOU are the apple and the AI snake is hunting you. Built with vanilla JS & A* Pathfinding.
+- [RNWidget](https://github.com/ImBIOS/RNWidget), Widgets using Expo and React Native for cross-platform mobile applications targeting Android and iOS.
+- [i18n-num-in-words](https://i18n-num-in-words-website.vercel.app), Number utility to convert number to words in any language.
+- [GAS-CertificateCreationAndEmail](https://docs.google.com/presentation/d/1p_UbJUK2OWdeYtZA5dcaGwPRHlPzo9hQ18RnDCYk364/edit?usp=sharing), Automated Certificate Generator & Email Sender with Google Apps Script
+- [monorepo-benchmarks](https://github.com/ImBIOS/monorepo-benchmarks), Benchmarking the experience of using monorepo tools - Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
+- [thiqah-ops](https://github.com/ImBIOS/thiqah-ops), AI SysAdmin Trust Benchmark - Comprehensive testing suite for evaluating LLM competence in system administration. Real-world scenarios covering setup, security, networking, monitoring, and troubleshooting.
+- [migrate-catalog](https://github.com/ImBIOS/migrate-catalog), CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
+- [NeStA-Picker](https://github.com/ImBIOS/NeStA-Picker), Pick your next Steam achievement fast (CLI) for Completionists
+- [avana-frontend-test](https://avana-frontend-test.netlify.app/), A project as a test for Frontend job application at Avana.id
+- [imbios-portfolio](https://imam.dev), 
+- [lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042), CVE-2016-15042 lab: Dockerized WordPress PoC for unauthenticated file upload in Frontend File Manager <4.0 and N‑Media Post Front‑end Form <1.1
+- [lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515), CVE-2025-3515 WordPress lab for Drag and Drop Multiple File Upload for CF7: Dockerized PoC & Nuclei testing
+- [mattermost-enterprise-arm](https://github.com/ImBIOS/mattermost-enterprise-arm), Deploy Mattermost Enterprise on Raspberry Pi and ARM servers with Docker. Optimized builds for ARM64/ARMv7 with automated CI/CD.
+- [react-component-count](https://github.com/ImBIOS/react-component-count), ⚡ Lightning-fast, memory-efficient CLI tool to count and analyze React components in any project. Optimized for performance with O(f/p×s) time complexity.
+- [waka-readme-stats](https://github.com/ImBIOS/waka-readme-stats), GitHub Action that dynamically updates your README with live WakaTime metrics and coding activity stats to showcase your coding journey
 
 [More inactive or small projects...](https://github.com/ImBIOS?tab=repositories&q=&type=public&language=&sort=stargazers)
+<!--END_SECTION:products-->
 
 If you'd like to discuss any sort of opportunity, feel free to [✉️ contact me](mailto:hi@imbios.dev). Or ask me anything at [Discussion](https://github.com/ImBIOS/ImBIOS/discussions/new/choose).
 
@@ -284,10 +286,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
-## 🌟 Projects Starred by Me
-
-[My Awesome Stars](AWESOME-STARS.md)
 
 ## 🔒 Pretty Good Privacy
 

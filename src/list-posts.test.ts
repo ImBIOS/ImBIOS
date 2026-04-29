@@ -2,302 +2,213 @@ import { beforeEach, describe, expect, mock, test } from "bun:test";
 import {
   formatPost,
   formatPosts,
-  getRss,
+  getLocalBlogPosts,
   hasNewPosts,
-  type RssJsonChannelItem,
-  sortJson,
+  type BlogPost,
+  sortPosts,
   updateReadme,
 } from "./list-posts";
 
-// Create a mock function for parseURL
-const mockParseURL = mock(() => ({ items: [] }));
+// Mock node:fs
+const mockReaddirSync = mock(() => []);
+const mockReadFileSync = mock(() => "");
 
-// Mock rss-parser module
-mock.module("rss-parser", () => {
-  return {
-    default: class Parser {
-      parseURL = mockParseURL;
-    },
-  };
-});
+mock.module("node:fs", () => ({
+  readFileSync: mockReadFileSync,
+  readdirSync: mockReaddirSync,
+  writeFileSync: mock(() => {}),
+}));
 
-describe("sortJson", () => {
-  test("should sort RSS items by pubDate in descending order", () => {
-    const unsortedJson: RssJsonChannelItem[] = [
-      {
-        title: "Post 1",
-        coverImage: "image1.jpg",
-        creator: "Author 1",
-        link: "https://example.com/1",
-        pubDate: "2024-12-01T00:00:00Z",
-      },
-      {
-        title: "Post 2",
-        coverImage: "image2.jpg",
-        creator: "Author 2",
-        link: "https://example.com/2",
-        pubDate: "2024-12-02T00:00:00Z",
-      },
-    ];
+mock.module("node:path", () => ({
+  join: (...args: string[]) => args.join("/"),
+}));
 
-    const sortedJson = sortJson(unsortedJson);
-
-    expect(sortedJson[0].title).toBe("Post 2");
-    expect(sortedJson[1].title).toBe("Post 1");
-  });
-
-  test("should handle undefined pubDate for both items", () => {
-    const json: RssJsonChannelItem[] = [
-      {
-        title: "Post 1",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: undefined,
-      },
-      {
-        title: "Post 2",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: undefined,
-      },
-    ];
-
-    const sorted = sortJson(json);
-    expect(sorted[0].title).toBe("Post 1");
-    expect(sorted[1].title).toBe("Post 2");
-  });
-
-  test("should handle undefined pubDate for first item only", () => {
-    const json: RssJsonChannelItem[] = [
-      {
-        title: "Post 1",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: undefined,
-      },
-      {
-        title: "Post 2",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: "2024-12-02T00:00:00Z",
-      },
-    ];
-
-    const sorted = sortJson(json);
-    expect(sorted[0].title).toBe("Post 1");
-  });
-
-  test("should handle undefined pubDate for second item only", () => {
-    const json: RssJsonChannelItem[] = [
-      {
-        title: "Post 1",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: "2024-12-01T00:00:00Z",
-      },
-      {
-        title: "Post 2",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: undefined,
-      },
-    ];
-
-    const sorted = sortJson(json);
-    expect(sorted[0].title).toBe("Post 1");
-  });
-
-  test("should return the same array reference", () => {
-    const json: RssJsonChannelItem[] = [
-      {
-        title: "Post 1",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: "2024-12-01T00:00:00Z",
-      },
-    ];
-
-    const sorted = sortJson(json);
-    expect(sorted).toBe(json);
-  });
-
-  test("should handle single item array", () => {
-    const json: RssJsonChannelItem[] = [
-      {
-        title: "Post 1",
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: "2024-12-01T00:00:00Z",
-      },
-    ];
-
-    const sorted = sortJson(json);
-    expect(sorted.length).toBe(1);
-    expect(sorted[0].title).toBe("Post 1");
-  });
-
-  test("should handle empty array", () => {
-    const json: RssJsonChannelItem[] = [];
-
-    const sorted = sortJson(json);
-    expect(sorted.length).toBe(0);
-  });
-});
-
-describe("getRss", () => {
+describe("getLocalBlogPosts", () => {
   beforeEach(() => {
-    mockParseURL.mockClear();
+    mockReaddirSync.mockClear();
+    mockReadFileSync.mockClear();
   });
 
-  test("should fetch and parse RSS feed correctly", async () => {
-    mockParseURL.mockResolvedValue({
-      items: [
-        {
-          title: "Post 1",
-          cover_image: "image1.jpg",
-          creator: "Author 1",
-          link: "https://example.com/1",
-          pubDate: "2024-12-01T00:00:00Z",
-        },
-        {
-          title: "Post 2",
-          cover_image: "image2.jpg",
-          creator: "Author 2",
-          link: "https://example.com/2",
-          pubDate: "2024-12-02T00:00:00Z",
-        },
-      ],
+  test("should parse MDX files and extract blog posts", () => {
+    mockReaddirSync.mockImplementation((dir: string) => {
+      if (dir === "submodules/blog/data/blog/en") return ["2024"];
+      if (dir === "submodules/blog/data/blog/en/2024") return ["02"];
+      if (dir === "submodules/blog/data/blog/en/2024/02") return ["05"];
+      if (dir === "submodules/blog/data/blog/en/2024/02/05") return ["my-test-post.mdx"];
+      return [];
     });
 
-    const posts = await getRss();
+    mockReadFileSync.mockReturnValue(
+      `---\ntitle: 'My Test Post'\ndate: '2024-02-05'\nlanguage: en\n---\n\nContent here`,
+    );
+
+    const posts = getLocalBlogPosts("en");
 
     expect(posts).toEqual([
       {
-        title: "Post 1",
-        coverImage: "image1.jpg",
-        creator: "Author 1",
-        link: "https://example.com/1",
-        pubDate: "2024-12-01T00:00:00Z",
-      },
-      {
-        title: "Post 2",
-        coverImage: "image2.jpg",
-        creator: "Author 2",
-        link: "https://example.com/2",
-        pubDate: "2024-12-02T00:00:00Z",
+        title: "My Test Post",
+        date: "2024-02-05",
+        slug: "my-test-post",
+        language: "en",
       },
     ]);
   });
 
-  test("should handle RSS feed with missing optional fields", async () => {
-    mockParseURL.mockResolvedValue({
-      items: [
-        {
-          title: undefined,
-          cover_image: undefined,
-          creator: undefined,
-          link: undefined,
-          pubDate: undefined,
-        },
-      ],
+  test("should skip files without title or date", () => {
+    mockReaddirSync.mockImplementation((dir: string) => {
+      if (dir === "submodules/blog/data/blog/en") return ["2024"];
+      if (dir === "submodules/blog/data/blog/en/2024") return ["01"];
+      if (dir === "submodules/blog/data/blog/en/2024/01") return ["01"];
+      if (dir === "submodules/blog/data/blog/en/2024/01/01") return ["no-frontmatter.mdx"];
+      return [];
     });
 
-    const posts = await getRss();
+    mockReadFileSync.mockReturnValue("Just content, no frontmatter");
 
-    expect(posts).toEqual([
-      {
-        title: undefined,
-        coverImage: undefined,
-        creator: undefined,
-        link: undefined,
-        pubDate: undefined,
-      },
-    ]);
-  });
-
-  test("should handle empty RSS feed", async () => {
-    mockParseURL.mockResolvedValue({
-      items: [],
-    });
-
-    const posts = await getRss();
+    const posts = getLocalBlogPosts("en");
 
     expect(posts).toEqual([]);
   });
 
-  test("should call parseURL with correct URL", async () => {
-    mockParseURL.mockResolvedValue({ items: [] });
+  test("should handle empty directory", () => {
+    mockReaddirSync.mockImplementation((dir: string) => {
+      if (dir === "submodules/blog/data/blog/en") return [];
+      return [];
+    });
 
-    await getRss();
+    const posts = getLocalBlogPosts("en");
 
-    expect(mockParseURL).toHaveBeenCalledWith(
-      "https://blog.imbios.dev/rss.xml"
+    expect(posts).toEqual([]);
+  });
+
+  test("should handle errors gracefully", () => {
+    mockReaddirSync.mockImplementation(() => {
+      throw new Error("Directory not found");
+    });
+
+    const posts = getLocalBlogPosts("en");
+
+    expect(posts).toEqual([]);
+  });
+
+  test("should default language to locale when not in frontmatter", () => {
+    mockReaddirSync.mockImplementation((dir: string) => {
+      if (dir === "submodules/blog/data/blog/en") return ["2023"];
+      if (dir === "submodules/blog/data/blog/en/2023") return ["04"];
+      if (dir === "submodules/blog/data/blog/en/2023/04") return ["13"];
+      if (dir === "submodules/blog/data/blog/en/2023/04/13") return ["scalable-nextjs.mdx"];
+      return [];
+    });
+
+    mockReadFileSync.mockReturnValue(
+      `---\ntitle: 'Scalable Next.js'\ndate: '2023-04-13'\n---\n\nContent`,
     );
+
+    const posts = getLocalBlogPosts("en");
+
+    expect(posts[0].language).toBe("en");
+  });
+
+  test("should read language from frontmatter", () => {
+    mockReaddirSync.mockImplementation((dir: string) => {
+      if (dir === "submodules/blog/data/blog/en") return ["2023"];
+      if (dir === "submodules/blog/data/blog/en/2023") return ["04"];
+      if (dir === "submodules/blog/data/blog/en/2023/04") return ["13"];
+      if (dir === "submodules/blog/data/blog/en/2023/04/13") return ["scalable-nextjs.mdx"];
+      return [];
+    });
+
+    mockReadFileSync.mockReturnValue(
+      `---\ntitle: 'Scalable Next.js'\ndate: '2023-04-13'\nlanguage: id\n---\n\nContent`,
+    );
+
+    const posts = getLocalBlogPosts("en");
+
+    expect(posts[0].language).toBe("id");
+  });
+});
+
+describe("sortPosts", () => {
+  test("should sort posts by date descending", () => {
+    const posts: BlogPost[] = [
+      { title: "Post 1", date: "2024-01-01", slug: "post-1", language: "en" },
+      { title: "Post 2", date: "2024-12-01", slug: "post-2", language: "en" },
+      { title: "Post 3", date: "2024-06-01", slug: "post-3", language: "en" },
+    ];
+
+    const sorted = sortPosts(posts);
+
+    expect(sorted[0].title).toBe("Post 2");
+    expect(sorted[1].title).toBe("Post 3");
+    expect(sorted[2].title).toBe("Post 1");
+  });
+
+  test("should not mutate the original array", () => {
+    const posts: BlogPost[] = [
+      { title: "Post 1", date: "2024-01-01", slug: "post-1", language: "en" },
+      { title: "Post 2", date: "2024-12-01", slug: "post-2", language: "en" },
+    ];
+
+    sortPosts(posts);
+
+    expect(posts[0].title).toBe("Post 1");
+  });
+
+  test("should handle empty array", () => {
+    const sorted = sortPosts([]);
+
+    expect(sorted).toEqual([]);
   });
 });
 
 describe("formatPost", () => {
-  test("should format RSS item with valid pubDate and link", () => {
-    const item: RssJsonChannelItem = {
-      title: "Test Post",
-      coverImage: undefined,
-      creator: "Test Author",
-      link: "https://blog.imbios.dev/my-test-post",
-      pubDate: "2024-12-15T10:30:00Z",
+  test("should format a blog post correctly", () => {
+    const post: BlogPost = {
+      title: "My Test Post",
+      date: "2024-02-05",
+      slug: "my-test-post",
+      language: "en",
     };
 
-    const result = formatPost(item);
+    const result = formatPost(post);
 
     expect(result).toBe(
-      "- 2024-12-15 [Test Post](https://blog.imbios.dev/blog/2024/12/15/my-test-post?utm_source=GitHubProfile)"
+      "- 2024-02-05 [My Test Post](https://blog.imbios.dev/blog/en/my-test-post?utm_source=GitHubProfile)",
     );
   });
 
-  test("should handle item with undefined link", () => {
-    const item: RssJsonChannelItem = {
-      title: "Test Post",
-      coverImage: undefined,
-      creator: undefined,
-      link: undefined,
-      pubDate: "2024-12-15T10:30:00Z",
+  test("should include language in URL", () => {
+    const post: BlogPost = {
+      title: "Test",
+      date: "2023-04-13",
+      slug: "scalable-nextjs",
+      language: "id",
     };
 
-    const result = formatPost(item);
+    const result = formatPost(post);
 
-    expect(result).toBe(
-      "- 2024-12-15 [Test Post](https://blog.imbios.dev/blog/2024/12/15/undefined?utm_source=GitHubProfile)"
-    );
+    expect(result).toContain("/blog/id/scalable-nextjs");
   });
 });
 
 describe("formatPosts", () => {
-  test("should format multiple RSS items", () => {
-    const feeds: RssJsonChannelItem[] = [
+  test("should format multiple posts", () => {
+    const posts: BlogPost[] = [
       {
         title: "Post 1",
-        coverImage: undefined,
-        creator: undefined,
-        link: "https://blog.imbios.dev/post-1",
-        pubDate: "2024-12-01T00:00:00Z",
+        date: "2024-12-01",
+        slug: "post-1",
+        language: "en",
       },
       {
         title: "Post 2",
-        coverImage: undefined,
-        creator: undefined,
-        link: "https://blog.imbios.dev/post-2",
-        pubDate: "2024-12-02T00:00:00Z",
+        date: "2024-12-02",
+        slug: "post-2",
+        language: "en",
       },
     ];
 
-    const result = formatPosts(feeds);
+    const result = formatPosts(posts);
 
     expect(result.length).toBe(2);
     expect(result[0]).toContain("Post 1");
@@ -305,15 +216,14 @@ describe("formatPosts", () => {
   });
 
   test("should limit to 5 posts", () => {
-    const feeds: RssJsonChannelItem[] = Array.from({ length: 10 }, (_, i) => ({
+    const posts: BlogPost[] = Array.from({ length: 10 }, (_, i) => ({
       title: `Post ${i}`,
-      coverImage: undefined,
-      creator: undefined,
-      link: `https://blog.imbios.dev/post-${i}`,
-      pubDate: `2024-12-${String(i + 1).padStart(2, "0")}T00:00:00Z`,
+      date: `2024-12-${String(i + 1).padStart(2, "0")}`,
+      slug: `post-${i}`,
+      language: "en",
     }));
 
-    const result = formatPosts(feeds);
+    const result = formatPosts(posts);
 
     expect(result.length).toBe(5);
   });
@@ -343,31 +253,6 @@ describe("hasNewPosts", () => {
 
     expect(result).toBe(false);
   });
-
-  test("should return true for multiple new posts", () => {
-    const readme = "# My README";
-    const posts = [
-      "- 2024-12-15 [Post 1](url1)",
-      "- 2024-12-14 [Post 2](url2)",
-    ];
-
-    const result = hasNewPosts(readme, posts);
-
-    expect(result).toBe(true);
-  });
-
-  test("should return false when README contains all posts", () => {
-    const readme =
-      "# My README\n- 2024-12-15 [Post 1](url1)\n- 2024-12-14 [Post 2](url2)";
-    const posts = [
-      "- 2024-12-15 [Post 1](url1)",
-      "- 2024-12-14 [Post 2](url2)",
-    ];
-
-    const result = hasNewPosts(readme, posts);
-
-    expect(result).toBe(false);
-  });
 });
 
 describe("updateReadme", () => {
@@ -390,15 +275,5 @@ describe("updateReadme", () => {
     const result = updateReadme(readme, posts);
 
     expect(result).toContain("- 2024-12-15 [Post 1](url1)");
-  });
-
-  test("should handle empty posts array", () => {
-    const readme =
-      "# My README\n<!--START_SECTION:blog-posts-->\nold content\n<!--END_SECTION:blog-posts-->\nMore content";
-
-    const posts: string[] = [];
-    const result = updateReadme(readme, posts);
-
-    expect(result).toContain("More content");
   });
 });

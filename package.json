@@ -1,21 +1,21 @@
 {
   "name": "imbios",
   "devDependencies": {
-    "@biomejs/biome": "2.3.12",
     "@types/bun": "^1.0.0",
     "@types/node": "^24.0.0",
-    "husky": "^9.1.7",
+    "lefthook": "^2.1.6",
+    "oxfmt": "^0.47.0",
+    "oxlint": "^1.62.0",
     "rss-parser": "^3.13.0",
-    "typescript": "^5.9.3",
-    "ultracite": "7.1.1"
+    "typescript": "^5.9.3"
   },
   "scripts": {
-    "check": "ultracite check",
+    "check": "bun oxlint . && bun oxfmt --check .",
     "check-types": "tsc --noEmit",
-    "fix": "ultracite fix",
+    "fix": "bun oxlint --fix . && bun oxfmt --write .",
     "format:ws": "bun x syncpack@alpha format",
     "postinstall": "bun run format:ws",
-    "prepare": "husky",
+    "prepare": "which lefthook >/dev/null 2>&1 && lefthook install || echo 'lefthook not found, skipping hook install'",
     "test": "bun test",
     "test:coverage": "bun test --coverage"
   },
