@@ -2,10 +2,6 @@
 	path = submodules/private
 	url = git@github.com:ImBIOS/ImBIOS-private.git
 	branch = main
-[submodule "submodules/alsafa"]
-	path = submodules/alsafa
-	url = git@github.com:ImBIOS/alsafa.git
-	branch = master
 [submodule "submodules/notes"]
 	path = submodules/notes
 	url = git@github.com:ImBIOS/notes.git
@@ -13,8 +9,4 @@
 [submodule "submodules/blog"]
 	path = submodules/blog
 	url = git@github.com:ImBIOS/blog-imbios-dev.git
-	branch = main
-[submodule "submodules/www"]
-	path = submodules/www
-	url = git@github.com:ImBIOS/www-imbios-dev.git
 	branch = main
