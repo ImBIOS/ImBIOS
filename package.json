@@ -1,11 +1,11 @@
 {
   "name": "imbios",
   "devDependencies": {
-    "@types/bun": "^1.0.0",
-    "@types/node": "^24.0.0",
+    "@types/bun": "^1.3.14",
+    "@types/node": "^24.12.4",
     "lefthook": "^2.1.6",
     "oxfmt": "^0.47.0",
-    "oxlint": "^1.62.0",
+    "oxlint": "^1.64.0",
     "rss-parser": "^3.13.0",
     "typescript": "^5.9.3"
   },
