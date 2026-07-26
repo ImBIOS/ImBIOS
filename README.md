@@ -355,40 +355,40 @@ RoBNJbQajOS7WbteuSUkSR2aJQ==
 <summary>See my coding stats detail</summary>
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C861%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C894%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.5 MB Used in GitHub's Storage 
+> 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,060 Contributions in the Year 2026
+> 🏆 1,245 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 468 Public Repositories 
+> 📜 473 Public Repositories 
  > 
-> 🔑 162 Private Repositories 
+> 🔑 167 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9520 commits        ████████░░░░░░░░░░░░░░░░░   32.06 % 
-🌆 Daytime                6638 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-🌃 Evening                4145 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-🌙 Night                  9387 commits        ████████░░░░░░░░░░░░░░░░░   31.62 % 
+🌞 Morning                11942 commits       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+🌆 Daytime                10660 commits       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+🌃 Evening                4235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+🌙 Night                  14038 commits       █████████░░░░░░░░░░░░░░░░   34.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2093 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Tuesday                  3336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Wednesday                11243 commits       █████████░░░░░░░░░░░░░░░░   37.87 % 
-Thursday                 2316 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Friday                   6548 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Saturday                 2477 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Sunday                   1677 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Monday                   2178 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Tuesday                  3377 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Wednesday                19750 commits       ████████████░░░░░░░░░░░░░   48.32 % 
+Thursday                 2382 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Friday                   8864 commits        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Saturday                 2524 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Sunday                   1800 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 
 
@@ -398,30 +398,30 @@ Sunday                   1677 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-TypeScript               3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Python                   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Markdown                 2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+TypeScript               2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+JSON                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+PHP                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+CSS                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 🔥 Editors: 
-OpenCode                 6 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
-Zed                      4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Opencode Cli             4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Zed                      6 hrs 34 mins       ███████████████░░░░░░░░░░   59.94 % 
+Opencode Cli             2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+OpenCode                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Linux                    14 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               171 repos           ███████████░░░░░░░░░░░░░░   43.85 % 
-Python                   17 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Shell                    16 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Rust                     10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               175 repos           ███████████░░░░░░░░░░░░░░   43.32 % 
+Python                   19 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Shell                    17 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+PHP                      11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 
@@ -431,7 +431,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ImBIOS/ImBIOS/master/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 21:30:57 UTC
+ Last Updated on 26/07/2026 23:39:00 UTC
 <!--END_SECTION:CodingStats-->
 
 </details>
