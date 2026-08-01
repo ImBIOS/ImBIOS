@@ -212,18 +212,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/Drzaln">Doddy Rizal Novianto</a>
     </td>
     <td align="center">
-      <a href="https://github.com/razinsyakib">
-        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="razinsyakib"/>
-      </a>
-      <br />
-      <a href="https://github.com/razinsyakib">Muhammad Razin Syakib</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xdemocle">
         <img src="https://avatars2.githubusercontent.com/u/4141466" width="100px;" alt="xdemocle"/>
       </a>
       <br />
       <a href="https://github.com/xdemocle">Rocco Russo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/razinsyakib">
+        <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="razinsyakib"/>
+      </a>
+      <br />
+      <a href="https://github.com/razinsyakib">Muhammad Razin Syakib</a>
     </td>
     <td align="center">
       <a href="https://github.com/emRival">
@@ -240,13 +240,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kamranhossain">
-        <img src="https://avatars2.githubusercontent.com/u/19626317" width="100px;" alt="kamranhossain"/>
-      </a>
-      <br />
-      <a href="https://github.com/kamranhossain">Kamran Hossain</a>
     </td>
     <td align="center">
       <a href="https://github.com/hritik2002">
@@ -270,11 +263,11 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/fahminlb33">Fahmi Noor Fiqri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wagyufari">
-        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
+      <a href="https://github.com/DrEden33773">
+        <img src="https://avatars2.githubusercontent.com/u/96013437" width="100px;" alt="DrEden33773"/>
       </a>
       <br />
-      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
+      <a href="https://github.com/DrEden33773">Eden Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/sooluh">
@@ -282,6 +275,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/sooluh">Torch</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wagyufari">
+        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
+      </a>
+      <br />
+      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
   </tr>
 </table>
