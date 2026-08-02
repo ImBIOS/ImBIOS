@@ -9,7 +9,7 @@ const mockFetch = mock(() =>
   } as Response),
 );
 
-globalThis.fetch = mockFetch;
+globalThis.fetch = mockFetch as unknown as typeof fetch;
 
 describe("fetchProducts", () => {
   beforeEach(() => {
@@ -37,8 +37,8 @@ describe("fetchProducts", () => {
     const products = await fetchProducts();
 
     expect(products.length).toBe(1);
-    expect(products[0].name).toBe("my-tool");
-    expect(products[0].category).toBe("tool");
+    expect(products[0]!.name).toBe("my-tool");
+    expect(products[0]!.category).toBe("tool");
   });
 
   test("should exclude forked repos", async () => {
@@ -151,8 +151,8 @@ describe("fetchProducts", () => {
     const products = await fetchProducts();
 
     expect(products.length).toBe(2);
-    expect(products[0].category).toBe("app");
-    expect(products[1].category).toBe("tool");
+    expect(products[0]!.category).toBe("app");
+    expect(products[1]!.category).toBe("tool");
   });
 
   test("should sort products by stars descending", async () => {
@@ -185,8 +185,8 @@ describe("fetchProducts", () => {
 
     const products = await fetchProducts();
 
-    expect(products[0].name).toBe("high-stars");
-    expect(products[1].name).toBe("low-stars");
+    expect(products[0]!.name).toBe("high-stars");
+    expect(products[1]!.name).toBe("low-stars");
   });
 
   test("should use homepage URL when available", async () => {
@@ -209,7 +209,7 @@ describe("fetchProducts", () => {
 
     const products = await fetchProducts();
 
-    expect(products[0].url).toBe("https://my-tool.dev");
+    expect(products[0]!.url).toBe("https://my-tool.dev");
   });
 
   test("should fall back to html_url when no homepage", async () => {
@@ -232,7 +232,7 @@ describe("fetchProducts", () => {
 
     const products = await fetchProducts();
 
-    expect(products[0].url).toBe("https://github.com/ImBIOS/my-tool");
+    expect(products[0]!.url).toBe("https://github.com/ImBIOS/my-tool");
   });
 
   test("should handle API errors gracefully", async () => {

@@ -2,7 +2,7 @@ import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
-interface BlogPost {
+export interface BlogPost {
   title: string;
   date: string;
   slug: string;
@@ -42,10 +42,10 @@ export const getLocalBlogPosts = (locale = "en"): BlogPost[] => {
             const dateMatch = content.match(/^date:\s*['"](.+?)['"]/m);
             const langMatch = content.match(/^language:\s*(\w+)/m);
 
-            if (!titleMatch || !dateMatch) continue;
+            if (!titleMatch || !dateMatch || !titleMatch[1] || !dateMatch[1]) continue;
 
-            const title = titleMatch[1];
-            const date = dateMatch[1];
+            const title: string = titleMatch[1];
+            const date: string = dateMatch[1];
             const slug = file.replace(/\.mdx$/, "");
 
             posts.push({

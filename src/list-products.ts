@@ -80,7 +80,7 @@ export const fetchProducts = async (): Promise<Product[]> => {
       throw new Error(`GitHub API error: ${response.status}`);
     }
 
-    const repos: GitHubRepo[] = await response.json();
+    const repos = (await response.json()) as GitHubRepo[];
 
     const products: Product[] = [];
     for (const repo of repos) {

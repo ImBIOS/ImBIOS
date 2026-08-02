@@ -10,7 +10,7 @@ import {
 } from "./list-posts";
 
 // Mock node:fs
-const mockReaddirSync = mock(() => []);
+const mockReaddirSync = mock((_dir?: string) => [] as string[]);
 const mockReadFileSync = mock(() => "");
 
 mock.module("node:fs", () => ({
@@ -30,7 +30,7 @@ describe("getLocalBlogPosts", () => {
   });
 
   test("should parse MDX files and extract blog posts", () => {
-    mockReaddirSync.mockImplementation((dir: string) => {
+    mockReaddirSync.mockImplementation((dir?: string) => {
       if (dir === "submodules/blog/data/blog/en") return ["2024"];
       if (dir === "submodules/blog/data/blog/en/2024") return ["02"];
       if (dir === "submodules/blog/data/blog/en/2024/02") return ["05"];
@@ -55,7 +55,7 @@ describe("getLocalBlogPosts", () => {
   });
 
   test("should skip files without title or date", () => {
-    mockReaddirSync.mockImplementation((dir: string) => {
+    mockReaddirSync.mockImplementation((dir?: string) => {
       if (dir === "submodules/blog/data/blog/en") return ["2024"];
       if (dir === "submodules/blog/data/blog/en/2024") return ["01"];
       if (dir === "submodules/blog/data/blog/en/2024/01") return ["01"];
@@ -71,7 +71,7 @@ describe("getLocalBlogPosts", () => {
   });
 
   test("should handle empty directory", () => {
-    mockReaddirSync.mockImplementation((dir: string) => {
+    mockReaddirSync.mockImplementation((dir?: string) => {
       if (dir === "submodules/blog/data/blog/en") return [];
       return [];
     });
@@ -92,7 +92,7 @@ describe("getLocalBlogPosts", () => {
   });
 
   test("should default language to locale when not in frontmatter", () => {
-    mockReaddirSync.mockImplementation((dir: string) => {
+    mockReaddirSync.mockImplementation((dir?: string) => {
       if (dir === "submodules/blog/data/blog/en") return ["2023"];
       if (dir === "submodules/blog/data/blog/en/2023") return ["04"];
       if (dir === "submodules/blog/data/blog/en/2023/04") return ["13"];
@@ -106,11 +106,11 @@ describe("getLocalBlogPosts", () => {
 
     const posts = getLocalBlogPosts("en");
 
-    expect(posts[0].language).toBe("en");
+    expect(posts[0]!.language).toBe("en");
   });
 
   test("should read language from frontmatter", () => {
-    mockReaddirSync.mockImplementation((dir: string) => {
+    mockReaddirSync.mockImplementation((dir?: string) => {
       if (dir === "submodules/blog/data/blog/en") return ["2023"];
       if (dir === "submodules/blog/data/blog/en/2023") return ["04"];
       if (dir === "submodules/blog/data/blog/en/2023/04") return ["13"];
@@ -124,7 +124,7 @@ describe("getLocalBlogPosts", () => {
 
     const posts = getLocalBlogPosts("en");
 
-    expect(posts[0].language).toBe("id");
+    expect(posts[0]!.language).toBe("id");
   });
 });
 
@@ -138,9 +138,9 @@ describe("sortPosts", () => {
 
     const sorted = sortPosts(posts);
 
-    expect(sorted[0].title).toBe("Post 2");
-    expect(sorted[1].title).toBe("Post 3");
-    expect(sorted[2].title).toBe("Post 1");
+    expect(sorted[0]!.title).toBe("Post 2");
+    expect(sorted[1]!.title).toBe("Post 3");
+    expect(sorted[2]!.title).toBe("Post 1");
   });
 
   test("should not mutate the original array", () => {
@@ -151,7 +151,7 @@ describe("sortPosts", () => {
 
     sortPosts(posts);
 
-    expect(posts[0].title).toBe("Post 1");
+    expect(posts[0]!.title).toBe("Post 1");
   });
 
   test("should handle empty array", () => {
