@@ -90,7 +90,7 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
 
 <div>
   <a href="https://github.com/ImBIOS">
-    <img alt="ImBIOS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
+    <img alt="ImBIOS's Github Stats" src="https://github-stats-extended.vercel.app/api?username=ImBIOS&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark" />
   </a>
 </div>
 
