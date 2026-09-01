@@ -212,13 +212,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/Drzaln">Doddy Rizal Novianto</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xdemocle">
-        <img src="https://avatars2.githubusercontent.com/u/4141466" width="100px;" alt="xdemocle"/>
-      </a>
-      <br />
-      <a href="https://github.com/xdemocle">Rocco Russo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/razinsyakib">
         <img src="https://avatars2.githubusercontent.com/u/72656623" width="100px;" alt="razinsyakib"/>
       </a>
@@ -226,14 +219,28 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/razinsyakib">Muhammad Razin Syakib</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xdemocle">
+        <img src="https://avatars2.githubusercontent.com/u/4141466" width="100px;" alt="xdemocle"/>
+      </a>
+      <br />
+      <a href="https://github.com/xdemocle">Rocco Russo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xerx593">
+        <img src="https://avatars2.githubusercontent.com/u/294814" width="100px;" alt="xerx593"/>
+      </a>
+      <br />
+      <a href="https://github.com/xerx593">xerx593</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/emRival">
         <img src="https://avatars2.githubusercontent.com/u/90138726" width="100px;" alt="emRival"/>
       </a>
       <br />
       <a href="https://github.com/emRival">Rival</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
@@ -275,13 +282,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/sooluh">Torch</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wagyufari">
-        <img src="https://avatars2.githubusercontent.com/u/26292652" width="100px;" alt="wagyufari"/>
-      </a>
-      <br />
-      <a href="https://github.com/wagyufari">Muhammad Ghifari</a>
     </td>
   </tr>
 </table>
