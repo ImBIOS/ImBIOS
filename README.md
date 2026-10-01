@@ -242,6 +242,13 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/emRival">Rival</a>
     </td>
     <td align="center">
+      <a href="https://github.com/kamranhossain">
+        <img src="https://avatars2.githubusercontent.com/u/19626317" width="100px;" alt="kamranhossain"/>
+      </a>
+      <br />
+      <a href="https://github.com/kamranhossain">Kamran Hossain</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hkatzdev">
         <img src="https://avatars2.githubusercontent.com/u/44281159" width="100px;" alt="hkatzdev"/>
       </a>
@@ -249,18 +256,18 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       <a href="https://github.com/hkatzdev">Harrison Katz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hritik2002">
-        <img src="https://avatars2.githubusercontent.com/u/72138429" width="100px;" alt="hritik2002"/>
-      </a>
-      <br />
-      <a href="https://github.com/hritik2002">Hritik Sharma</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mwafrika">
         <img src="https://avatars2.githubusercontent.com/u/25848053" width="100px;" alt="mwafrika"/>
       </a>
       <br />
       <a href="https://github.com/mwafrika">MWAFRIKA MUFUNGIZI </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hritik2002">
+        <img src="https://avatars2.githubusercontent.com/u/72138429" width="100px;" alt="hritik2002"/>
+      </a>
+      <br />
+      <a href="https://github.com/hritik2002">Hritik Sharma</a>
     </td>
     <td align="center">
       <a href="https://github.com/fahminlb33">
@@ -275,13 +282,6 @@ If you'd like to discuss any sort of opportunity, feel free to [✉️ contact m
       </a>
       <br />
       <a href="https://github.com/DrEden33773">Eden Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sooluh">
-        <img src="https://avatars2.githubusercontent.com/u/20874779" width="100px;" alt="sooluh"/>
-      </a>
-      <br />
-      <a href="https://github.com/sooluh">Torch</a>
     </td>
   </tr>
 </table>
