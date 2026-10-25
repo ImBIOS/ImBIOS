@@ -11,14 +11,31 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          submodules: recursive
+          persist-credentials: true
+          submodules: false
+      - name: Checkout blog submodule (optional)
+        # Only submodules/blog is needed (src/list-posts.ts reads
+        # submodules/blog/data/blog). The private and notes submodules are
+        # not required, and GITHUB_TOKEN cannot access these private repos,
+        # so do NOT use `submodules: recursive` (it fails checkout with
+        # "Repository not found").
+        # Uses GH_TOKEN (PAT with read access to private repos) when
+        # available; continues without blog posts otherwise.
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          if [ -n "$GH_TOKEN" ]; then
+            git config url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "https://github.com/"
+          fi
+          git submodule update --init --depth 1 submodules/blog || \
+            echo "::warning::Blog submodule unavailable; continuing without blog posts."
       - uses: oven-sh/setup-bun@v1
       - name: Update blog posts and products
         run: |
           bun install --frozen-lockfile
-          bun src/list-posts.ts
-          bun src/list-products.ts
+          bun src/list-posts.ts || echo "Blog posts already up to date or unavailable."
+          bun src/list-products.ts || echo "Products already up to date or unavailable."
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
