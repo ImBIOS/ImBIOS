@@ -22,7 +22,13 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
+          # Submodule pointers must never be committed by automation: CI
+          # checkouts (shallow, no submodules) record local gitlink SHAs
+          # that don't exist upstream, permanently breaking every later
+          # `submodules: recursive` checkout (see Update README failure
+          # 2026-11-02: phantom 9ae7794 in submodules/private).
+          git reset -q -- submodules/ 2>/dev/null || true
+          git add -A -- ':!submodules'
           git diff-index --quiet HEAD || git commit -m "Update top followers"
       - name: Pull changes
         run: git pull -r

@@ -2,6 +2,7 @@
 	path = submodules/private
 	url = git@github.com:ImBIOS/ImBIOS-private.git
 	branch = main
+	update = none
 [submodule "submodules/notes"]
 	path = submodules/notes
 	url = git@github.com:ImBIOS/notes.git
