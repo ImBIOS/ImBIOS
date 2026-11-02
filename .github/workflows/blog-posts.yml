@@ -30,6 +30,14 @@ jobs:
             fi
           done
       - uses: oven-sh/setup-bun@v1
+      # Lefthook pre-commit (bun test, oxlint) would run on the bot's
+      # commit and fail on unrelated submodule test noise — the
+      # source-of-truth checks live in CI, not in this writer job.
+      - name: Disable automation-hostile hooks
+        run: |
+          git config --local core.hooksPath /dev/null
+          rm -f .git/modules/submodules/*/hooks/* 2>/dev/null || true
+          echo "LEFTHOOK=0" >> "$GITHUB_ENV"
       - name: Update blog posts and products
         run: |
           bun install --frozen-lockfile
