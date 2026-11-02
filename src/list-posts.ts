@@ -91,6 +91,12 @@ export const updateReadme = (readme: string, posts: string[]): string => {
 
 const main = () => {
   const posts = getLocalBlogPosts("en");
+  if (posts.length === 0) {
+    // Missing/empty blog submodule (e.g. PAT expired) is a degraded
+    // section, not a failed run — keep products updating.
+    console.log("No blog posts found (submodule missing?); leaving blog section untouched");
+    return;
+  }
   const sorted = sortPosts(posts);
   const formatted = formatPosts(sorted);
 

@@ -9,10 +9,26 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # Private submodules need a token that can actually read them.
+      # GITHUB_TOKEN only covers THIS repo, so `submodules: recursive`
+      # fails with "Repository not found" on every private submodule.
+      # The repo-level GH_TOKEN secret (classic PAT with `repo` scope)
+      # fixes it. Fallback when the PAT is missing/expired: build the
+      # README from the submodules that ARE available instead of failing
+      # the whole run — blog/product sections degrade, they don't die.
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           submodules: recursive
+      - name: Report submodule availability
+        run: |
+          for s in submodules/blog submodules/notes submodules/private; do
+            if [ -e "$s" ] && [ -n "$(ls -A "$s" 2>/dev/null)" ]; then
+              echo "$s: present"
+            else
+              echo "::warning::submodule $s missing (check GH_TOKEN scope/expiry); sections sourced from it will be skipped"
+            fi
+          done
       - uses: oven-sh/setup-bun@v1
       - name: Update blog posts and products
         run: |
