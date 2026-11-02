@@ -38,7 +38,8 @@
 ## 📝 Recommended Blog Posts
 
 <!--START_SECTION:blog-posts-->
-- 2025-09-02 [From Zero to Security Contributor: Building a CVE-2020-0610 BlueGate Detection Lab](https://blog.imbios.dev/blog/en/from-zero-to-security-contributor-building-a-cve-2020-0610-bluegate-detection-lab?utm_source=GitHubProfile)
+- 2026-06-18 [relay-patch: keep your fork in sync with upstream, AI-merges the diffs](https://blog.imbios.dev/blog/en/relay-patch-keep-your-fork-in-sync-with-upstream?utm_source=GitHubProfile)
+- 2025-09-03 [From Zero to Security Contributor: Building a CVE-2020-0610 BlueGate Detection Lab](https://blog.imbios.dev/blog/en/from-zero-to-security-contributor-building-a-cve-2020-0610-bluegate-detection-lab?utm_source=GitHubProfile)
 - 2025-01-15 [My LeetCode 41 Obsession: A Deep Dive into the First Missing Positive Puzzle](https://blog.imbios.dev/blog/en/leetcode-41?utm_source=GitHubProfile)
 - 2024-02-05 [Unraveling the Common Characters Challenge: A TypeScript Tale](https://blog.imbios.dev/blog/en/unraveling-the-common-characters-challenge-a-typescript-tale?utm_source=GitHubProfile)
 - 2022-11-15 [JavaScript Hashmap: Performant Key-Value Pair](https://blog.imbios.dev/blog/en/javascript-hashmap-performant-key-value-pair?utm_source=GitHubProfile)
@@ -52,7 +53,6 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 ### 💻 App Products
 
 - [tailwind-color-filter-generator](https://tailwind-color-filter-generator.imbios.dev/), Generate custom css and tailwind filter property to achieve any target color 🎨
-- [gitmemoji](https://gitmemoji.imbios.dev/), An app to learn gitmoji emojis
 
 ### 🛠️ Tool Products
 
@@ -61,16 +61,15 @@ I love to dogfood what I built. Passionate to build products that can help peopl
 - [RNWidget](https://github.com/ImBIOS/RNWidget), Widgets using Expo and React Native for cross-platform mobile applications targeting Android and iOS.
 - [i18n-num-in-words](https://i18n-num-in-words-website.vercel.app), Number utility to convert number to words in any language.
 - [GAS-CertificateCreationAndEmail](https://docs.google.com/presentation/d/1p_UbJUK2OWdeYtZA5dcaGwPRHlPzo9hQ18RnDCYk364/edit?usp=sharing), Automated Certificate Generator & Email Sender with Google Apps Script
+- [relay](https://github.com/ImBIOS/relay), Universal AI API proxy — hot-switch between any LLM provider (GitHub Copilot, OpenAI, Anthropic, Z.AI, MiniMax, DeepSeek, Groq, Ollama, and more) from any AI coding agent (Claude Code, ForgeCode, OpenAI Codex CLI, OpenCode, Cline, Aider, Continue)
 - [monorepo-benchmarks](https://github.com/ImBIOS/monorepo-benchmarks), Benchmarking the experience of using monorepo tools - Bazel, Gradle, Lage, Lerna, Nx, Pants, Rush, Turborepo
 - [thiqah-ops](https://github.com/ImBIOS/thiqah-ops), AI SysAdmin Trust Benchmark - Comprehensive testing suite for evaluating LLM competence in system administration. Real-world scenarios covering setup, security, networking, monitoring, and troubleshooting.
-- [migrate-catalog](https://github.com/ImBIOS/migrate-catalog), CLI tool for automating the migration of dependency versions from a centralized catalog in your pnpm-workspace.yaml file to all package.json files in a monorepo.
-- [NeStA-Picker](https://github.com/ImBIOS/NeStA-Picker), Pick your next Steam achievement fast (CLI) for Completionists
-- [avana-frontend-test](https://avana-frontend-test.netlify.app/), A project as a test for Frontend job application at Avana.id
-- [imbios-portfolio](https://imam.dev), 
-- [lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042), CVE-2016-15042 lab: Dockerized WordPress PoC for unauthenticated file upload in Frontend File Manager <4.0 and N‑Media Post Front‑end Form <1.1
-- [lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515), CVE-2025-3515 WordPress lab for Drag and Drop Multiple File Upload for CF7: Dockerized PoC & Nuclei testing
+- [lorust](https://crates.io/crates/lorust), Modern Rust utility library delivering modularity, performance & extras; or simply Rust version of Lodash
+- [belifoa](https://github.com/ImBIOS/belifoa), ⚡ High-performance, compact Linear client & MCP server for AI agents. Reduces prompt context payload by 70–80% with persistent auth, CLI, skills & git hooks.
+- [wordpress-server-benchmark](https://github.com/ImBIOS/wordpress-server-benchmark), The definitive WordPress Web Server Benchmark Suite. Compare OpenLiteSpeed vs Nginx vs Caddy vs Apache in Docker.
 - [mattermost-enterprise-arm](https://github.com/ImBIOS/mattermost-enterprise-arm), Deploy Mattermost Enterprise on Raspberry Pi and ARM servers with Docker. Optimized builds for ARM64/ARMv7 with automated CI/CD.
-- [react-component-count](https://github.com/ImBIOS/react-component-count), ⚡ Lightning-fast, memory-efficient CLI tool to count and analyze React components in any project. Optimized for performance with O(f/p×s) time complexity.
+- [sidekick](https://sidekick.imbios.dev), Every agent needs a sidekick to hold the phone — remote Xcode + cloud iOS/Android/TV for coding agents (CLI/skill/MCP, self-hostable)
+- [storegg](https://storegg-imbios.vercel.app/), a complex project in the form of a website top up game “STORE GG”
 - [waka-readme-stats](https://github.com/ImBIOS/waka-readme-stats), GitHub Action that dynamically updates your README with live WakaTime metrics and coding activity stats to showcase your coding journey
 
 [More inactive or small projects...](https://github.com/ImBIOS?tab=repositories&q=&type=public&language=&sort=stargazers)
